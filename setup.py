@@ -1,23 +1,11 @@
 from setuptools import setup
 # from pip.req import parse_requirements
 
-import os
-
 import aboutyou.api
 
 
-BASE = os.path.dirname(__file__)
-
-
-def readme():
-  return open(os.path.join(BASE, 'README.md')).read()
-
-# # parse_requirements() returns generator of pip.req.InstallRequirement objects
-# install_reqs = parse_requirements(os.path.join(BASE, 'requirements.txt'))
-
-# # reqs is a list of requirement
-# # e.g. ['django==1.5.1', 'mezzanine==1.4.6']
-# reqs = [str(ir.req) for ir in install_reqs]
+with open('README.rst') as src:
+  long_description = src.read()
 
 
 setup(
@@ -26,7 +14,7 @@ setup(
   version=aboutyou.api.VERSION,
   install_requires=['pylibmc>=1.3.0', 'PyYAML'],
   description='A connection to the aboutyou.de shop.',
-  long_description=readme(),
+  long_description=long_description,
   author='Arne Simon',
   author_email='arne.simon@slice-dice.de',
   license='MIT',

@@ -724,11 +724,17 @@ class ShopApi(object):
                 self.cache = pylibmc.Client(self.config.cache['hosts'],
                                             binary=True,
                                             behaviors={"tcp_nodelay": True, "ketama": True})
-                self.cache.get('TEST_TOKEN')
-                self.log.info('use memcached via pylibmc')
-            except:
+
+                try:
+                    self.cache.get('TEST_TOKEN')
+                    self.log.info('use memcached via pylibmc')
+                except pylibmc.ConnectionError:
+                    self.cache = None
+                    self.log.warn('no caching used')
+
+            except ImportError:
                 self.cache = None
-                self.log.exception('')
+                self.log.warn('no caching used')
 
     def __build_categories(self):
         tree = self.cache_get('categorytree')
@@ -751,16 +757,16 @@ class ShopApi(object):
         self.__categorytree = [build(node) for node in tree]
 
     def __build_facets(self):
-        facets = self.cache_get('facettypes')
+        # facets = self.cache_get('facettypes')
         response = self.cache_get('facets')
 
-        if facets:
+        if response:
             self.log.info('use cached facets')
         else:
-            facets = self.api.facettypes()
+            # facets = self.api.facettypes()
             response = self.api.facets([])["facet"]
 
-            self.cache_set('facettypes', facets)
+            # self.cache_set('facettypes', facets)
             self.cache_set('facets', response)
 
         self.__facet_map = {}

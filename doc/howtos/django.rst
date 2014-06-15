@@ -25,7 +25,7 @@ the entire application can access one instance.
         credentials = YAMLCredential('myconfig.yml')
         ABOUTYOU = ShopApi(credentials)
         ABOUTYOU_AUTH = Auth(credentials)
-    except:
+    except Exception:
         logger.exception('No AboutYou API!!!')
 
 
@@ -80,7 +80,7 @@ Search Template Tag
             prods = search.products[:20]
 
             return [buildproduct(p) for p in prods]
-        except:
+        except Exception:
             logger.exception('')
 
         return None
