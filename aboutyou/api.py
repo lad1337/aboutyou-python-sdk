@@ -34,6 +34,7 @@ class ApiException(Exception):
 def check_sessionid(sessionid):
     """
     .. note::
+
         We copied it from the php-sdk.
         Api seems to want, to have the session-id with a minimum length of
         five characters. This is not tested or validated.
