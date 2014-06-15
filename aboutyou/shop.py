@@ -26,7 +26,10 @@ class Node(object):
             raise ApiException("{} {}".format(obj["error_code"], obj["error_message"]))
 
     def __getattr__(self, name):
-        return self.obj[name]
+        try:
+            return self.obj[name]
+        except KeyError:
+            raise AttributeError(name)
 
     def __getitem__(self, idx):
         return self.obj[idx]
