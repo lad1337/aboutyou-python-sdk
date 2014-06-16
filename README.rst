@@ -51,6 +51,12 @@ If you want to build the documentation yourself.
 Change Log
 ----------
 
+- 1.0:
+    * Added Django backend and middleware
+    * Fixed configuration bug
+    * Cleand up project structure
+    * setup.py is not dependent on setuptools
+
 - 0.9
     * Is now Python 3 compatible.
     * Test cases with mocking.

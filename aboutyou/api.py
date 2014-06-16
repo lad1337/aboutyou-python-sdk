@@ -18,7 +18,7 @@ from .config import Config
 Api_VERSION = "1.1"
 """The version of the Api api which is supported."""
 
-VERSION = "0.9"
+VERSION = "1.0"
 """Version of the python shop SDK."""
 
 AUTHORS = [
