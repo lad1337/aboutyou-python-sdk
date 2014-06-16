@@ -2,7 +2,13 @@
 """
 :Author: Arne Simon [arne.simon@slice-dice.de]
 """
-from django.contrib.auth import authenticate, login
+import django.core.exceptions
+
+try:
+    from django.contrib.auth import authenticate, login
+except django.core.exceptions.ImproperlyConfigured:
+    pass
+
 import logging
 
 

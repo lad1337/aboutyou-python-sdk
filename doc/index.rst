@@ -16,7 +16,8 @@ Welcome to aboutyou-shop-sdk's documentation!
    auth
    config
    constants
-   django
+   django/backend
+   django/middleware
    shop
 
 
