@@ -16,6 +16,7 @@ Welcome to aboutyou-shop-sdk's documentation!
    auth
    config
    constants
+   django
    shop
 
 

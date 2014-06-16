@@ -15,12 +15,14 @@ def test_yaml_credentials():
     cred = YAMLCredentials('test/data/credentials.yml')
 
     assert cred.authorization == 'Basic MjAwOjU2Nzg='
+    assert cred.endpoint == 'live'
 
 
 def test_json_credentials():
     cred = JSONCredentials('test/data/credentials.json')
 
     assert cred.authorization == 'Basic MjAwOjU2Nzg='
+    assert cred.endpoint == 'live'
 
 
 def test_config():

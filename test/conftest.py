@@ -13,7 +13,7 @@ from aboutyou.shop import ShopApi
 
 
 config = YAMLConfig('examples/config.yaml')
-credentials = YAMLCredentials('slice-dice.yaml')
+credentials = YAMLCredentials('test/data/credentials.yml')
 
 
 def read(filename):

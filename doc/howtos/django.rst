@@ -24,7 +24,7 @@ the entire application can access one instance.
 
         credentials = YAMLCredential('myconfig.yml')
         ABOUTYOU = ShopApi(credentials)
-        ABOUTYOU_AUTH = Auth(credentials)
+        AUTH = Auth(credentials)
     except Exception:
         logger.exception('No AboutYou API!!!')
 
