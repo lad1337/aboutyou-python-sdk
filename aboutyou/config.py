@@ -63,7 +63,7 @@ class JSONCredentials(Credentials):
             with open(filename) as src:
                 config = json.loads(src.read())
 
-                super(JSONCredentials, self).__init__(config['app_id'], config['app_secret'], config['app_token'])
+                super(JSONCredentials, self).__init__(config['app_id'], config['app_secret'], config['app_token'], config['endpoint'])
 
 
 class Config(object):
@@ -168,7 +168,7 @@ try:
             with open(filename) as src:
                 config = yaml.load(src.read())
 
-                super(YAMLCredentials, self).__init__(config['app_id'], config['app_secret'], config['app_token'])
+                super(YAMLCredentials, self).__init__(config['app_id'], config['app_secret'], config['app_token'], config['endpoint'])
 
 except ImportError:
     # No YAML config adn credentials :(

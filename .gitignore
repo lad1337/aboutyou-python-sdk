@@ -6,6 +6,7 @@
 __pycache__
 .tox
 dump.*
+build/*
 slice-dice.yaml
 110slicedice-config.json
 dist/*
