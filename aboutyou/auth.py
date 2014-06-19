@@ -41,7 +41,7 @@ class Auth(object):
         return url
 
 
-    def get_me(access_token):
+    def get_me(self, access_token):
         """
         Returns the user information to the corresponding Api access token.
 
@@ -64,7 +64,7 @@ class Auth(object):
             raise AuthException(response.content)
 
 
-    def get_access_token(email, password, redirect):
+    def get_access_token(self, email, password, redirect):
         """
         A dirty hack to get an access token right away.
 
