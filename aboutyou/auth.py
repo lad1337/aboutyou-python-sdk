@@ -28,7 +28,6 @@ class Auth(object):
 
         :param appid: The app id for which context the user will should generate an access token.
         :param redirect: An url to which the browser will be redirected after login.
-        :param shop_url: *Optional* The url to the login.
 
         .. note::
 
@@ -36,7 +35,7 @@ class Auth(object):
         """
         url = self.config.shop_url + "?client_id="
         url += str(self.credentials.app_id) + "&redirect_uri="
-        url += redirect + "&response_type=token&scope=firstname id lastname email"
+        url += redirect + "&response_type=token&scope=firstname+id+lastname+email"
 
         return url
 
