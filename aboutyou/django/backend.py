@@ -40,40 +40,67 @@ class AboutyouBackend(ModelBackend):
             'django.contrib.auth.backends.ModelBackend',
             'aboutyou.django.backend.AboutyouBackend',
         )
+
+    .. rubric:: Testing
+
+        For testing set in the following values in djangos settings.py
+
+    .. code-block:: python
+
+        API_TEST_TOKEN = hashlib.sha512('testing') # used as authentication token
+        API_TEST_USER = 1                          # The id of the user model which is associated with the test token
     """
     def authenticate(self, aboutyou_token=None):
         """
         :param aboutyou_token: The aboutyou access token.
         """
-        if aboutyou_token is not None:
+        user = None
+
+        if aboutyou_token == settings.API_TEST_TOKEN:
+                if settings.DEBUG:
+                    user = User.objects.get(pk=settings.API_TEST_USER)
+                else:
+                    logger.warn('some one tries to use the test token')
+        elif aboutyou_token is not None:
 
             data = settings.AUTH.get_me(aboutyou_token)
 
             if data:
-                user = None
 
                 try:
                     user, created = get_user_model().objects.get_or_create(aboutyou_id=data.get("id"))
 
                     # user.token = aboutyou_token
-                    user.email = data.get("email")
-                    user.first_name = data.get("firstname")
-                    user.last_name = data.get("lastname")
+                    firstname, lastname, email = data.get("firstname"), data.get("lastname"), data.get('email')
+
+                    if email:
+                        user.email = email
+
+                    if firstname:
+                        user.first_name = firstname
+
+                    if lastname:
+                        user.last_name = lastname
 
                     if created:
-                        user.username = "{}_{}.".format(data.get("firstname"), data.get("lastname")[0])
+                        firstname, lastname = data.get("firstname"), data.get("lastname")
+
+                        if firstname and lastname:
+                            user.username = "{}_{}.".format([0])
+                        elif firstname:
+                            user.username = firstname
 
                         logger.info("created user %s %s %s", user.aboutyou_id, user.username, user.email)
 
                     user.save()
 
                 except Exception:
-                    logger.exception('aboutyou_token')
+                    logger.exception('aboutyou_token: {}'.format(aboutyou_token))
                     user = None
 
-                if user is not None:
-                    logger.debug("authenticated user %s %s %s", user.aboutyou_id, user.username, user.email)
+        if user is not None:
+            logger.debug("authenticated user %s %s %s %s", user.id, user.aboutyou_id, user.username, user.email)
 
-                    return user
+            return user
 
 

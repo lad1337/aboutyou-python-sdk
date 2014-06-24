@@ -2,6 +2,7 @@
 """
 :Author:    Arne Simon [arne.simon@slice-dice.de]
 """
+import os
 import requests
 
 from .config import Config
@@ -78,25 +79,36 @@ class Auth(object):
         """
         headers = {
             "Content-Type": "text/plain;charset=UTF-8",
-            "User-Agent": self.config.agent,
+            "User-Agent": "Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36",
         }
 
         session = requests.Session()
-        response = session.get(login_url(self.credentials.app_id, redirect), headers=headers)
+        session.headers.update(headers)
+        response = session.get(self.login_url(redirect), verify=False)
 
         if response.status_code != 200:
             raise AuthException(response.content)
 
-        url = self.config.shop_url + '/login'
+        url = self.config.shop_url + 'login'
         data = {'LoginForm[email]': email, 'LoginForm[password]': password}
         params = {'avstdef': 2, 'client_id': 110, 'redirect_uri': redirect,
                     'scope': 'firstname+id+lastname+email', 'response_type': 'token'}
-        response = session.post(url, data=data, params=params, headers=headers)
+        response = session.post(url, data=data, params=params, verify=False)
 
         if response.status_code == 200:
-            data = response.url.split('#')[1]
-            values = dict((x.split('=') for x in data.split('&')))
+            data = response.url.split('#')
+            if len(data) == 2:
 
-            return values['access_token'], values['token_type']
+                values = dict((x.split('=') for x in data.split('&')))
+
+                return values['access_token'], values['token_type']
+            else:
+                # print session.headers
+                # print session.cookies
+                # print response.headers
+                # print response.cookies
+                # with open(os.path.abspath('/home/gojira/dump.auth.html'), 'w') as out:
+                #     out.write(response.content)
+                raise AuthException('could not reteive token')
         else:
             raise AuthException(response.content)
