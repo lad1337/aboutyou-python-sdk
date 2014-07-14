@@ -58,7 +58,7 @@ class AboutyouBackend(ModelBackend):
 
         if aboutyou_token == settings.API_TEST_TOKEN:
                 if settings.DEBUG:
-                    user = User.objects.get(pk=settings.API_TEST_USER)
+                    user = get_user_model().objects.get(pk=settings.API_TEST_USER)
                 else:
                     logger.warn('some one tries to use the test token')
         elif aboutyou_token is not None:
@@ -71,24 +71,13 @@ class AboutyouBackend(ModelBackend):
                     user, created = get_user_model().objects.get_or_create(aboutyou_id=data.get("id"))
 
                     # user.token = aboutyou_token
-                    firstname, lastname, email = data.get("firstname"), data.get("lastname"), data.get('email')
-
-                    if email:
-                        user.email = email
+                    firstname = data.get("firstname")
 
                     if firstname:
                         user.first_name = firstname
 
-                    if lastname:
-                        user.last_name = lastname
-
-                    if created:
-                        firstname, lastname = data.get("firstname"), data.get("lastname")
-
-                        if firstname and lastname:
-                            user.username = "{}_{}.".format([0])
-                        elif firstname:
-                            user.username = firstname
+                    if created and firstname:
+                        user.username = firstname
 
                         logger.info("created user %s %s %s", user.aboutyou_id, user.username, user.email)
 

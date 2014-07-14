@@ -51,6 +51,9 @@ If you want to build the documentation yourself.
 Change Log
 ----------
 
+- 1.0.1:
+    - Fixed bug in login url generation
+
 - 1.0:
     * Added Django backend and middleware
     * Fixed configuration bug
