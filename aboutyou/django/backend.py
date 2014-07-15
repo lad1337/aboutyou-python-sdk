@@ -81,7 +81,7 @@ class AboutyouBackend(ModelBackend):
                     user.save()
 
         except Exception:
-            logger.exception('access_token: {}'.format(grant_code))
+            logger.exception('access_token: {}'.format(access_token))
             user = None
 
         if user is not None:
