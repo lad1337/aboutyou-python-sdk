@@ -5,6 +5,7 @@
 import django.core.exceptions
 
 try:
+    from django.conf import settings
     from django.contrib.auth import authenticate, login
 except django.core.exceptions.ImproperlyConfigured:
     pass
@@ -32,25 +33,23 @@ class AboutyouMiddleware(object):
             ...
             'aboutyou.django.middleware.AboutyouMiddleware',
         )
+
+        AUTH_REDIRECT_PATH = '/redirect'
     """
     def process_request(self, request):
         try:
             if not request.user.is_authenticated():
                 token = None
 
-                # try to use the Authorization header
-                if "HTTP_AUTHORIZATION" in request.META:
-                    token = request.META["HTTP_AUTHORIZATION"].split(' ')[1]
-                    logger.debug('got Authorization Header token: %s', token)
-                else:
+                code = request.GET.get('code')
+                state = request.GET.get('state')
 
-                    # there is no authorization header so we look in the cookies
-                    if "aboutyou_access_token" in request.COOKIES:
-                        token = request.COOKIES["aboutyou_access_token"]
-                        logger.debug('got request cookie token: %s', token)
+                if code and state:
+                    redirect_uri = request.build_absolut_uri(settings.AUTH_REDIRECT_PATH)
 
-                if token:
-                    user = authenticate(aboutyou_token=token)
+                    access_token = settings.AUTH.access_token(code, redirect_uri)
+
+                    user = authenticate(access_token=access_token)
 
                     if user is not None and not user.is_anonymous():
                         login(request, user)
