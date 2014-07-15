@@ -38,17 +38,26 @@ class AboutyouMiddleware(object):
     """
     def process_request(self, request):
         try:
+            user = None
+
             if not request.user.is_authenticated():
-                token = None
+                access_token = None
 
-                code = request.GET.get('code')
-                state = request.GET.get('state')
+                # try to use the Authorization header
+                if "HTTP_AUTHORIZATION" in request.META:
+                    access_token = request.META["HTTP_AUTHORIZATION"].split(' ')[1]
+                    logger.debug('got Authorization Header token: %s', access_token)
+                else:
+                    code = request.GET.get('code')
+                    state = request.GET.get('state')
 
-                if code and state:
-                    redirect_uri = request.build_absolut_uri(settings.AUTH_REDIRECT_PATH)
+                    if code and state:
+                        redirect_uri = request.build_absolut_uri(settings.AUTH_REDIRECT_PATH)
 
-                    access_token = settings.AUTH.access_token(code, redirect_uri)
+                        access_token = settings.AUTH.access_token(code, redirect_uri)['access_token']
 
+
+                if access_token:
                     user = authenticate(access_token=access_token)
 
                     if user is not None and not user.is_anonymous():
