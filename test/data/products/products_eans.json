@@ -1,0 +1,66 @@
+[
+    {
+        "products_eans": {
+            "pageHash": "219952c6-d716-40f3-b5ee-397f14f5c6d8",
+            "eans": [
+                {
+                    "active": true,
+                    "styles": [],
+                    "variants": [
+                        {
+                            "ean": "8806159322381",
+                            "default": false,
+                            "price": 2999,
+                            "old_price": 0,
+                            "additional_info": {},
+                            "images": [
+                                {
+                                    "hash": "c47e6ab102491563bd6029010b38b4e0",
+                                    "image": {
+                                        "width": 672,
+                                        "height": 960
+                                    },
+                                    "mime": "image/jpeg",
+                                    "ext": ".jpg",
+                                    "size": 53216
+                                },
+                                {
+                                    "hash": "d71be754a10fbc1e848b1750158c0ef6",
+                                    "image": {
+                                        "width": 672,
+                                        "height": 960
+                                    },
+                                    "mime": "image/jpeg",
+                                    "ext": ".jpg",
+                                    "size": 95362
+                                }
+                            ],
+                            "attributes": {
+                                "attributes_2": [
+                                    4
+                                ],
+                                "attributes_0": [
+                                    174
+                                ],
+                                "attributes_1": [
+                                    15
+                                ]
+                            },
+                            "retail_price": 0,
+                            "id": 4822789,
+                            "quantity": 15
+                        }
+                    ],
+                    "id": 236057,
+                    "name": "sheego Rollkragenpullover"
+                },
+                {
+                    "active": true,
+                    "styles": [],
+                    "id": 1234,
+                    "name": "other Rollkragenpullover"
+                }
+            ]
+        }
+    }
+]

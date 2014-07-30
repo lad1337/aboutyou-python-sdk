@@ -1,0 +1,38 @@
+stage_url: "http://ant-core-staging-s-api1.wavecloud.de/api"
+live_url: "https://shop-api.aboutyou.de/api"
+agent: "Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36"
+image_url: "http://cdn.mary-paul.de/file/{}"
+product_url: "http://www.aboutyou.de/{}"
+shop_url: "https://checkout.aboutyou.de/"
+javascript_url: "http://devcenter.dev/appjs/{}.js"
+resource_url: "https://oauth.collins.kg/oauth"
+auto_fetch: True
+cache:
+    "hosts": ["127.0.0.1:11211"]
+    "timeout": 86400
+logging:
+    "version": 1
+    "disable_existing_loggers": false
+    "formatters":
+        "simple":
+            "format": "%(asctime)s |%(levelname)-7s | %(name)-20s | %(message)s"
+    "handlers":
+        "rotating":
+            "level": "DEBUG"
+            "class": "logging.handlers.TimedRotatingFileHandler"
+            "formatter": "simple"
+            "when": "midnight"
+            "filename": "aboutyou.log"
+        "graypy":
+            "level": "DEBUG"
+            "class": "graypy.GELFHandler"
+            "host": "localhost"
+            "port": 12201
+    "loggers":
+        "aboutyou":
+            "level": "DEBUG"
+            "handlers": ["rotating"]
+    "root":
+        "handlers": []
+        "level": "DEBUG"
+        "propagate": true

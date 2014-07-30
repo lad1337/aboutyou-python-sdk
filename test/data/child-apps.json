@@ -1,0 +1,64 @@
+[
+    {
+        "child_apps": {
+            "child_apps": {
+                "6": {
+                    "logo_url": "http://www.trachtenmode2013.de/img/tm_logo.jpg",
+                    "name": "Heidis Trachten",
+                    "url": "//www.trachtenmode2013.de",
+                    "privacy_statement_url": "http://www.trachtenmode2013.de/file/Datenschutz.pdf",
+                    "tos_url": "http://www.1-2-fashion.de/assets/af5035b1/file/AGB.pdf",
+                    "id": 6
+                },
+                "7": {
+                    "logo_url": "http://static.fitsperfect.de/E-Mail/fp_header_600x250.png",
+                    "name": "Fitsperfect",
+                    "url": "http://fitsperfect.de/",
+                    "privacy_statement_url": "http://fitsperfect.de/privacy",
+                    "tos_url": "http://fitsperfect.de/tos",
+                    "id": 7
+                },
+                "52": {
+                    "logo_url": "https://www.google.de/images/srpr/logo11w.png",
+                    "name": "[Test] MyApp",
+                    "url": "http://www.google.des",
+                    "privacy_statement_url": "https://www.google.de/images/srpr/logo11w.png",
+                    "tos_url": "https://www.google.de/images/srpr/logo11w.png",
+                    "id": 52
+                },
+                "53": {
+                    "logo_url": "http://www.seenex.de/logo.jpg",
+                    "name": "SeeNex",
+                    "url": "http://www.seenex.de/",
+                    "privacy_statement_url": "http://www.seenex.de/datenschutz",
+                    "tos_url": "http://www.seenex.de/agb",
+                    "id": 53
+                },
+                "64": {
+                    "logo_url": "http://www.mary-paul.de",
+                    "name": "Outfit Creator",
+                    "url": "http://outfit.local/",
+                    "privacy_statement_url": "http://www.mary-paul.de",
+                    "tos_url": "http://www.mary-paul.de",
+                    "id": 64
+                },
+                "98": {
+                    "logo_url": "http://www.php-tagebuch.de/wp-content/themes/design01/img/logo_header.png",
+                    "name": "[Test] Testapp für Christian Kilb",
+                    "url": "http://www.cilb.de/testapp/FAPI-SDK/examples/app/ http://www.cilb.de/testapp/FAPI-SDK/examples/app2/",
+                    "privacy_statement_url": "http://www.cilb.de/testapp.html",
+                    "tos_url": "http://www.cilb.de/testapp.html",
+                    "id": 98
+                },
+                "110": {
+                    "logo_url": "http://runway.sliceanddice.de/images/logo.png",
+                    "name": "Your Runway",
+                    "url": "http://runway.sliceanddice.de/",
+                    "privacy_statement_url": "http://www.mary-paul.de",
+                    "tos_url": "http://www.mary-paul.de",
+                    "id": 110
+                }
+            }
+        }
+    }
+]

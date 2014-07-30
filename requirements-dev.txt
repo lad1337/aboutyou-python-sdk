@@ -1,0 +1,6 @@
+flake8
+pylint
+Sphinx
+pytest
+pytest-cov
+pytest-pythonpath

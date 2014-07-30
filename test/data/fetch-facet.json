@@ -1,0 +1,30 @@
+[
+    {
+        "facet": [
+            {
+                "facet_id": 1234,
+                "options": [
+                    {
+                        "key": "logo_extension",
+                        "value": "png"
+                    }
+                ],
+                "id": 0,
+                "name": "LILLIFEE",
+                "group_name": "brand"
+            },
+            {
+                "facet_id": 1235,
+                "options": [
+                    {
+                        "key": "logo_extension",
+                        "value": "png"
+                    }
+                ],
+                "id": 0,
+                "name": "STAR COLLECTION",
+                "group_name": "brand"
+            }
+        ]
+    }
+]

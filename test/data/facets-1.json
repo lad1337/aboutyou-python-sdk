@@ -1,0 +1,4195 @@
+[
+    {
+        "facets": {
+            "facet": [
+                {
+                    "name": "Lila/schwarz/gelb",
+                    "facet_id": 281,
+                    "id": 1,
+                    "value": "lila/schwarz/gelb",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Diverse",
+                    "facet_id": 282,
+                    "id": 1,
+                    "value": "diverse",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Schwarz/beere",
+                    "facet_id": 284,
+                    "id": 1,
+                    "value": "schwarz/beere",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Blau/schwarz/kariert",
+                    "facet_id": 285,
+                    "id": 1,
+                    "value": "blau/schwarz/kariert",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Schwarz/blau/anthrazit",
+                    "facet_id": 286,
+                    "id": 1,
+                    "value": "schwarz/blau/anthrazit",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Mint/rot",
+                    "facet_id": 288,
+                    "id": 1,
+                    "value": "mint/rot",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Blau/brombeer",
+                    "facet_id": 291,
+                    "id": 1,
+                    "value": "blau/brombeer",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Schwarz/brombeer/blau",
+                    "facet_id": 292,
+                    "id": 1,
+                    "value": "schwarz/brombeer/blau",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Schwarz/leopard",
+                    "facet_id": 293,
+                    "id": 1,
+                    "value": "schwarz/leopard",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Gepunktet",
+                    "facet_id": 297,
+                    "id": 1,
+                    "value": "gepunktet",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Schwarz/blau/rot",
+                    "facet_id": 298,
+                    "id": 1,
+                    "value": "schwarz/blau/rot",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Marine",
+                    "facet_id": 301,
+                    "id": 1,
+                    "value": "marine",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Lila/anthrazit",
+                    "facet_id": 303,
+                    "id": 1,
+                    "value": "lila/anthrazit",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Petrol/bronze",
+                    "facet_id": 304,
+                    "id": 1,
+                    "value": "petrol/bronze",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Washed/himbeer",
+                    "facet_id": 305,
+                    "id": 1,
+                    "value": "washed/himbeer",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Rot/aubergine/schwarz",
+                    "facet_id": 306,
+                    "id": 1,
+                    "value": "rot/aubergine/schwarz",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Braun/ocker",
+                    "facet_id": 308,
+                    "id": 1,
+                    "value": "braun/ocker",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Brombeer/blau",
+                    "facet_id": 312,
+                    "id": 1,
+                    "value": "brombeer/blau",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Hellblau/denim",
+                    "facet_id": 314,
+                    "id": 1,
+                    "value": "hellblau/denim",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Pink/hellblau",
+                    "facet_id": 315,
+                    "id": 1,
+                    "value": "pink/hellblau",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Vanille/allover",
+                    "facet_id": 317,
+                    "id": 1,
+                    "value": "vanille/allover",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Limette/blau",
+                    "facet_id": 319,
+                    "id": 1,
+                    "value": "limette/blau",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Rot/grau/gst",
+                    "facet_id": 321,
+                    "id": 1,
+                    "value": "rot/grau/gst",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Grau/limette",
+                    "facet_id": 322,
+                    "id": 1,
+                    "value": "grau/limette",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Hellgrau/offwhite",
+                    "facet_id": 327,
+                    "id": 1,
+                    "value": "hellgrau/offwhite",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Lila/schwarz/neongelb",
+                    "facet_id": 328,
+                    "id": 1,
+                    "value": "lila/schwarz/neongelb",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Sand/rot/kariert",
+                    "facet_id": 329,
+                    "id": 1,
+                    "value": "sand/rot/kariert",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Multi/allover",
+                    "facet_id": 331,
+                    "id": 1,
+                    "value": "multi/allover",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Anth.",
+                    "facet_id": 333,
+                    "id": 1,
+                    "value": "anth.",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Blau/schwarz/allover",
+                    "facet_id": 334,
+                    "id": 1,
+                    "value": "blau/schwarz/allover",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Pink/blau/allover",
+                    "facet_id": 339,
+                    "id": 1,
+                    "value": "pink/blau/allover",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Hummer/gestreift",
+                    "facet_id": 341,
+                    "id": 1,
+                    "value": "hummer/gestreift",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Himbeer/anthrazit",
+                    "facet_id": 342,
+                    "id": 1,
+                    "value": "himbeer/anthrazit",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Rot/schwarz/kariert",
+                    "facet_id": 343,
+                    "id": 1,
+                    "value": "rot/schwarz/kariert",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Altrosa/allover",
+                    "facet_id": 345,
+                    "id": 1,
+                    "value": "altrosa/allover",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Altrosa/gestreift",
+                    "facet_id": 347,
+                    "id": 1,
+                    "value": "altrosa/gestreift",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Allover/gepunktet",
+                    "facet_id": 348,
+                    "id": 1,
+                    "value": "allover/gepunktet",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Grau/multi",
+                    "facet_id": 351,
+                    "id": 1,
+                    "value": "grau/multi",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Weinrot/rot",
+                    "facet_id": 354,
+                    "id": 1,
+                    "value": "weinrot/rot",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Navy/dunkelgrau",
+                    "facet_id": 355,
+                    "id": 1,
+                    "value": "navy/dunkelgrau",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Pflaume/gestreift",
+                    "facet_id": 357,
+                    "id": 1,
+                    "value": "pflaume/gestreift",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Rose/hellgelb/kariert",
+                    "facet_id": 359,
+                    "id": 1,
+                    "value": "rose/hellgelb/kariert",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Schwarz/petrol/gelb",
+                    "facet_id": 361,
+                    "id": 1,
+                    "value": "schwarz/petrol/gelb",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Schliff",
+                    "facet_id": 362,
+                    "id": 1,
+                    "value": "schliff",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Beige/brombeer",
+                    "facet_id": 365,
+                    "id": 1,
+                    "value": "beige/brombeer",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Pink/koralle",
+                    "facet_id": 367,
+                    "id": 1,
+                    "value": "pink/koralle",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Blau/lila/kariert",
+                    "facet_id": 368,
+                    "id": 1,
+                    "value": "blau/lila/kariert",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Jeans/camel",
+                    "facet_id": 369,
+                    "id": 1,
+                    "value": "jeans/camel",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Neongelb/schwarz",
+                    "facet_id": 371,
+                    "id": 1,
+                    "value": "neongelb/schwarz",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Schwarz/anthrazit/bunt",
+                    "facet_id": 373,
+                    "id": 1,
+                    "value": "schwarz/anthrazit/bunt",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Stone/pink",
+                    "facet_id": 374,
+                    "id": 1,
+                    "value": "stone/pink",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Brombeer/allover",
+                    "facet_id": 377,
+                    "id": 1,
+                    "value": "brombeer/allover",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Lila/rot",
+                    "facet_id": 379,
+                    "id": 1,
+                    "value": "lila/rot",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Anthrazit/neonpink",
+                    "facet_id": 380,
+                    "id": 1,
+                    "value": "anthrazit/neonpink",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Blau/rot/allover",
+                    "facet_id": 381,
+                    "id": 1,
+                    "value": "blau/rot/allover",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Lila/koralle",
+                    "facet_id": 383,
+                    "id": 1,
+                    "value": "lila/koralle",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Blau/schwarz/aubergine",
+                    "facet_id": 385,
+                    "id": 1,
+                    "value": "blau/schwarz/aubergine",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Petrol/grau",
+                    "facet_id": 386,
+                    "id": 1,
+                    "value": "petrol/grau",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Blau/neonorange",
+                    "facet_id": 389,
+                    "id": 1,
+                    "value": "blau/neonorange",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Blau/gelb/schwarz",
+                    "facet_id": 391,
+                    "id": 1,
+                    "value": "blau/gelb/schwarz",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Rot/navy/blau",
+                    "facet_id": 392,
+                    "id": 1,
+                    "value": "rot/navy/blau",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Beere/kariert",
+                    "facet_id": 393,
+                    "id": 1,
+                    "value": "beere/kariert",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Himbeer/neongelb",
+                    "facet_id": 395,
+                    "id": 1,
+                    "value": "himbeer/neongelb",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Lila/flieder/orange",
+                    "facet_id": 397,
+                    "id": 1,
+                    "value": "lila/flieder/orange",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Gelb/bordeaux",
+                    "facet_id": 398,
+                    "id": 1,
+                    "value": "gelb/bordeaux",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Dunkelblau/melange",
+                    "facet_id": 401,
+                    "id": 1,
+                    "value": "dunkelblau/melange",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Himbeer/allover",
+                    "facet_id": 403,
+                    "id": 1,
+                    "value": "himbeer/allover",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Himbeer/orange",
+                    "facet_id": 404,
+                    "id": 1,
+                    "value": "himbeer/orange",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Himbeer/limette",
+                    "facet_id": 405,
+                    "id": 1,
+                    "value": "himbeer/limette",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Neongelb/himbeer",
+                    "facet_id": 407,
+                    "id": 1,
+                    "value": "neongelb/himbeer",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Blau/gelb/pink",
+                    "facet_id": 409,
+                    "id": 1,
+                    "value": "blau/gelb/pink",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Denim/orange",
+                    "facet_id": 410,
+                    "id": 1,
+                    "value": "denim/orange",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Hellbraun",
+                    "facet_id": 413,
+                    "id": 1,
+                    "value": "hellbraun",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Grau/neonorange",
+                    "facet_id": 415,
+                    "id": 1,
+                    "value": "grau/neonorange",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Sil/rot",
+                    "facet_id": 416,
+                    "id": 1,
+                    "value": "sil/rot",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Schwarz/lila/pink",
+                    "facet_id": 417,
+                    "id": 1,
+                    "value": "schwarz/lila/pink",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Navy/blau/mint",
+                    "facet_id": 419,
+                    "id": 1,
+                    "value": "navy/blau/mint",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Blau/mint/navy",
+                    "facet_id": 421,
+                    "id": 1,
+                    "value": "blau/mint/navy",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Anthrazit/neonorange",
+                    "facet_id": 422,
+                    "id": 1,
+                    "value": "anthrazit/neonorange",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Dunkelgrau/himbeer",
+                    "facet_id": 425,
+                    "id": 1,
+                    "value": "dunkelgrau/himbeer",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Flieder/aubergine/no",
+                    "facet_id": 427,
+                    "id": 1,
+                    "value": "flieder/aubergine/no",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Flieder/neonorange",
+                    "facet_id": 428,
+                    "id": 1,
+                    "value": "flieder/neonorange",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Grau/petrol",
+                    "facet_id": 429,
+                    "id": 1,
+                    "value": "grau/petrol",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Dunkellila/neongelb",
+                    "facet_id": 431,
+                    "id": 1,
+                    "value": "dunkellila/neongelb",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Flieder/aubergine",
+                    "facet_id": 433,
+                    "id": 1,
+                    "value": "flieder/aubergine",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Pink/rosa/kariert",
+                    "facet_id": 434,
+                    "id": 1,
+                    "value": "pink/rosa/kariert",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Schwarz-dunkelbraun",
+                    "facet_id": 437,
+                    "id": 1,
+                    "value": "schwarz-dunkelbraun",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Petrol/melange",
+                    "facet_id": 440,
+                    "id": 1,
+                    "value": "petrol/melange",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Dunkelgrau/pink",
+                    "facet_id": 441,
+                    "id": 1,
+                    "value": "dunkelgrau/pink",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Petrol/lila/kariert",
+                    "facet_id": 443,
+                    "id": 1,
+                    "value": "petrol/lila/kariert",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Black/purple",
+                    "facet_id": 445,
+                    "id": 1,
+                    "value": "black/purple",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Schwarz/blau/gelb",
+                    "facet_id": 447,
+                    "id": 1,
+                    "value": "schwarz/blau/gelb",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Rot/lim/rose",
+                    "facet_id": 448,
+                    "id": 1,
+                    "value": "rot/lim/rose",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Schwarz/himbeer",
+                    "facet_id": 451,
+                    "id": 1,
+                    "value": "schwarz/himbeer",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Schwarz/pink/beige",
+                    "facet_id": 453,
+                    "id": 1,
+                    "value": "schwarz/pink/beige",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Graumelange/apricot",
+                    "facet_id": 454,
+                    "id": 1,
+                    "value": "graumelange/apricot",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Rot/washed",
+                    "facet_id": 455,
+                    "id": 1,
+                    "value": "rot/washed",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Schwarz/blau/pink",
+                    "facet_id": 457,
+                    "id": 1,
+                    "value": "schwarz/blau/pink",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Offwhite/gepunktet",
+                    "facet_id": 459,
+                    "id": 1,
+                    "value": "offwhite/gepunktet",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Blau/gelb/grau",
+                    "facet_id": 460,
+                    "id": 1,
+                    "value": "blau/gelb/grau",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Weinrot/kariert",
+                    "facet_id": 463,
+                    "id": 1,
+                    "value": "weinrot/kariert",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Orange/washed",
+                    "facet_id": 465,
+                    "id": 1,
+                    "value": "orange/washed",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Blau/gepunktet",
+                    "facet_id": 466,
+                    "id": 1,
+                    "value": "blau/gepunktet",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Beige/multi",
+                    "facet_id": 467,
+                    "id": 1,
+                    "value": "beige/multi",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Dunkelrot/rot",
+                    "facet_id": 470,
+                    "id": 1,
+                    "value": "dunkelrot/rot",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Blau/creme",
+                    "facet_id": 472,
+                    "id": 1,
+                    "value": "blau/creme",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Pflaume/kariert",
+                    "facet_id": 473,
+                    "id": 1,
+                    "value": "pflaume/kariert",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Brombeer/lila/allover",
+                    "facet_id": 476,
+                    "id": 1,
+                    "value": "brombeer/lila/allover",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Ecru/blau/rot",
+                    "facet_id": 478,
+                    "id": 1,
+                    "value": "ecru/blau/rot",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Brombeer/lila",
+                    "facet_id": 479,
+                    "id": 1,
+                    "value": "brombeer/lila",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Navy/neonorange",
+                    "facet_id": 480,
+                    "id": 1,
+                    "value": "navy/neonorange",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Mint/koralle",
+                    "facet_id": 482,
+                    "id": 1,
+                    "value": "mint/koralle",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Brommbeere",
+                    "facet_id": 484,
+                    "id": 1,
+                    "value": "brommbeere",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Blau/pink/allover",
+                    "facet_id": 485,
+                    "id": 1,
+                    "value": "blau/pink/allover",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Grau/limone",
+                    "facet_id": 488,
+                    "id": 1,
+                    "value": "grau/limone",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Orange/petrol",
+                    "facet_id": 490,
+                    "id": 1,
+                    "value": "orange/petrol",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Pet",
+                    "facet_id": 491,
+                    "id": 1,
+                    "value": "pet",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Oliv/washed",
+                    "facet_id": 492,
+                    "id": 1,
+                    "value": "oliv/washed",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Dunkelblau/rot",
+                    "facet_id": 499,
+                    "id": 1,
+                    "value": "dunkelblau/rot",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Brombeer/dunkelblau",
+                    "facet_id": 502,
+                    "id": 1,
+                    "value": "brombeer/dunkelblau",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Braun/gelb/orange",
+                    "facet_id": 503,
+                    "id": 1,
+                    "value": "braun/gelb/orange",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Washed/grau",
+                    "facet_id": 506,
+                    "id": 1,
+                    "value": "washed/grau",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Apricot/gestreift",
+                    "facet_id": 508,
+                    "id": 1,
+                    "value": "apricot/gestreift",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Melone",
+                    "facet_id": 509,
+                    "id": 1,
+                    "value": "melone",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Brombeer/kariert",
+                    "facet_id": 514,
+                    "id": 1,
+                    "value": "brombeer/kariert",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Navy/lila",
+                    "facet_id": 516,
+                    "id": 1,
+                    "value": "navy/lila",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Weinrot/washed",
+                    "facet_id": 520,
+                    "id": 1,
+                    "value": "weinrot/washed",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Schlamm/kariert",
+                    "facet_id": 521,
+                    "id": 1,
+                    "value": "schlamm/kariert",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Offwhite/marine",
+                    "facet_id": 524,
+                    "id": 1,
+                    "value": "offwhite/marine",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Pink/lachs/kariert",
+                    "facet_id": 526,
+                    "id": 1,
+                    "value": "pink/lachs/kariert",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Schwarz/neonpink",
+                    "facet_id": 527,
+                    "id": 1,
+                    "value": "schwarz/neonpink",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Lila/violett",
+                    "facet_id": 530,
+                    "id": 1,
+                    "value": "lila/violett",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Graumelange/limette",
+                    "facet_id": 528,
+                    "id": 1,
+                    "value": "graumelange/limette",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Blau/camel",
+                    "facet_id": 529,
+                    "id": 1,
+                    "value": "blau/camel",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Mint/washed",
+                    "facet_id": 533,
+                    "id": 1,
+                    "value": "mint/washed",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Dunkelblau/graumelange",
+                    "facet_id": 536,
+                    "id": 1,
+                    "value": "dunkelblau/graumelange",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Royal/limette",
+                    "facet_id": 538,
+                    "id": 1,
+                    "value": "royal/limette",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Pink/mint",
+                    "facet_id": 539,
+                    "id": 1,
+                    "value": "pink/mint",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Brombeer/grau",
+                    "facet_id": 540,
+                    "id": 1,
+                    "value": "brombeer/grau",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Graumelange/dunkelgraumel",
+                    "facet_id": 542,
+                    "id": 1,
+                    "value": "graumelange/dunkelgraumel",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Koralle/allover",
+                    "facet_id": 544,
+                    "id": 1,
+                    "value": "koralle/allover",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Denim/gepunktet",
+                    "facet_id": 545,
+                    "id": 1,
+                    "value": "denim/gepunktet",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Hibiskus/graumelange",
+                    "facet_id": 548,
+                    "id": 1,
+                    "value": "hibiskus/graumelange",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Ecru/brombeer/kariert",
+                    "facet_id": 550,
+                    "id": 1,
+                    "value": "ecru/brombeer/kariert",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Grau/fuchsia",
+                    "facet_id": 551,
+                    "id": 1,
+                    "value": "grau/fuchsia",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Koralle/mint/allover",
+                    "facet_id": 552,
+                    "id": 1,
+                    "value": "koralle/mint/allover",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Fuchsia/melange",
+                    "facet_id": 554,
+                    "id": 1,
+                    "value": "fuchsia/melange",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Dunkelgrau/limette",
+                    "facet_id": 556,
+                    "id": 1,
+                    "value": "dunkelgrau/limette",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Flieder/orange",
+                    "facet_id": 557,
+                    "id": 1,
+                    "value": "flieder/orange",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Oliv/sand/kariert",
+                    "facet_id": 560,
+                    "id": 1,
+                    "value": "oliv/sand/kariert",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Neongelb/lila",
+                    "facet_id": 562,
+                    "id": 1,
+                    "value": "neongelb/lila",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Rot/dunkelgrau",
+                    "facet_id": 563,
+                    "id": 1,
+                    "value": "rot/dunkelgrau",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Blau/petrol",
+                    "facet_id": 564,
+                    "id": 1,
+                    "value": "blau/petrol",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Koralle/melange",
+                    "facet_id": 567,
+                    "id": 1,
+                    "value": "koralle/melange",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Granit/orange",
+                    "facet_id": 569,
+                    "id": 1,
+                    "value": "granit/orange",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Weiss",
+                    "facet_id": 570,
+                    "id": 1,
+                    "value": "weiss",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Bordeaux/rose",
+                    "facet_id": 573,
+                    "id": 1,
+                    "value": "bordeaux/rose",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Schwarz/anthrazit/allover",
+                    "facet_id": 575,
+                    "id": 1,
+                    "value": "schwarz/anthrazit/allover",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Bronzefarben",
+                    "facet_id": 576,
+                    "id": 1,
+                    "value": "bronzefarben",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Stone/braun",
+                    "facet_id": 577,
+                    "id": 1,
+                    "value": "stone/braun",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Grün",
+                    "facet_id": 579,
+                    "id": 1,
+                    "value": "gruen",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Pink/weiß/gelb",
+                    "facet_id": 582,
+                    "id": 1,
+                    "value": "pink/weiß/gelb",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Rot/orange/multi",
+                    "facet_id": 583,
+                    "id": 1,
+                    "value": "rot/orange/multi",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Blau/weiß/kariert",
+                    "facet_id": 586,
+                    "id": 1,
+                    "value": "blau/weiß/kariert",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Türkis/lila",
+                    "facet_id": 588,
+                    "id": 1,
+                    "value": "türkis/lila",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Creme/braun",
+                    "facet_id": 589,
+                    "id": 1,
+                    "value": "creme/braun",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Weiß/limette/schwar",
+                    "facet_id": 590,
+                    "id": 1,
+                    "value": "weiß/limette/schwar",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Petrol/türkis",
+                    "facet_id": 592,
+                    "id": 1,
+                    "value": "petrol/türkis",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Schwarz/braun/orange",
+                    "facet_id": 594,
+                    "id": 1,
+                    "value": "schwarz/braun/orange",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Grün/blau/grau",
+                    "facet_id": 595,
+                    "id": 1,
+                    "value": "grün/blau/grau",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Blau/grün/kariert",
+                    "facet_id": 598,
+                    "id": 1,
+                    "value": "blau/grün/kariert",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Weiß/nachtblau",
+                    "facet_id": 600,
+                    "id": 1,
+                    "value": "weiß/nachtblau",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Graumelange/türkis",
+                    "facet_id": 601,
+                    "id": 1,
+                    "value": "graumelange/türkis",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Rot/gold",
+                    "facet_id": 602,
+                    "id": 1,
+                    "value": "rot/gold",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Lila/himbeer/weiß",
+                    "facet_id": 604,
+                    "id": 1,
+                    "value": "lila/himbeer/weiß",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Schwarz/violett/wei&szlig",
+                    "facet_id": 607,
+                    "id": 1,
+                    "value": "schwarz/violett/wei&szlig",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Blau/weiß/bordeaux",
+                    "facet_id": 608,
+                    "id": 1,
+                    "value": "blau/weiß/bordeaux",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Grün/schwarz/allover",
+                    "facet_id": 611,
+                    "id": 1,
+                    "value": "grün/schwarz/allover",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Hellgrau-metallic/silber",
+                    "facet_id": 613,
+                    "id": 1,
+                    "value": "hellgrau-metallic/silber",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Türkis/weiß/pi",
+                    "facet_id": 614,
+                    "id": 1,
+                    "value": "türkis/weiß/pi",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Limette/türkis",
+                    "facet_id": 616,
+                    "id": 1,
+                    "value": "limette/türkis",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Blau/flieder/weiß",
+                    "facet_id": 618,
+                    "id": 1,
+                    "value": "blau/flieder/weiß",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Brombeer/pink/schwarz",
+                    "facet_id": 620,
+                    "id": 1,
+                    "value": "brombeer/pink/schwarz",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Grün/grau/schwarz",
+                    "facet_id": 621,
+                    "id": 1,
+                    "value": "grün/grau/schwarz",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Schwarz/grün/limette",
+                    "facet_id": 624,
+                    "id": 1,
+                    "value": "schwarz/grün/limette",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Limette/schwarz/wei&szlig",
+                    "facet_id": 627,
+                    "id": 1,
+                    "value": "limette/schwarz/wei&szlig",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Dunkelgrün/kariert",
+                    "facet_id": 628,
+                    "id": 1,
+                    "value": "dunkelgrün/kariert",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Chalk white/washed",
+                    "facet_id": 629,
+                    "id": 1,
+                    "value": "chalk white/washed",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Natur/denim",
+                    "facet_id": 631,
+                    "id": 1,
+                    "value": "natur/denim",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Schwarz-weiß",
+                    "facet_id": 633,
+                    "id": 1,
+                    "value": "schwarz-weiß",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Weiß/schwarz/neonor",
+                    "facet_id": 634,
+                    "id": 1,
+                    "value": "weiß/schwarz/neonor",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Blau/limette/weiß",
+                    "facet_id": 637,
+                    "id": 1,
+                    "value": "blau/limette/weiß",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Schwarz/lila/weiß",
+                    "facet_id": 639,
+                    "id": 1,
+                    "value": "schwarz/lila/weiß",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Lila/blau",
+                    "facet_id": 640,
+                    "id": 1,
+                    "value": "lila/blau",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Schwarz/grün/rot",
+                    "facet_id": 641,
+                    "id": 1,
+                    "value": "schwarz/grün/rot",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Bunt/neongrün",
+                    "facet_id": 643,
+                    "id": 1,
+                    "value": "bunt/neongrün",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Türkis/rose",
+                    "facet_id": 645,
+                    "id": 1,
+                    "value": "türkis/rose",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Aqua/grün",
+                    "facet_id": 646,
+                    "id": 1,
+                    "value": "aqua/grün",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Lila/gelb/weiß",
+                    "facet_id": 649,
+                    "id": 1,
+                    "value": "lila/gelb/weiß",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Creme/grün",
+                    "facet_id": 651,
+                    "id": 1,
+                    "value": "creme/grün",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Schwarz/weiß/anthra",
+                    "facet_id": 652,
+                    "id": 1,
+                    "value": "schwarz/weiß/anthra",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Koralle/rot/allover",
+                    "facet_id": 653,
+                    "id": 1,
+                    "value": "koralle/rot/allover",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Rot/gepunktet",
+                    "facet_id": 655,
+                    "id": 1,
+                    "value": "rot/gepunktet",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Ocean/weiß",
+                    "facet_id": 657,
+                    "id": 1,
+                    "value": "ocean/weiß",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Weiß/koralle/allove",
+                    "facet_id": 658,
+                    "id": 1,
+                    "value": "weiß/koralle/allove",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Lila/violett/orange",
+                    "facet_id": 661,
+                    "id": 1,
+                    "value": "lila/violett/orange",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Navy/limette/grün",
+                    "facet_id": 663,
+                    "id": 1,
+                    "value": "navy/limette/grün",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Dunkelblau/gepunktet",
+                    "facet_id": 664,
+                    "id": 1,
+                    "value": "dunkelblau/gepunktet",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Brombeer/rose",
+                    "facet_id": 665,
+                    "id": 1,
+                    "value": "brombeer/rose",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Schwarz/tuer",
+                    "facet_id": 667,
+                    "id": 1,
+                    "value": "schwarz/tuer",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Grau/grün/blau",
+                    "facet_id": 669,
+                    "id": 1,
+                    "value": "grau/grün/blau",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Hellgrün/lila",
+                    "facet_id": 670,
+                    "id": 1,
+                    "value": "hellgrün/lila",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Navy/weiß/kariert",
+                    "facet_id": 673,
+                    "id": 1,
+                    "value": "navy/weiß/kariert",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Ocker/weiß",
+                    "facet_id": 675,
+                    "id": 1,
+                    "value": "ocker/weiß",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Creme/gestreift",
+                    "facet_id": 676,
+                    "id": 1,
+                    "value": "creme/gestreift",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Oliv/grün/kariert",
+                    "facet_id": 677,
+                    "id": 1,
+                    "value": "oliv/grün/kariert",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Braun/gold/allover",
+                    "facet_id": 679,
+                    "id": 1,
+                    "value": "braun/gold/allover",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Schwarz/anthrazit/wei&szl",
+                    "facet_id": 681,
+                    "id": 1,
+                    "value": "schwarz/anthrazit/wei&szl",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Mint/navy/rot",
+                    "facet_id": 682,
+                    "id": 1,
+                    "value": "mint/navy/rot",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Lila/flieder/gelb",
+                    "facet_id": 685,
+                    "id": 1,
+                    "value": "lila/flieder/gelb",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Petrol/weiß/kariert",
+                    "facet_id": 687,
+                    "id": 1,
+                    "value": "petrol/weiß/kariert",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Neonorange/blau",
+                    "facet_id": 688,
+                    "id": 1,
+                    "value": "neonorange/blau",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Camel/weiß",
+                    "facet_id": 689,
+                    "id": 1,
+                    "value": "camel/weiß",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Blau/schwarz/grün",
+                    "facet_id": 691,
+                    "id": 1,
+                    "value": "blau/schwarz/grün",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Blaugrau/türkis",
+                    "facet_id": 693,
+                    "id": 1,
+                    "value": "blaugrau/türkis",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Weiß/navy/lila",
+                    "facet_id": 694,
+                    "id": 1,
+                    "value": "weiß/navy/lila",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Taupe/rot",
+                    "facet_id": 697,
+                    "id": 1,
+                    "value": "taupe/rot",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Dunkelgrau/grün",
+                    "facet_id": 699,
+                    "id": 1,
+                    "value": "dunkelgrau/grün",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Orange/lila/allover",
+                    "facet_id": 700,
+                    "id": 1,
+                    "value": "orange/lila/allover",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Mint/gelb/grau",
+                    "facet_id": 701,
+                    "id": 1,
+                    "value": "mint/gelb/grau",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Neonpink/multi",
+                    "facet_id": 703,
+                    "id": 1,
+                    "value": "neonpink/multi",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Petrol/grün",
+                    "facet_id": 708,
+                    "id": 1,
+                    "value": "petrol/grün",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Neongelb/allover",
+                    "facet_id": 709,
+                    "id": 1,
+                    "value": "neongelb/allover",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Senf/grün",
+                    "facet_id": 712,
+                    "id": 1,
+                    "value": "senf/grün",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Braun/grün/rose",
+                    "facet_id": 714,
+                    "id": 1,
+                    "value": "braun/grün/rose",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Pink/grün/grau",
+                    "facet_id": 715,
+                    "id": 1,
+                    "value": "pink/grün/grau",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Koralle/kariert",
+                    "facet_id": 716,
+                    "id": 1,
+                    "value": "koralle/kariert",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Grün/koralle/allover",
+                    "facet_id": 718,
+                    "id": 1,
+                    "value": "grün/koralle/allover",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Blau/weiß/grün",
+                    "facet_id": 720,
+                    "id": 1,
+                    "value": "blau/weiß/grün",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Bordeaux/weiß/karie",
+                    "facet_id": 721,
+                    "id": 1,
+                    "value": "bordeaux/weiß/karie",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Grün/schwarz/kariert",
+                    "facet_id": 724,
+                    "id": 1,
+                    "value": "grün/schwarz/kariert",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Grün/gelb/schwarz",
+                    "facet_id": 726,
+                    "id": 1,
+                    "value": "grün/gelb/schwarz",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Weiß/taupe/allover",
+                    "facet_id": 727,
+                    "id": 1,
+                    "value": "weiß/taupe/allover",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Violett/weiß/orange",
+                    "facet_id": 728,
+                    "id": 1,
+                    "value": "violett/weiß/orange",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Braun/weiß/blau",
+                    "facet_id": 730,
+                    "id": 1,
+                    "value": "braun/weiß/blau",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Grün/rot/gelb",
+                    "facet_id": 732,
+                    "id": 1,
+                    "value": "grün/rot/gelb",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Grün/altrosa",
+                    "facet_id": 733,
+                    "id": 1,
+                    "value": "grün/altrosa",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Neongelb/blau",
+                    "facet_id": 736,
+                    "id": 1,
+                    "value": "neongelb/blau",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Neg./grün",
+                    "facet_id": 738,
+                    "id": 1,
+                    "value": "neg./grün",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Royal/gestreift",
+                    "facet_id": 739,
+                    "id": 1,
+                    "value": "royal/gestreift",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Grün/neonorange",
+                    "facet_id": 740,
+                    "id": 1,
+                    "value": "grün/neonorange",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Dunkelgrün/blau",
+                    "facet_id": 742,
+                    "id": 1,
+                    "value": "dunkelgrün/blau",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Schwarz/neonorange/gr&uum",
+                    "facet_id": 744,
+                    "id": 1,
+                    "value": "schwarz/neonorange/gr&uum",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Weiß/gelb/petrol",
+                    "facet_id": 745,
+                    "id": 1,
+                    "value": "weiß/gelb/petrol",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Weiß/blau/pink",
+                    "facet_id": 757,
+                    "id": 1,
+                    "value": "weiß/blau/pink",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Blau/weiß/limette",
+                    "facet_id": 759,
+                    "id": 1,
+                    "value": "blau/weiß/limette",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Schwarz/grün/allover",
+                    "facet_id": 760,
+                    "id": 1,
+                    "value": "schwarz/grün/allover",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Blau/grün/mint",
+                    "facet_id": 761,
+                    "id": 1,
+                    "value": "blau/grün/mint",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Hellblau/lila",
+                    "facet_id": 763,
+                    "id": 1,
+                    "value": "hellblau/lila",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Neonorange/weiß",
+                    "facet_id": 765,
+                    "id": 1,
+                    "value": "neonorange/weiß",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Pink/türkis",
+                    "facet_id": 766,
+                    "id": 1,
+                    "value": "pink/türkis",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Schwarz/grün/neonora",
+                    "facet_id": 769,
+                    "id": 1,
+                    "value": "schwarz/grün/neonora",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Dunkles Orange",
+                    "facet_id": 3241,
+                    "id": 1,
+                    "value": "dunkles orange",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Limettengelb",
+                    "facet_id": 3242,
+                    "id": 1,
+                    "value": "limettengelb",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Olivgrün",
+                    "facet_id": 3243,
+                    "id": 1,
+                    "value": "olivgrün",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Petrol",
+                    "facet_id": 3245,
+                    "id": 1,
+                    "value": "petrol",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Dunkelbraun",
+                    "facet_id": 3247,
+                    "id": 1,
+                    "value": "dunkelbraun",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Magenta",
+                    "facet_id": 3248,
+                    "id": 1,
+                    "value": "magenta",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Kaminrot",
+                    "facet_id": 3251,
+                    "id": 1,
+                    "value": "kaminrot",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Waldgrün",
+                    "facet_id": 3253,
+                    "id": 1,
+                    "value": "waldgrün",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Kadettblau",
+                    "facet_id": 3254,
+                    "id": 1,
+                    "value": "kadettblau",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Dunkelviolett",
+                    "facet_id": 3255,
+                    "id": 1,
+                    "value": "dunkelviolett",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Bronze",
+                    "facet_id": 3257,
+                    "id": 1,
+                    "value": "bronze",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Hellorange",
+                    "facet_id": 3259,
+                    "id": 1,
+                    "value": "hellorange",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Dunkelgelb",
+                    "facet_id": 3260,
+                    "id": 1,
+                    "value": "dunkelgelb",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Stahlblau",
+                    "facet_id": 3263,
+                    "id": 1,
+                    "value": "stahlblau",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Purpur",
+                    "facet_id": 3265,
+                    "id": 1,
+                    "value": "purpur",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Ocker",
+                    "facet_id": 3266,
+                    "id": 1,
+                    "value": "ocker",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Sandbraun",
+                    "facet_id": 3267,
+                    "id": 1,
+                    "value": "sandbraun",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Goldorange",
+                    "facet_id": 3269,
+                    "id": 1,
+                    "value": "goldorange",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Grüngrau",
+                    "facet_id": 3271,
+                    "id": 1,
+                    "value": "grüngrau",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Neongrün",
+                    "facet_id": 3272,
+                    "id": 1,
+                    "value": "neongrün",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Kornblumenblau",
+                    "facet_id": 3275,
+                    "id": 1,
+                    "value": "kornblumenblau",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Graulila",
+                    "facet_id": 3277,
+                    "id": 1,
+                    "value": "graulila",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Altrosa",
+                    "facet_id": 3278,
+                    "id": 1,
+                    "value": "altrosa",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Graubraun",
+                    "facet_id": 3279,
+                    "id": 1,
+                    "value": "graubraun",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Nude",
+                    "facet_id": 3281,
+                    "id": 1,
+                    "value": "nude",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Hellgrün",
+                    "facet_id": 3283,
+                    "id": 1,
+                    "value": "hellgrün",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Wiesengrün",
+                    "facet_id": 3284,
+                    "id": 1,
+                    "value": "wiesengrün",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Himmelblau",
+                    "facet_id": 3287,
+                    "id": 1,
+                    "value": "himmelblau",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Hellrosa",
+                    "facet_id": 3289,
+                    "id": 1,
+                    "value": "hellrosa",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Mint/anthrazit/orange",
+                    "facet_id": 283,
+                    "id": 1,
+                    "value": "mint/anthrazit/orange",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Lila/schwarz/allover",
+                    "facet_id": 289,
+                    "id": 1,
+                    "value": "lila/schwarz/allover",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Denim/braun",
+                    "facet_id": 307,
+                    "id": 1,
+                    "value": "denim/braun",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Fullprint/rot",
+                    "facet_id": 325,
+                    "id": 1,
+                    "value": "fullprint/rot",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Lila/pink/kariert",
+                    "facet_id": 338,
+                    "id": 1,
+                    "value": "lila/pink/kariert",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Aqua/limette",
+                    "facet_id": 350,
+                    "id": 1,
+                    "value": "aqua/limette",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Zitrone",
+                    "facet_id": 364,
+                    "id": 1,
+                    "value": "zitrone",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Nav.",
+                    "facet_id": 376,
+                    "id": 1,
+                    "value": "nav.",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Weinrot/denim",
+                    "facet_id": 388,
+                    "id": 1,
+                    "value": "weinrot/denim",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Braun/schlamm",
+                    "facet_id": 400,
+                    "id": 1,
+                    "value": "braun/schlamm",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Blau/pink/gelb",
+                    "facet_id": 412,
+                    "id": 1,
+                    "value": "blau/pink/gelb",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Hellblau/fullprint",
+                    "facet_id": 424,
+                    "id": 1,
+                    "value": "hellblau/fullprint",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Anthrazit/nude",
+                    "facet_id": 436,
+                    "id": 1,
+                    "value": "anthrazit/nude",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Violett/rose",
+                    "facet_id": 450,
+                    "id": 1,
+                    "value": "violett/rose",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Nude/fullprint",
+                    "facet_id": 462,
+                    "id": 1,
+                    "value": "nude/fullprint",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Schwarz/lila/allover",
+                    "facet_id": 475,
+                    "id": 1,
+                    "value": "schwarz/lila/allover",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Ocean/gepunktet",
+                    "facet_id": 487,
+                    "id": 1,
+                    "value": "ocean/gepunktet",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Dunkelblau",
+                    "facet_id": 505,
+                    "id": 1,
+                    "value": "dunkelblau",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Pink/hellblau/kariert",
+                    "facet_id": 523,
+                    "id": 1,
+                    "value": "pink/hellblau/kariert",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Royal/graumelange",
+                    "facet_id": 535,
+                    "id": 1,
+                    "value": "royal/graumelange",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Rstb.",
+                    "facet_id": 547,
+                    "id": 1,
+                    "value": "rstb.",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Koralle/lila",
+                    "facet_id": 559,
+                    "id": 1,
+                    "value": "koralle/lila",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Schwarz/lila/gelb",
+                    "facet_id": 572,
+                    "id": 1,
+                    "value": "schwarz/lila/gelb",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Weiß/neonorange",
+                    "facet_id": 585,
+                    "id": 1,
+                    "value": "weiß/neonorange",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Brombeer/gestreift",
+                    "facet_id": 597,
+                    "id": 1,
+                    "value": "brombeer/gestreift",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Blaugrau/hellgrün",
+                    "facet_id": 610,
+                    "id": 1,
+                    "value": "blaugrau/hellgrün",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Pink/navy/allover",
+                    "facet_id": 623,
+                    "id": 1,
+                    "value": "pink/navy/allover",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Limette/weiß/schwar",
+                    "facet_id": 636,
+                    "id": 1,
+                    "value": "limette/weiß/schwar",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Schwarz/weiß/limett",
+                    "facet_id": 648,
+                    "id": 1,
+                    "value": "schwarz/weiß/limett",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Braun und schwarz",
+                    "facet_id": 660,
+                    "id": 1,
+                    "value": "braun und schwarz",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Bordeaux/blau",
+                    "facet_id": 672,
+                    "id": 1,
+                    "value": "bordeaux/blau",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Weiß/mint/rot",
+                    "facet_id": 684,
+                    "id": 1,
+                    "value": "weiß/mint/rot",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Grün/orange/kariert",
+                    "facet_id": 696,
+                    "id": 1,
+                    "value": "grün/orange/kariert",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Türkis/petrol",
+                    "facet_id": 711,
+                    "id": 1,
+                    "value": "türkis/petrol",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Grün/gelb/lila",
+                    "facet_id": 723,
+                    "id": 1,
+                    "value": "grün/gelb/lila",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Weiß/limette/blau",
+                    "facet_id": 735,
+                    "id": 1,
+                    "value": "weiß/limette/blau",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Koralle/anthrazit",
+                    "facet_id": 747,
+                    "id": 1,
+                    "value": "koralle/anthrazit",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Grün/rot/weiß",
+                    "facet_id": 768,
+                    "id": 1,
+                    "value": "grün/rot/weiß",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Braunrot",
+                    "facet_id": 3250,
+                    "id": 1,
+                    "value": "braunrot",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Blassblau",
+                    "facet_id": 3262,
+                    "id": 1,
+                    "value": "blassblau",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Schiefergrau",
+                    "facet_id": 3274,
+                    "id": 1,
+                    "value": "schiefergrau",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Graugrün",
+                    "facet_id": 3286,
+                    "id": 1,
+                    "value": "graugrün",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Rot/anthrazit/kariert",
+                    "facet_id": 300,
+                    "id": 1,
+                    "value": "rot/anthrazit/kariert",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Schwarz/rot/limone",
+                    "facet_id": 309,
+                    "id": 1,
+                    "value": "schwarz/rot/limone",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Koralle/gestreift",
+                    "facet_id": 310,
+                    "id": 1,
+                    "value": "koralle/gestreift",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Pink/schwarz/lila",
+                    "facet_id": 311,
+                    "id": 1,
+                    "value": "pink/schwarz/lila",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Limette/violett",
+                    "facet_id": 320,
+                    "id": 1,
+                    "value": "limette/violett",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Grau/neongelb",
+                    "facet_id": 326,
+                    "id": 1,
+                    "value": "grau/neongelb",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Navy/braun",
+                    "facet_id": 340,
+                    "id": 1,
+                    "value": "navy/braun",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Lila/hellblau",
+                    "facet_id": 353,
+                    "id": 1,
+                    "value": "lila/hellblau",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Taupe/schwarz",
+                    "facet_id": 366,
+                    "id": 1,
+                    "value": "taupe/schwarz",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Rot/orange/lila",
+                    "facet_id": 378,
+                    "id": 1,
+                    "value": "rot/orange/lila",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Lila/neonorange",
+                    "facet_id": 390,
+                    "id": 1,
+                    "value": "lila/neonorange",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Natur/bunt",
+                    "facet_id": 402,
+                    "id": 1,
+                    "value": "natur/bunt",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Orange/neongelb",
+                    "facet_id": 414,
+                    "id": 1,
+                    "value": "orange/neongelb",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Himbeer/dunkelblau",
+                    "facet_id": 426,
+                    "id": 1,
+                    "value": "himbeer/dunkelblau",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Rose",
+                    "facet_id": 439,
+                    "id": 1,
+                    "value": "rose",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Marine/graumelange",
+                    "facet_id": 452,
+                    "id": 1,
+                    "value": "marine/graumelange",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Mint/petrol",
+                    "facet_id": 464,
+                    "id": 1,
+                    "value": "mint/petrol",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Ecru/brombeer/lila",
+                    "facet_id": 477,
+                    "id": 1,
+                    "value": "ecru/brombeer/lila",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Braun/washed",
+                    "facet_id": 489,
+                    "id": 1,
+                    "value": "braun/washed",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Dunkelbraun/gelb",
+                    "facet_id": 507,
+                    "id": 1,
+                    "value": "dunkelbraun/gelb",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Neonorange/gestreift",
+                    "facet_id": 525,
+                    "id": 1,
+                    "value": "neonorange/gestreift",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Schwarz/jeans",
+                    "facet_id": 537,
+                    "id": 1,
+                    "value": "schwarz/jeans",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Marine/melange",
+                    "facet_id": 549,
+                    "id": 1,
+                    "value": "marine/melange",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Pink/schwarz/kariert",
+                    "facet_id": 561,
+                    "id": 1,
+                    "value": "pink/schwarz/kariert",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Rose/multi",
+                    "facet_id": 574,
+                    "id": 1,
+                    "value": "rose/multi",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Pink/grün/allover",
+                    "facet_id": 587,
+                    "id": 1,
+                    "value": "pink/grün/allover",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Grün/lila/weiß",
+                    "facet_id": 599,
+                    "id": 1,
+                    "value": "grün/lila/weiß",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Türkis/limette",
+                    "facet_id": 612,
+                    "id": 1,
+                    "value": "türkis/limette",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Weiß/bunt/allover",
+                    "facet_id": 625,
+                    "id": 1,
+                    "value": "weiß/bunt/allover",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Oliv/weiß/kariert",
+                    "facet_id": 626,
+                    "id": 1,
+                    "value": "oliv/weiß/kariert",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Türkis/hellgelb",
+                    "facet_id": 638,
+                    "id": 1,
+                    "value": "türkis/hellgelb",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Rostrot/schwarz",
+                    "facet_id": 650,
+                    "id": 1,
+                    "value": "rostrot/schwarz",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Bunt/weiß",
+                    "facet_id": 662,
+                    "id": 1,
+                    "value": "bunt/weiß",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Schwarz/hellblau/braun",
+                    "facet_id": 674,
+                    "id": 1,
+                    "value": "schwarz/hellblau/braun",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Sand/türkis",
+                    "facet_id": 686,
+                    "id": 1,
+                    "value": "sand/türkis",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Lachs/melange",
+                    "facet_id": 698,
+                    "id": 1,
+                    "value": "lachs/melange",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Braun/rose/lila",
+                    "facet_id": 713,
+                    "id": 1,
+                    "value": "braun/rose/lila",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Rot/grün/gelb",
+                    "facet_id": 725,
+                    "id": 1,
+                    "value": "rot/grün/gelb",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Weiß/lila/allover",
+                    "facet_id": 737,
+                    "id": 1,
+                    "value": "weiß/lila/allover",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Pink/schwarz/weiß",
+                    "facet_id": 758,
+                    "id": 1,
+                    "value": "pink/schwarz/weiß",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Bordeauxrot",
+                    "facet_id": 3240,
+                    "id": 1,
+                    "value": "bordeauxrot",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Grasgrün",
+                    "facet_id": 3252,
+                    "id": 1,
+                    "value": "grasgrün",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Grauviolett",
+                    "facet_id": 3264,
+                    "id": 1,
+                    "value": "grauviolett",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Flieder",
+                    "facet_id": 3276,
+                    "id": 1,
+                    "value": "flieder",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Blasslila",
+                    "facet_id": 3288,
+                    "id": 1,
+                    "value": "blasslila",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Pink/brombeer",
+                    "facet_id": 287,
+                    "id": 1,
+                    "value": "pink/brombeer",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Rot/aqua",
+                    "facet_id": 316,
+                    "id": 1,
+                    "value": "rot/aqua",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Lila/limette",
+                    "facet_id": 323,
+                    "id": 1,
+                    "value": "lila/limette",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Lachs/blau",
+                    "facet_id": 332,
+                    "id": 1,
+                    "value": "lachs/blau",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Blaugrau/allover",
+                    "facet_id": 346,
+                    "id": 1,
+                    "value": "blaugrau/allover",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Anthrazit/oliv",
+                    "facet_id": 360,
+                    "id": 1,
+                    "value": "anthrazit/oliv",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Pink/blau/gelb",
+                    "facet_id": 372,
+                    "id": 1,
+                    "value": "pink/blau/gelb",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Schwarz/rot/blau",
+                    "facet_id": 384,
+                    "id": 1,
+                    "value": "schwarz/rot/blau",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Beige/neongelb",
+                    "facet_id": 396,
+                    "id": 1,
+                    "value": "beige/neongelb",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Bordeaux/pink",
+                    "facet_id": 408,
+                    "id": 1,
+                    "value": "bordeaux/pink",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Anthrazit/pink/mint",
+                    "facet_id": 420,
+                    "id": 1,
+                    "value": "anthrazit/pink/mint",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Aubergine/neonorange",
+                    "facet_id": 432,
+                    "id": 1,
+                    "value": "aubergine/neonorange",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Koralle/denim",
+                    "facet_id": 446,
+                    "id": 1,
+                    "value": "koralle/denim",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Creme/bunt",
+                    "facet_id": 458,
+                    "id": 1,
+                    "value": "creme/bunt",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Kariert/rot",
+                    "facet_id": 471,
+                    "id": 1,
+                    "value": "kariert/rot",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Khaki",
+                    "facet_id": 483,
+                    "id": 1,
+                    "value": "khaki",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Sand/gepunktet",
+                    "facet_id": 501,
+                    "id": 1,
+                    "value": "sand/gepunktet",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Orange/blau/schwarz",
+                    "facet_id": 517,
+                    "id": 1,
+                    "value": "orange/blau/schwarz",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Hellgelb/washed",
+                    "facet_id": 532,
+                    "id": 1,
+                    "value": "hellgelb/washed",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Hellblau/lila/gelb",
+                    "facet_id": 543,
+                    "id": 1,
+                    "value": "hellblau/lila/gelb",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Koralle/beige",
+                    "facet_id": 555,
+                    "id": 1,
+                    "value": "koralle/beige",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Anthrazit/mel",
+                    "facet_id": 568,
+                    "id": 1,
+                    "value": "anthrazit/mel",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Mischfarben",
+                    "facet_id": 580,
+                    "id": 1,
+                    "value": "mischfarben",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Bunt/gelb/pink",
+                    "facet_id": 593,
+                    "id": 1,
+                    "value": "bunt/gelb/pink",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Blau/weiß/orange",
+                    "facet_id": 606,
+                    "id": 1,
+                    "value": "blau/weiß/orange",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Neongrün/schwarz",
+                    "facet_id": 619,
+                    "id": 1,
+                    "value": "neongrün/schwarz",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Türkis",
+                    "facet_id": 632,
+                    "id": 1,
+                    "value": "türkis",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Weiß/transparent",
+                    "facet_id": 644,
+                    "id": 1,
+                    "value": "weiß/transparent",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Grün/schwarz/melange",
+                    "facet_id": 656,
+                    "id": 1,
+                    "value": "grün/schwarz/melange",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Weiß/gelb/grün",
+                    "facet_id": 668,
+                    "id": 1,
+                    "value": "weiß/gelb/grün",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Weiß/schwarz/gestre",
+                    "facet_id": 680,
+                    "id": 1,
+                    "value": "weiß/schwarz/gestre",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Lila/weiß/orange",
+                    "facet_id": 692,
+                    "id": 1,
+                    "value": "lila/weiß/orange",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Orange/camel",
+                    "facet_id": 704,
+                    "id": 1,
+                    "value": "orange/camel",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Bordeaux/gelb",
+                    "facet_id": 719,
+                    "id": 1,
+                    "value": "bordeaux/gelb",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Grün/gelb/rot",
+                    "facet_id": 731,
+                    "id": 1,
+                    "value": "grün/gelb/rot",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Türkis-blau",
+                    "facet_id": 743,
+                    "id": 1,
+                    "value": "türkis-blau",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Blau/grün/bordeaux",
+                    "facet_id": 764,
+                    "id": 1,
+                    "value": "blau/grün/bordeaux",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Blauviolett",
+                    "facet_id": 3246,
+                    "id": 1,
+                    "value": "blauviolett",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Anthrazit",
+                    "facet_id": 3258,
+                    "id": 1,
+                    "value": "anthrazit",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Blassgelb",
+                    "facet_id": 3270,
+                    "id": 1,
+                    "value": "blassgelb",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Creme",
+                    "facet_id": 3282,
+                    "id": 1,
+                    "value": "creme",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Fuchsia/kariert",
+                    "facet_id": 290,
+                    "id": 1,
+                    "value": "fuchsia/kariert",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Rot/mint",
+                    "facet_id": 299,
+                    "id": 1,
+                    "value": "rot/mint",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Schwarz/aqua/grau",
+                    "facet_id": 318,
+                    "id": 1,
+                    "value": "schwarz/aqua/grau",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Graumelange/pink",
+                    "facet_id": 324,
+                    "id": 1,
+                    "value": "graumelange/pink",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Bordeaux/schwarz",
+                    "facet_id": 335,
+                    "id": 1,
+                    "value": "bordeaux/schwarz",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Dunkelblau/camel",
+                    "facet_id": 349,
+                    "id": 1,
+                    "value": "dunkelblau/camel",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Kariert/gestreift",
+                    "facet_id": 363,
+                    "id": 1,
+                    "value": "kariert/gestreift",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Oliv/hellbraun",
+                    "facet_id": 375,
+                    "id": 1,
+                    "value": "oliv/hellbraun",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Petrol/neongelb",
+                    "facet_id": 387,
+                    "id": 1,
+                    "value": "petrol/neongelb",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Allover/orange",
+                    "facet_id": 399,
+                    "id": 1,
+                    "value": "allover/orange",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Navy/rot/blau",
+                    "facet_id": 411,
+                    "id": 1,
+                    "value": "navy/rot/blau",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Dunkelblau/neonorange",
+                    "facet_id": 423,
+                    "id": 1,
+                    "value": "dunkelblau/neonorange",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Graumelange/weinrot",
+                    "facet_id": 435,
+                    "id": 1,
+                    "value": "graumelange/weinrot",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Grau/apricot",
+                    "facet_id": 449,
+                    "id": 1,
+                    "value": "grau/apricot",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Schlamm/beige",
+                    "facet_id": 461,
+                    "id": 1,
+                    "value": "schlamm/beige",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Lila/brombeer",
+                    "facet_id": 474,
+                    "id": 1,
+                    "value": "lila/brombeer",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Neonorange/schwarz",
+                    "facet_id": 486,
+                    "id": 1,
+                    "value": "neonorange/schwarz",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Rot/lila",
+                    "facet_id": 504,
+                    "id": 1,
+                    "value": "rot/lila",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Gold/grau",
+                    "facet_id": 522,
+                    "id": 1,
+                    "value": "gold/grau",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Limette/pink",
+                    "facet_id": 534,
+                    "id": 1,
+                    "value": "limette/pink",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Indigo/allover",
+                    "facet_id": 546,
+                    "id": 1,
+                    "value": "indigo/allover",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Navy/orange/lila",
+                    "facet_id": 558,
+                    "id": 1,
+                    "value": "navy/orange/lila",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Beige/rose/gelb",
+                    "facet_id": 571,
+                    "id": 1,
+                    "value": "beige/rose/gelb",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Dunkelgrün/grün",
+                    "facet_id": 584,
+                    "id": 1,
+                    "value": "dunkelgrün/grün",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Grau/weiß/allover",
+                    "facet_id": 596,
+                    "id": 1,
+                    "value": "grau/weiß/allover",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Grün/petrol/schwarz",
+                    "facet_id": 609,
+                    "id": 1,
+                    "value": "grün/petrol/schwarz",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Gelb/grün/grau",
+                    "facet_id": 622,
+                    "id": 1,
+                    "value": "gelb/grün/grau",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Gelb/weiß/pink",
+                    "facet_id": 635,
+                    "id": 1,
+                    "value": "gelb/weiß/pink",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Grün/blau/weiß",
+                    "facet_id": 647,
+                    "id": 1,
+                    "value": "grün/blau/weiß",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Rot und schwarz",
+                    "facet_id": 659,
+                    "id": 1,
+                    "value": "rot und schwarz",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Denim/gelb",
+                    "facet_id": 671,
+                    "id": 1,
+                    "value": "denim/gelb",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Pflaume/pink",
+                    "facet_id": 683,
+                    "id": 1,
+                    "value": "pflaume/pink",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Grün/hellblau/wei&sz",
+                    "facet_id": 695,
+                    "id": 1,
+                    "value": "grün/hellblau/wei&sz",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Anthrazit/washed",
+                    "facet_id": 710,
+                    "id": 1,
+                    "value": "anthrazit/washed",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Neongrün/blau",
+                    "facet_id": 722,
+                    "id": 1,
+                    "value": "neongrün/blau",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Dunkelgrau/gepunktet",
+                    "facet_id": 734,
+                    "id": 1,
+                    "value": "dunkelgrau/gepunktet",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Braun/petrol/weiß",
+                    "facet_id": 746,
+                    "id": 1,
+                    "value": "braun/petrol/weiß",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Orange/multi",
+                    "facet_id": 767,
+                    "id": 1,
+                    "value": "orange/multi",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Schwarzbraun",
+                    "facet_id": 3249,
+                    "id": 1,
+                    "value": "schwarzbraun",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Mint",
+                    "facet_id": 3261,
+                    "id": 1,
+                    "value": "mint",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Babyblau",
+                    "facet_id": 3273,
+                    "id": 1,
+                    "value": "babyblau",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Blassgrün",
+                    "facet_id": 3285,
+                    "id": 1,
+                    "value": "blassgrün",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Silberfarben",
+                    "facet_id": 76,
+                    "id": 1,
+                    "value": "silberfarben",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Keine",
+                    "facet_id": 166,
+                    "id": 1,
+                    "value": "keine",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Blaugrau/lila",
+                    "facet_id": 173,
+                    "id": 1,
+                    "value": "blaugrau/lila",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Petrol/limette",
+                    "facet_id": 181,
+                    "id": 1,
+                    "value": "petrol/limette",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Gelb/blau/khaki",
+                    "facet_id": 200,
+                    "id": 1,
+                    "value": "gelb/blau/khaki",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Koralle/pink",
+                    "facet_id": 238,
+                    "id": 1,
+                    "value": "koralle/pink",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Allover/blau",
+                    "facet_id": 259,
+                    "id": 1,
+                    "value": "allover/blau",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Grau",
+                    "facet_id": 12,
+                    "id": 1,
+                    "value": "grau",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Goldfarben",
+                    "facet_id": 65,
+                    "id": 1,
+                    "value": "goldfarben",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Blau/washed",
+                    "facet_id": 190,
+                    "id": 1,
+                    "value": "blau/washed",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Blau",
+                    "facet_id": 1,
+                    "id": 1,
+                    "value": "blau",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Natur",
+                    "facet_id": 54,
+                    "id": 1,
+                    "value": "natur",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Multicolor",
+                    "facet_id": 152,
+                    "id": 1,
+                    "value": "multicolor",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Silber",
+                    "facet_id": 168,
+                    "id": 1,
+                    "value": "silber",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Fuchsia/schwarz",
+                    "facet_id": 184,
+                    "id": 1,
+                    "value": "fuchsia/schwarz",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Grau/schwarz/kariert",
+                    "facet_id": 226,
+                    "id": 1,
+                    "value": "grau/schwarz/kariert",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Pflaume/grau",
+                    "facet_id": 237,
+                    "id": 1,
+                    "value": "pflaume/grau",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Blau/rot/kariert",
+                    "facet_id": 244,
+                    "id": 1,
+                    "value": "blau/rot/kariert",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Navy/limone",
+                    "facet_id": 256,
+                    "id": 1,
+                    "value": "navy/limone",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Limone/anthrazit",
+                    "facet_id": 264,
+                    "id": 1,
+                    "value": "limone/anthrazit",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Lila",
+                    "facet_id": 30,
+                    "id": 1,
+                    "value": "lila",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Multi",
+                    "facet_id": 167,
+                    "id": 1,
+                    "value": "multi",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Schwarz/blau/orange",
+                    "facet_id": 177,
+                    "id": 1,
+                    "value": "schwarz/blau/orange",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Limette/braun/kariert",
+                    "facet_id": 199,
+                    "id": 1,
+                    "value": "limette/braun/kariert",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Lila/pink/petrol",
+                    "facet_id": 207,
+                    "id": 1,
+                    "value": "lila/pink/petrol",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Leopard/allover",
+                    "facet_id": 236,
+                    "id": 1,
+                    "value": "leopard/allover",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Himbeer/melange",
+                    "facet_id": 257,
+                    "id": 1,
+                    "value": "himbeer/melange",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Petrol/mint/gelb",
+                    "facet_id": 263,
+                    "id": 1,
+                    "value": "petrol/mint/gelb",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Orange",
+                    "facet_id": 14,
+                    "id": 1,
+                    "value": "orange",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Neongelb/anthrazit",
+                    "facet_id": 158,
+                    "id": 1,
+                    "value": "neongelb/anthrazit",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Hellblau",
+                    "facet_id": 171,
+                    "id": 1,
+                    "value": "hellblau",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Grau/koralle",
+                    "facet_id": 179,
+                    "id": 1,
+                    "value": "grau/koralle",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Bordeaux/kariert",
+                    "facet_id": 186,
+                    "id": 1,
+                    "value": "bordeaux/kariert",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Sand/multi",
+                    "facet_id": 189,
+                    "id": 1,
+                    "value": "sand/multi",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Brombeer/gelb",
+                    "facet_id": 202,
+                    "id": 1,
+                    "value": "brombeer/gelb",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Schwarz/lila/fuchsia",
+                    "facet_id": 228,
+                    "id": 1,
+                    "value": "schwarz/lila/fuchsia",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Schwarz/blau/kariert",
+                    "facet_id": 240,
+                    "id": 1,
+                    "value": "schwarz/blau/kariert",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Gestreift/graumelange",
+                    "facet_id": 246,
+                    "id": 1,
+                    "value": "gestreift/graumelange",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Gelb/orange/petrol",
+                    "facet_id": 261,
+                    "id": 1,
+                    "value": "gelb/orange/petrol",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Schwarz/grau/allover",
+                    "facet_id": 313,
+                    "id": 1,
+                    "value": "schwarz/grau/allover",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Lila/neongelb",
+                    "facet_id": 330,
+                    "id": 1,
+                    "value": "lila/neongelb",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Washed/beige",
+                    "facet_id": 344,
+                    "id": 1,
+                    "value": "washed/beige",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Petrol/aqua",
+                    "facet_id": 358,
+                    "id": 1,
+                    "value": "petrol/aqua",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Oliv/camouflage",
+                    "facet_id": 370,
+                    "id": 1,
+                    "value": "oliv/camouflage",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Pink/graumelange",
+                    "facet_id": 382,
+                    "id": 1,
+                    "value": "pink/graumelange",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Limette/grau",
+                    "facet_id": 394,
+                    "id": 1,
+                    "value": "limette/grau",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Senf/rot",
+                    "facet_id": 406,
+                    "id": 1,
+                    "value": "senf/rot",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Navy/neonorange/mint",
+                    "facet_id": 418,
+                    "id": 1,
+                    "value": "navy/neonorange/mint",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Dunkelgraumelange/himbeer",
+                    "facet_id": 430,
+                    "id": 1,
+                    "value": "dunkelgraumelange/himbeer",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Schwarz/creme",
+                    "facet_id": 444,
+                    "id": 1,
+                    "value": "schwarz/creme",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Iblau",
+                    "facet_id": 456,
+                    "id": 1,
+                    "value": "iblau",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Rostrot/kariert",
+                    "facet_id": 469,
+                    "id": 1,
+                    "value": "rostrot/kariert",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Beere/melange",
+                    "facet_id": 481,
+                    "id": 1,
+                    "value": "beere/melange",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Brombeere",
+                    "facet_id": 498,
+                    "id": 1,
+                    "value": "brombeere",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Dunkelblau/allover",
+                    "facet_id": 515,
+                    "id": 1,
+                    "value": "dunkelblau/allover",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Gestreift/fullprint",
+                    "facet_id": 531,
+                    "id": 1,
+                    "value": "gestreift/fullprint",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Graumelange/himbeer",
+                    "facet_id": 541,
+                    "id": 1,
+                    "value": "graumelange/himbeer",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Dunkelgrau/orange",
+                    "facet_id": 553,
+                    "id": 1,
+                    "value": "dunkelgrau/orange",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Grau/rostrot",
+                    "facet_id": 565,
+                    "id": 1,
+                    "value": "grau/rostrot",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Grafit/kariert",
+                    "facet_id": 578,
+                    "id": 1,
+                    "value": "grafit/kariert",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Espresso/türkis",
+                    "facet_id": 591,
+                    "id": 1,
+                    "value": "espresso/türkis",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Grau/hellgrün",
+                    "facet_id": 603,
+                    "id": 1,
+                    "value": "grau/hellgrün",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Brombeer/hellgrün",
+                    "facet_id": 617,
+                    "id": 1,
+                    "value": "brombeer/hellgrün",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Violett/blau/weiß",
+                    "facet_id": 630,
+                    "id": 1,
+                    "value": "violett/blau/weiß",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Weiß/grün/lime",
+                    "facet_id": 642,
+                    "id": 1,
+                    "value": "weiß/grün/lime",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Blau/grün/allover",
+                    "facet_id": 654,
+                    "id": 1,
+                    "value": "blau/grün/allover",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Schwarz/türkis/ro",
+                    "facet_id": 666,
+                    "id": 1,
+                    "value": "schwarz/türkis/ro",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Türkis/ocean",
+                    "facet_id": 678,
+                    "id": 1,
+                    "value": "türkis/ocean",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Schwarz/blau/grün",
+                    "facet_id": 690,
+                    "id": 1,
+                    "value": "schwarz/blau/grün",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Türkis/washed",
+                    "facet_id": 702,
+                    "id": 1,
+                    "value": "türkis/washed",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Navy/neongelb",
+                    "facet_id": 717,
+                    "id": 1,
+                    "value": "navy/neongelb",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Schwarz/grün/blau",
+                    "facet_id": 729,
+                    "id": 1,
+                    "value": "schwarz/grün/blau",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Neonorange/grün",
+                    "facet_id": 741,
+                    "id": 1,
+                    "value": "neonorange/grün",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Anthrazit/grün/pink",
+                    "facet_id": 762,
+                    "id": 1,
+                    "value": "anthrazit/grün/pink",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Dunkelgrün",
+                    "facet_id": 3244,
+                    "id": 1,
+                    "value": "dunkelgrün",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Braunviolett",
+                    "facet_id": 3256,
+                    "id": 1,
+                    "value": "braunviolett",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Ziegelrot",
+                    "facet_id": 3268,
+                    "id": 1,
+                    "value": "ziegelrot",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Lachs",
+                    "facet_id": 3280,
+                    "id": 1,
+                    "value": "lachs",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Rosa",
+                    "facet_id": 9,
+                    "id": 1,
+                    "value": "rosa",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Schwarz",
+                    "facet_id": 11,
+                    "id": 1,
+                    "value": "schwarz",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Braun",
+                    "facet_id": 15,
+                    "id": 1,
+                    "value": "braun",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Rot",
+                    "facet_id": 18,
+                    "id": 1,
+                    "value": "rot",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Beige",
+                    "facet_id": 48,
+                    "id": 1,
+                    "value": "beige",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Bunt",
+                    "facet_id": 55,
+                    "id": 1,
+                    "value": "bunt",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Farb-Set",
+                    "facet_id": 75,
+                    "id": 1,
+                    "value": "Farb-Set",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Gelb",
+                    "facet_id": 67,
+                    "id": 1,
+                    "value": "gelb",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Petrol/navy",
+                    "facet_id": 154,
+                    "id": 1,
+                    "value": "petrol/navy",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Lila/petrol",
+                    "facet_id": 155,
+                    "id": 1,
+                    "value": "lila/petrol",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Beere",
+                    "facet_id": 157,
+                    "id": 1,
+                    "value": "beere",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Dunkelblau/orange/schwarz",
+                    "facet_id": 159,
+                    "id": 1,
+                    "value": "dunkelblau/orange/schwarz",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Schwarz/blau/limette",
+                    "facet_id": 165,
+                    "id": 1,
+                    "value": "schwarz/blau/limette",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Dunkelgrau/bordeaux",
+                    "facet_id": 169,
+                    "id": 1,
+                    "value": "dunkelgrau/bordeaux",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Violett",
+                    "facet_id": 170,
+                    "id": 1,
+                    "value": "violett",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Navy/melange",
+                    "facet_id": 172,
+                    "id": 1,
+                    "value": "navy/melange",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Blau/limette",
+                    "facet_id": 174,
+                    "id": 1,
+                    "value": "blau/limette",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Blau/schwarz/orange",
+                    "facet_id": 178,
+                    "id": 1,
+                    "value": "blau/schwarz/orange",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Rose/fullprint",
+                    "facet_id": 180,
+                    "id": 1,
+                    "value": "rose/fullprint",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Limette/schwarz",
+                    "facet_id": 182,
+                    "id": 1,
+                    "value": "limette/schwarz",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Schwarz/fuchsia",
+                    "facet_id": 185,
+                    "id": 1,
+                    "value": "schwarz/fuchsia",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Schwarz/lila/blau",
+                    "facet_id": 193,
+                    "id": 1,
+                    "value": "schwarz/lila/blau",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Limone/blau",
+                    "facet_id": 194,
+                    "id": 1,
+                    "value": "limone/blau",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Schwarz/koralle",
+                    "facet_id": 195,
+                    "id": 1,
+                    "value": "schwarz/koralle",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Blau/limone/schwarz",
+                    "facet_id": 201,
+                    "id": 1,
+                    "value": "blau/limone/schwarz",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Pink",
+                    "facet_id": 204,
+                    "id": 1,
+                    "value": "pink",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Dunkelblau/sand",
+                    "facet_id": 206,
+                    "id": 1,
+                    "value": "dunkelblau/sand",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Khaki/hellbraun",
+                    "facet_id": 208,
+                    "id": 1,
+                    "value": "khaki/hellbraun",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Anthrazit/neongelb",
+                    "facet_id": 209,
+                    "id": 1,
+                    "value": "anthrazit/neongelb",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Blau/bordeaux/kariert",
+                    "facet_id": 220,
+                    "id": 1,
+                    "value": "blau/bordeaux/kariert",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Schwarz/blau/allover",
+                    "facet_id": 221,
+                    "id": 1,
+                    "value": "schwarz/blau/allover",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Schwarz-weiss",
+                    "facet_id": 222,
+                    "id": 1,
+                    "value": "schwarz-weiss",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Grafit/schwarz",
+                    "facet_id": 224,
+                    "id": 1,
+                    "value": "grafit/schwarz",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Lila/melange",
+                    "facet_id": 227,
+                    "id": 1,
+                    "value": "lila/melange",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Anthrazit/rostrot",
+                    "facet_id": 229,
+                    "id": 1,
+                    "value": "anthrazit/rostrot",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Transparent",
+                    "facet_id": 230,
+                    "id": 1,
+                    "value": "transparent",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Blau/limone",
+                    "facet_id": 233,
+                    "id": 1,
+                    "value": "blau/limone",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Apricot/graumelange",
+                    "facet_id": 239,
+                    "id": 1,
+                    "value": "apricot/graumelange",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Blau/koralle",
+                    "facet_id": 241,
+                    "id": 1,
+                    "value": "blau/koralle",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Navy/koralle",
+                    "facet_id": 242,
+                    "id": 1,
+                    "value": "navy/koralle",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Grau/blau/pink",
+                    "facet_id": 243,
+                    "id": 1,
+                    "value": "grau/blau/pink",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Bordeaux/melange",
+                    "facet_id": 245,
+                    "id": 1,
+                    "value": "bordeaux/melange",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Gold",
+                    "facet_id": 247,
+                    "id": 1,
+                    "value": "gold",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Weinrot/blau",
+                    "facet_id": 248,
+                    "id": 1,
+                    "value": "weinrot/blau",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Petrol/rose",
+                    "facet_id": 258,
+                    "id": 1,
+                    "value": "petrol/rose",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Bordeaux/koralle",
+                    "facet_id": 260,
+                    "id": 1,
+                    "value": "bordeaux/koralle",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Hellblau/koralle",
+                    "facet_id": 262,
+                    "id": 1,
+                    "value": "hellblau/koralle",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Arose",
+                    "facet_id": 271,
+                    "id": 1,
+                    "value": "arose",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Creme/beige",
+                    "facet_id": 273,
+                    "id": 1,
+                    "value": "creme/beige",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Graumelange/dunkelgrau",
+                    "facet_id": 268,
+                    "id": 1,
+                    "value": "graumelange/dunkelgrau",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Lilamelange",
+                    "facet_id": 274,
+                    "id": 1,
+                    "value": "lilamelange",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Lila/denim",
+                    "facet_id": 275,
+                    "id": 1,
+                    "value": "lila/denim",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Orange/blau/kariert",
+                    "facet_id": 277,
+                    "id": 1,
+                    "value": "orange/blau/kariert",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Allover/beige",
+                    "facet_id": 280,
+                    "id": 1,
+                    "value": "allover/beige",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Petrol/rot",
+                    "facet_id": 269,
+                    "id": 1,
+                    "value": "petrol/rot",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Anthrazit/limone",
+                    "facet_id": 265,
+                    "id": 1,
+                    "value": "anthrazit/limone",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Dunkellila",
+                    "facet_id": 270,
+                    "id": 1,
+                    "value": "dunkellila",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Schwarz/gepunktet",
+                    "facet_id": 279,
+                    "id": 1,
+                    "value": "schwarz/gepunktet",
+                    "group_name": "color"
+                },
+                {
+                    "name": "Lila/blau/pink",
+                    "facet_id": 276,
+                    "id": 1,
+                    "value": "lila/blau/pink",
+                    "group_name": "color"
+                }
+            ],
+            "hits": 598
+        }
+    }
+]

@@ -1,0 +1,27 @@
+{
+    "styles": [],
+    "name": "Sandalette, Rieker",
+    "sale": false,
+    "categories.98": [
+        [
+            2,21
+        ],
+        [
+            1,12,121
+        ],
+        [
+            1,11
+        ],
+        [
+            3
+        ]
+    ],
+    "attributes_merged": {
+        "attributes_0": 269
+    },
+    "brand_id": 269,
+    "description_long": "description long 1",
+    "active": false,
+    "description_short": "description short 1",
+    "id": 123
+}

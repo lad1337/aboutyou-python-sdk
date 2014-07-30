@@ -1,0 +1,709 @@
+[
+    {
+        "products": {
+            "pageHash": "fc1e4f77-f6d6-4ee3-b0c8-63e62e2df6f0",
+            "ids": {
+                "264044": {
+                    "styles": [
+                        {
+                            "active": true,
+                            "variants": [
+                                {
+                                    "updated_date": null,
+                                    "ean": "5712060523973",
+                                    "default": false,
+                                    "first_sale_date": null,
+                                    "price": 2490,
+                                    "first_active_date": "2014-02-25 15:08:36",
+                                    "old_price": 0,
+                                    "additional_info": {
+                                        "cross_selling": []
+                                    },
+                                    "created_date": null,
+                                    "images": [
+                                        {
+                                            "hash": "e7df17e03ad2587f42ef5eadf448453e",
+                                            "tags": [
+                                                "model_front"
+                                            ],
+                                            "image": {
+                                                "width": 1578,
+                                                "height": 2000
+                                            },
+                                            "ext": ".jpg",
+                                            "mime": "image/jpeg",
+                                            "size": 1100541
+                                        },
+                                        {
+                                            "hash": "0695e37354ce63bfda166db9d36bfe8f",
+                                            "tags": [
+                                                "model_back"
+                                            ],
+                                            "image": {
+                                                "width": 1578,
+                                                "height": 2000
+                                            },
+                                            "ext": ".jpg",
+                                            "mime": "image/jpeg",
+                                            "size": 904590
+                                        },
+                                        {
+                                            "hash": "e77d0e8f7cf27ab9e75bf38b24077736",
+                                            "tags": [
+                                                "outfit"
+                                            ],
+                                            "image": {
+                                                "width": 1578,
+                                                "height": 2000
+                                            },
+                                            "ext": ".jpg",
+                                            "mime": "image/jpeg",
+                                            "size": 1173884
+                                        },
+                                        {
+                                            "hash": "195ac68bafa4669614b912e3551662b2",
+                                            "tags": [
+                                                "bust_front"
+                                            ],
+                                            "image": {
+                                                "width": 1578,
+                                                "height": 2000
+                                            },
+                                            "ext": ".jpg",
+                                            "mime": "image/jpeg",
+                                            "size": 1155364
+                                        }
+                                    ],
+                                    "attributes": {
+                                        "attributes_172": [ 1967 ],
+                                        "attributes_173": [ 2112 ],
+                                        "attributes_206": [ 2392 ],
+                                        "attributes_211": [ 2748 ],
+                                        "attributes_0": [ 4449 ],
+                                        "attributes_1": [ 570 ]
+                                    },
+                                    "retail_price": 2490,
+                                    "id": 5036490,
+                                    "quantity": 5
+                                },
+                                {
+                                    "updated_date": null,
+                                    "ean": "5712060523980",
+                                    "default": false,
+                                    "first_sale_date": null,
+                                    "price": 2490,
+                                    "first_active_date": "2014-02-25 15:08:36",
+                                    "old_price": 0,
+                                    "additional_info": {
+                                        "cross_selling": []
+                                    },
+                                    "created_date": null,
+                                    "images": [
+                                        {
+                                            "hash": "e7df17e03ad2587f42ef5eadf448453e",
+                                            "tags": [
+                                                "model_front"
+                                            ],
+                                            "image": {
+                                                "width": 1578,
+                                                "height": 2000
+                                            },
+                                            "ext": ".jpg",
+                                            "mime": "image/jpeg",
+                                            "size": 1100541
+                                        },
+                                        {
+                                            "hash": "0695e37354ce63bfda166db9d36bfe8f",
+                                            "tags": [
+                                                "model_back"
+                                            ],
+                                            "image": {
+                                                "width": 1578,
+                                                "height": 2000
+                                            },
+                                            "ext": ".jpg",
+                                            "mime": "image/jpeg",
+                                            "size": 904590
+                                        },
+                                        {
+                                            "hash": "e77d0e8f7cf27ab9e75bf38b24077736",
+                                            "tags": [
+                                                "outfit"
+                                            ],
+                                            "image": {
+                                                "width": 1578,
+                                                "height": 2000
+                                            },
+                                            "ext": ".jpg",
+                                            "mime": "image/jpeg",
+                                            "size": 1173884
+                                        },
+                                        {
+                                            "hash": "195ac68bafa4669614b912e3551662b2",
+                                            "tags": [
+                                                "bust_front"
+                                            ],
+                                            "image": {
+                                                "width": 1578,
+                                                "height": 2000
+                                            },
+                                            "ext": ".jpg",
+                                            "mime": "image/jpeg",
+                                            "size": 1155364
+                                        }
+                                    ],
+                                    "attributes": {
+                                        "attributes_172": [ 1967 ],
+                                        "attributes_173": [ 2166 ],
+                                        "attributes_206": [ 2402 ],
+                                        "attributes_211": [ 2748 ],
+                                        "attributes_0": [ 4449 ],
+                                        "attributes_1": [ 570 ]
+                                    },
+                                    "retail_price": 2490,
+                                    "id": 5036491,
+                                    "quantity": 5
+                                },
+                                {
+                                    "updated_date": null,
+                                    "ean": "5712060523997",
+                                    "default": false,
+                                    "first_sale_date": null,
+                                    "price": 2490,
+                                    "first_active_date": "2014-02-25 15:08:36",
+                                    "old_price": 0,
+                                    "additional_info": {
+                                        "cross_selling": []
+                                    },
+                                    "created_date": null,
+                                    "images": [
+                                        {
+                                            "hash": "e7df17e03ad2587f42ef5eadf448453e",
+                                            "tags": [
+                                                "model_front"
+                                            ],
+                                            "image": {
+                                                "width": 1578,
+                                                "height": 2000
+                                            },
+                                            "ext": ".jpg",
+                                            "mime": "image/jpeg",
+                                            "size": 1100541
+                                        },
+                                        {
+                                            "hash": "0695e37354ce63bfda166db9d36bfe8f",
+                                            "tags": [
+                                                "model_back"
+                                            ],
+                                            "image": {
+                                                "width": 1578,
+                                                "height": 2000
+                                            },
+                                            "ext": ".jpg",
+                                            "mime": "image/jpeg",
+                                            "size": 904590
+                                        },
+                                        {
+                                            "hash": "e77d0e8f7cf27ab9e75bf38b24077736",
+                                            "tags": [
+                                                "outfit"
+                                            ],
+                                            "image": {
+                                                "width": 1578,
+                                                "height": 2000
+                                            },
+                                            "ext": ".jpg",
+                                            "mime": "image/jpeg",
+                                            "size": 1173884
+                                        },
+                                        {
+                                            "hash": "195ac68bafa4669614b912e3551662b2",
+                                            "tags": [
+                                                "bust_front"
+                                            ],
+                                            "image": {
+                                                "width": 1578,
+                                                "height": 2000
+                                            },
+                                            "ext": ".jpg",
+                                            "mime": "image/jpeg",
+                                            "size": 1155364
+                                        }
+                                    ],
+                                    "attributes": {
+                                        "attributes_172": [ 1967 ],
+                                        "attributes_173": [ 2214 ],
+                                        "attributes_206": [ 2412 ],
+                                        "attributes_211": [ 2748 ],
+                                        "attributes_0": [ 4449 ],
+                                        "attributes_1": [ 570 ]
+                                    },
+                                    "retail_price": 2490,
+                                    "id": 5036492,
+                                    "quantity": 5
+                                },
+                                {
+                                    "updated_date": null,
+                                    "ean": "5712060524000",
+                                    "default": false,
+                                    "first_sale_date": null,
+                                    "price": 2490,
+                                    "first_active_date": "2014-02-25 15:08:36",
+                                    "old_price": 0,
+                                    "additional_info": {
+                                        "cross_selling": []
+                                    },
+                                    "created_date": null,
+                                    "images": [
+                                        {
+                                            "hash": "e7df17e03ad2587f42ef5eadf448453e",
+                                            "tags": [
+                                                "model_front"
+                                            ],
+                                            "image": {
+                                                "width": 1578,
+                                                "height": 2000
+                                            },
+                                            "ext": ".jpg",
+                                            "mime": "image/jpeg",
+                                            "size": 1100541
+                                        },
+                                        {
+                                            "hash": "0695e37354ce63bfda166db9d36bfe8f",
+                                            "tags": [
+                                                "model_back"
+                                            ],
+                                            "image": {
+                                                "width": 1578,
+                                                "height": 2000
+                                            },
+                                            "ext": ".jpg",
+                                            "mime": "image/jpeg",
+                                            "size": 904590
+                                        },
+                                        {
+                                            "hash": "e77d0e8f7cf27ab9e75bf38b24077736",
+                                            "tags": [
+                                                "outfit"
+                                            ],
+                                            "image": {
+                                                "width": 1578,
+                                                "height": 2000
+                                            },
+                                            "ext": ".jpg",
+                                            "mime": "image/jpeg",
+                                            "size": 1173884
+                                        },
+                                        {
+                                            "hash": "195ac68bafa4669614b912e3551662b2",
+                                            "tags": [
+                                                "bust_front"
+                                            ],
+                                            "image": {
+                                                "width": 1578,
+                                                "height": 2000
+                                            },
+                                            "ext": ".jpg",
+                                            "mime": "image/jpeg",
+                                            "size": 1155364
+                                        }
+                                    ],
+                                    "attributes": {
+                                        "attributes_172": [ 1967 ],
+                                        "attributes_173": [ 2251 ],
+                                        "attributes_206": [ 2422 ],
+                                        "attributes_211": [ 2748 ],
+                                        "attributes_0": [ 4449 ],
+                                        "attributes_1": [ 570 ]
+                                    },
+                                    "retail_price": 2490,
+                                    "id": 5036493,
+                                    "quantity": 5
+                                }
+                            ],
+                            "id": 264043,
+                            "style_key": "m05_SEM0018",
+                            "name": "T-Shirt im Vintage-Style 'Bombadear'"
+                        }
+                    ],
+                    "name": "T-Shirt im Vintage-Style 'Bombadear'",
+                    "active": true,
+                    "variants": [
+                        {
+                            "updated_date": null,
+                            "ean": "5712060524017",
+                            "default": false,
+                            "first_sale_date": null,
+                            "price": 2490,
+                            "first_active_date": "2014-02-25 15:32:32",
+                            "old_price": 0,
+                            "additional_info": {
+                                "model_info": {
+                                    "waist": "76 mm",
+                                    "gender": "male",
+                                    "arms": "63 mm",
+                                    "height": "188 mm",
+                                    "legs": "93 mm",
+                                    "upper_chest": "96 mm",
+                                    "hips": "96 mm"
+                                },
+                                "model_wears": {
+                                    "measurements": "gesamtlänge 720 mm",
+                                    "ean": "5712060524024"
+                                },
+                                "cross_selling": [
+                                    "8718513654284"
+                                ]
+                            },
+                            "created_date": null,
+                            "images": [
+                                {
+                                    "hash": "6246c2fa047df5e1b7670d672b0c0d8b",
+                                    "tags": [
+                                        "model_front"
+                                    ],
+                                    "image": {
+                                        "width": 1578,
+                                        "height": 2000
+                                    },
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "size": 1324180
+                                },
+                                {
+                                    "hash": "d39ea003c797b6e58e97fe88566c6a74",
+                                    "tags": [
+                                        "model_back"
+                                    ],
+                                    "image": {
+                                        "width": 1578,
+                                        "height": 2000
+                                    },
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "size": 1148293
+                                },
+                                {
+                                    "hash": "d334a88ece9ad987c7ac2959d6350bca",
+                                    "tags": [
+                                        "outfit"
+                                    ],
+                                    "image": {
+                                        "width": 1578,
+                                        "height": 2000
+                                    },
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "size": 1540496
+                                },
+                                {
+                                    "hash": "31d152c4efa06bfda5e0f3f3378593ac",
+                                    "tags": [
+                                        "bust_front"
+                                    ],
+                                    "image": {
+                                        "width": 1578,
+                                        "height": 2000
+                                    },
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "size": 1200347
+                                }
+                            ],
+                            "attributes": {
+                                "attributes_247": [ 3418, 3421, 3423, 3427, 3430 ],
+                                "attributes_172": [ 1967 ],
+                                "attributes_173": [ 2112 ],
+                                "attributes_206": [ 2392 ],
+                                "attributes_211": [ 2748 ],
+                                "attributes_0": [ 4449 ],
+                                "attributes_1": [ 570 ]
+                            },
+                            "retail_price": 2490,
+                            "id": 5036494,
+                            "quantity": 5
+                        },
+                        {
+                            "updated_date": null,
+                            "ean": "5712060524024",
+                            "default": false,
+                            "first_sale_date": null,
+                            "price": 2490,
+                            "first_active_date": "2014-02-25 15:32:33",
+                            "old_price": 0,
+                            "additional_info": {
+                                "model_info": {
+                                    "waist": "76 mm",
+                                    "gender": "male",
+                                    "arms": "63 mm",
+                                    "height": "188 mm",
+                                    "legs": "93 mm",
+                                    "upper_chest": "96 mm",
+                                    "hips": "96 mm"
+                                },
+                                "model_wears": {
+                                    "measurements": "gesamtlänge 720 mm",
+                                    "ean": "5712060524024"
+                                },
+                                "cross_selling": [
+                                    "8718513654284"
+                                ]
+                            },
+                            "created_date": null,
+                            "images": [
+                                {
+                                    "hash": "6246c2fa047df5e1b7670d672b0c0d8b",
+                                    "tags": [
+                                        "model_front"
+                                    ],
+                                    "image": {
+                                        "width": 1578,
+                                        "height": 2000
+                                    },
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "size": 1324180
+                                },
+                                {
+                                    "hash": "d39ea003c797b6e58e97fe88566c6a74",
+                                    "tags": [
+                                        "model_back"
+                                    ],
+                                    "image": {
+                                        "width": 1578,
+                                        "height": 2000
+                                    },
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "size": 1148293
+                                },
+                                {
+                                    "hash": "d334a88ece9ad987c7ac2959d6350bca",
+                                    "tags": [
+                                        "outfit"
+                                    ],
+                                    "image": {
+                                        "width": 1578,
+                                        "height": 2000
+                                    },
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "size": 1540496
+                                },
+                                {
+                                    "hash": "31d152c4efa06bfda5e0f3f3378593ac",
+                                    "tags": [
+                                        "bust_front"
+                                    ],
+                                    "image": {
+                                        "width": 1578,
+                                        "height": 2000
+                                    },
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "size": 1200347
+                                }
+                            ],
+                            "attributes": {
+                                "attributes_0": [ 4449 ]
+                            },
+                            "retail_price": 2490,
+                            "id": 5036495,
+                            "quantity": 5
+                        },
+                        {
+                            "updated_date": null,
+                            "ean": "5712060524031",
+                            "default": false,
+                            "first_sale_date": null,
+                            "price": 2490,
+                            "first_active_date": "2014-02-25 14:44:01",
+                            "old_price": 0,
+                            "additional_info": {
+                                "model_info": {
+                                    "waist": "76 mm",
+                                    "gender": "male",
+                                    "arms": "63 mm",
+                                    "height": "188 mm",
+                                    "legs": "93 mm",
+                                    "upper_chest": "96 mm",
+                                    "hips": "96 mm"
+                                },
+                                "model_wears": {
+                                    "measurements": "gesamtlänge 720 mm",
+                                    "ean": "5712060524024"
+                                },
+                                "cross_selling": [
+                                    "8718513654284"
+                                ]
+                            },
+                            "created_date": null,
+                            "images": [
+                                {
+                                    "hash": "6246c2fa047df5e1b7670d672b0c0d8b",
+                                    "tags": [
+                                        "model_front"
+                                    ],
+                                    "image": {
+                                        "width": 1578,
+                                        "height": 2000
+                                    },
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "size": 1324180
+                                },
+                                {
+                                    "hash": "d39ea003c797b6e58e97fe88566c6a74",
+                                    "tags": [
+                                        "model_back"
+                                    ],
+                                    "image": {
+                                        "width": 1578,
+                                        "height": 2000
+                                    },
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "size": 1148293
+                                },
+                                {
+                                    "hash": "d334a88ece9ad987c7ac2959d6350bca",
+                                    "tags": [
+                                        "outfit"
+                                    ],
+                                    "image": {
+                                        "width": 1578,
+                                        "height": 2000
+                                    },
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "size": 1540496
+                                },
+                                {
+                                    "hash": "31d152c4efa06bfda5e0f3f3378593ac",
+                                    "tags": [
+                                        "bust_front"
+                                    ],
+                                    "image": {
+                                        "width": 1578,
+                                        "height": 2000
+                                    },
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "size": 1200347
+                                }
+                            ],
+                            "attributes": {
+                                "attributes_247": [ 3418, 3421, 3423, 3427, 3430 ],
+                                "attributes_172": [ 1967 ],
+                                "attributes_173": [ 2214 ],
+                                "attributes_206": [ 2412 ],
+                                "attributes_211": [ 2748 ],
+                                "attributes_0": [ 4449 ],
+                                "attributes_1": [ 570 ]
+                            },
+                            "retail_price": 2490,
+                            "id": 5036496,
+                            "quantity": 5
+                        },
+                        {
+                            "updated_date": null,
+                            "ean": "5712060524048",
+                            "default": false,
+                            "first_sale_date": null,
+                            "price": 2490,
+                            "first_active_date": "2014-02-25 17:55:31",
+                            "old_price": 0,
+                            "additional_info": {
+                                "model_info": {
+                                    "waist": "76 mm",
+                                    "gender": "male",
+                                    "arms": "63 mm",
+                                    "height": "188 mm",
+                                    "legs": "93 mm",
+                                    "upper_chest": "96 mm",
+                                    "hips": "96 mm"
+                                },
+                                "model_wears": {
+                                    "measurements": "gesamtlänge 720 mm",
+                                    "ean": "5712060524024"
+                                },
+                                "cross_selling": [
+                                    "8718513654284"
+                                ]
+                            },
+                            "created_date": null,
+                            "images": [
+                                {
+                                    "hash": "6246c2fa047df5e1b7670d672b0c0d8b",
+                                    "tags": [
+                                        "model_front"
+                                    ],
+                                    "image": {
+                                        "width": 1578,
+                                        "height": 2000
+                                    },
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "size": 1324180
+                                },
+                                {
+                                    "hash": "d39ea003c797b6e58e97fe88566c6a74",
+                                    "tags": [
+                                        "model_back"
+                                    ],
+                                    "image": {
+                                        "width": 1578,
+                                        "height": 2000
+                                    },
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "size": 1148293
+                                },
+                                {
+                                    "hash": "d334a88ece9ad987c7ac2959d6350bca",
+                                    "tags": [
+                                        "outfit"
+                                    ],
+                                    "image": {
+                                        "width": 1578,
+                                        "height": 2000
+                                    },
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "size": 1540496
+                                },
+                                {
+                                    "hash": "31d152c4efa06bfda5e0f3f3378593ac",
+                                    "tags": [
+                                        "bust_front"
+                                    ],
+                                    "image": {
+                                        "width": 1578,
+                                        "height": 2000
+                                    },
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "size": 1200347
+                                }
+                            ],
+                            "attributes": {
+                                "attributes_247": [ 3418, 3421, 3423, 3427, 3430 ],
+                                "attributes_172": [ 1967 ],
+                                "attributes_173": [ 2251 ],
+                                "attributes_206": [ 2422 ],
+                                "attributes_211": [ 2748 ],
+                                "attributes_0": [ 4449 ],
+                                "attributes_1": [ 570 ]
+                            },
+                            "retail_price": 2490,
+                            "id": 5036497,
+                            "quantity": 5
+                        }
+                    ],
+                    "id": 264044,
+                    "style_key": "m05_SEM0018"
+                }
+            }
+        }
+    }
+]

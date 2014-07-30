@@ -1,0 +1,8 @@
+include README.rst LICENSE.txt
+include MANIFEST.in
+include requirements-dev.txt requirements.txt
+include tox.ini
+recursive-include examples *
+recursive-include test *.py
+recursive-include doc *.rst *.py *.gv
+include doc/Makefile doc/make.bat

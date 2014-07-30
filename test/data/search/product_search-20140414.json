@@ -1,0 +1,70 @@
+[
+    {
+        "product_search": {
+            "product_count": 0,
+            "pageHash": "008b5cf8-8b1e-432c-8cb0-d80f67d564b4",
+            "facets": {
+                "prices": {
+                    "ranges": [
+                        {
+                            "count": 0,
+                            "from": 0.0,
+                            "total_count": 0,
+                            "to": 20000.0,
+                            "total": 0.0,
+                            "mean": 0.0
+                        },
+                        {
+                            "count": 0,
+                            "from": 20000.0,
+                            "total_count": 0,
+                            "to": 50000.0,
+                            "total": 0.0,
+                            "mean": 0.0
+                        },
+                        {
+                            "count": 0,
+                            "from": 50000.0,
+                            "total_count": 0,
+                            "to": 70000.0,
+                            "total": 0.0,
+                            "mean": 0.0
+                        },
+                        {
+                            "count": 0,
+                            "from": 100000.0,
+                            "total_count": 0,
+                            "to": 200000.0,
+                            "total": 0.0,
+                            "mean": 0.0
+                        },
+                        {
+                            "count": 0,
+                            "from": 200000.0,
+                            "total_count": 0,
+                            "to": 500000.0,
+                            "total": 0.0,
+                            "mean": 0.0
+                        },
+                        {
+                            "count": 0,
+                            "total_count": 0,
+                            "total": 0.0,
+                            "from": 500000.0,
+                            "mean": 0.0
+                        }
+                    ],
+                    "_type": "range"
+                },
+                "sale": {
+                    "_type": "terms",
+                    "total": 0,
+                    "terms": [],
+                    "other": 0,
+                    "missing": 0
+                }
+            },
+            "products": []
+        }
+    }
+]

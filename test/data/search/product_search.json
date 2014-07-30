@@ -1,0 +1,52 @@
+[
+    {
+        "product_search": {
+            "product_count": 1234,
+            "pageHash": "hash",
+            "facets": {
+                "0": {
+                    "_type": "terms",
+                    "total": 25403,
+                    "terms": [
+                        {
+                            "count": 2535,
+                            "term": 1122
+                        },
+                        {
+                            "count": 1165,
+                            "term": 121
+                        }
+                    ],
+                    "other": 21703,
+                    "missing": 0
+                },
+                "1": {
+                    "_type": "terms",
+                    "total": 28148,
+                    "terms": [
+                        {
+                            "count": 6068,
+                            "term": 11
+                        },
+                        {
+                            "count": 5209,
+                            "term": 1
+                        }
+                    ],
+                    "other": 16871,
+                    "missing": 719
+                }
+            },
+            "products": [
+                {
+                    "id": 123,
+                    "name": "Product 1"
+                },
+                {
+                    "id": 456,
+                    "name": "Product 2"
+                }
+            ]
+        }
+    }
+]

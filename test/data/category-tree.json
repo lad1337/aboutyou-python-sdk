@@ -1,0 +1,39 @@
+[
+    {
+        "category_tree": [
+            {
+                "name": "Main Category 1",
+                "parent": null,
+                "sub_categories": [],
+                "active": false,
+                "position": 1,
+                "id": 100
+            },
+            {
+                "name": "Main Category 2",
+                "parent": null,
+                "sub_categories": [
+                    {
+                        "name": "Subcategory 2.1",
+                        "parent": 11,
+                        "sub_categories": [],
+                        "active": true,
+                        "position": 1,
+                        "id": 210
+                    },
+                    {
+                        "name": "Subcategory 2.2",
+                        "parent": 11,
+                        "sub_categories": [],
+                        "active": false,
+                        "position": 1,
+                        "id": 220
+                    }
+                ],
+                "active": true,
+                "position": 2,
+                "id": 200
+            }
+        ]
+    }
+]

@@ -1,0 +1,180 @@
+{
+    "styles": [],
+    "active": true,
+    "name": "Product",
+    "description_short": "Variants Test with fake facets - groups: 0:brand, 1:color(1001:rot,1002:blau,1003:gelb), 2:size(2001:M,2002:L,2003:XL), ",
+    "description_long": "0:brand(264:), 1:color(1001:rot,1002:blau,1003:gelb), 2:size(2001:M,2002:L,2003:XL), 3:material(3001:baumwolle, 002:metall)",
+
+    "variants": [
+        {
+            "additional_info": {
+                "info": "variante 1: rot,      M,  baumwolle"
+            },
+            "ean": "4054618356895",
+            "default": false,
+            "price": 3990,
+            "old_price": 0,
+            "images": [
+            ],
+            "attributes": {
+                "attributes_0": [
+                    264
+                ],
+                "attributes_1": [
+                    1001
+                ],
+                "attributes_2": [
+                    2001
+                ],
+                "attributes_3": [
+                    3001
+                ]
+            },
+            "retail_price": 3995,
+            "id": 1001,
+            "quantity": 5
+        },
+        {
+            "additional_info": {
+                "info": "variante 2: rot,      L,  baumwolle"
+            },
+            "ean": "4054618073549",
+            "default": false,
+            "price": 3990,
+            "old_price": 0,
+            "images": [
+            ],
+            "attributes": {
+                "attributes_0": [
+                    264
+                ],
+                "attributes_1": [
+                    1001
+                ],
+                "attributes_2": [
+                    2002
+                ],
+                "attributes_3": [
+                    3001
+                ]
+            },
+            "retail_price": 3995,
+            "id": 5145544,
+            "quantity": 5
+        },
+        {
+            "additional_info": {
+                "info": "variante 3: rot,      XL, baumwolle"
+            },
+            "ean": "4054618356901",
+            "default": false,
+            "price": 3990,
+            "old_price": 0,
+            "images": [
+            ],
+            "attributes": {
+                "attributes_0": [
+                    264
+                ],
+                "attributes_1": [
+                    1001
+                ],
+                "attributes_2": [
+                    2003
+                ],
+                "attributes_3": [
+                    3001
+                ]
+            },
+            "retail_price": 3995,
+            "id": 5145545,
+            "quantity": 15
+        },
+        {
+            "additional_info": {
+                "info": "variante 4: rot,      XL, metall"
+            },
+            "ean": "4054618356918",
+            "default": false,
+            "price": 3990,
+            "old_price": 0,
+            "images": [
+            ],
+            "attributes": {
+                "attributes_0": [
+                    264
+                ],
+                "attributes_1": [
+                    1001
+                ],
+                "attributes_2": [
+                    2003
+                ],
+                "attributes_3": [
+                    3002
+                ]
+            },
+            "retail_price": 3995,
+            "id": 5145546,
+            "quantity": 5
+        },
+        {
+            "additional_info": {
+                "info": "variante 5: blau,     L,  baumwolle"
+            },
+            "ean": "4054618356925",
+            "default": false,
+            "price": 3990,
+            "old_price": 0,
+            "images": [
+            ],
+            "attributes": {
+                "attributes_0": [
+                    264
+                ],
+                "attributes_1": [
+                    1002
+                ],
+                "attributes_2": [
+                    2002
+                ],
+                "attributes_3": [
+                    3001
+                ]
+            },
+            "retail_price": 3995,
+            "id": 5145547,
+            "quantity": 5
+        },
+        {
+            "additional_info": {
+                "info": "variante 6: rot/gelb, M,  baumwolle"
+            },
+            "ean": "4054618356925",
+            "default": false,
+            "price": 3990,
+            "old_price": 0,
+            "images": [
+            ],
+            "attributes": {
+                "attributes_0": [
+                    264
+                ],
+                "attributes_1": [
+                    1001,1003
+                ],
+                "attributes_2": [
+                    2001
+                ],
+                "attributes_3": [
+                    3001
+                ]
+            },
+            "retail_price": 3995,
+            "id": 5145550,
+            "quantity": 5
+        }
+    ],
+    "id": 456,
+    "style_key": "m05_TOT0072"
+}

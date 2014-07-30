@@ -1,0 +1,1382 @@
+[
+    {
+        "products": {
+            "pageHash": "2c5f9bac-fc06-4c59-b794-fb6c1f26bfca",
+            "ids": {
+                "220430": {
+                    "styles": [
+                        {
+                            "active": true,
+                            "name": "AJC Shirt",
+                            "description_long": "Das ist ja richtig schräg: Dieses lässige Langarm-Shirt von AJC mit asymmetrischem Schnitt ist zweifelsohne ein Vorreiter in Sachen Style. Das Schöne dabei ist: Die originelle Form schmeichelt der Figur und harmoniert ausgezeichnet zu angesagten Röhrenhosen oder Leggings. Mit weitem Rundhals-Ausschnitt und überschnittenen Ärmeln. Aus luftig-leichter Viskose mit Elasthan für ein angenehmes Tragegefühl. Das coole Longsleeve-Shirt von AJC anziehen, den Trend hinaus in die Welt tragen und sich vieler Komplimente erfreuen - jetzt!<table class=\"tmpArticleDetailTable\"><tr><td class=\"left\"><div><span>Produkttyp</span></div></td><td>Shirt</td></tr><tr><td class=\"left\"><div><span>Passform</span></div></td><td>Oversized</td></tr><tr><td class=\"left\"><div><span>Kragen</span></div></td><td>Ohne</td></tr><tr><td class=\"left\"><div><span>Bündchen</span></div></td><td>Keine</td></tr><tr><td class=\"left\"><div><span>Ausschnitt</span></div></td><td>Rundhals</td></tr><tr><td class=\"left\"><div><span>Ärmelstil</span></div></td><td>3/4-Arm</td></tr><tr><td class=\"left\"><div><span>Stil</span></div></td><td>Basic</td></tr><tr><td class=\"left\"><div><span>Optik</span></div></td><td>Uni</td></tr><tr><td class=\"left\"><div><span>Auslieferung</span></div></td><td>Liegend</td></tr><tr><td class=\"left\"><div><span>Pflegehinweise</span></div></td><td>Maschinenwäsche</td></tr><tr><td class=\"left\"><div><span>Material</span></div></td><td>Jersey</td></tr><tr><td class=\"left\"><div><span>Gesamtlänge</span></div></td><td>62, 68</td></tr><tr><td class=\"left\"><div><span>Materialzusammensetzung</span></div></td><td>Obermaterial: 95% Viskose, 5% Elasthan</td></tr></table>",
+                            "sale": true,
+                            "attributes_merged": {
+                                "attributes_6": [
+                                    1533
+                                ],
+                                "attributes_2": [
+                                    2,
+                                    4,
+                                    5,
+                                    6,
+                                    7,
+                                    8,
+                                    57,
+                                    10
+                                ],
+                                "attributes_0": [
+                                    441
+                                ],
+                                "attributes_1": [
+                                    204
+                                ]
+                            },
+                            "brand_id": 441,
+                            "default_variant": {
+                                "ean": "000",
+                                "default": false,
+                                "price": 1399,
+                                "old_price": 2299,
+                                "images": [
+                                    {
+                                        "hash": "a90e2364d91827b1ee8eb656502cbfec",
+                                        "name": "3481615923770100.jpg",
+                                        "image": {
+                                            "width": 672,
+                                            "height": 960
+                                        },
+                                        "ext": ".jpg",
+                                        "mime": "image/jpeg",
+                                        "size": 62525
+                                    },
+                                    {
+                                        "hash": "a838c4e4a096f8b8e833b9973f7b3a3f",
+                                        "name": "3481615923770056.jpg",
+                                        "image": {
+                                            "width": 672,
+                                            "height": 960
+                                        },
+                                        "ext": ".jpg",
+                                        "mime": "image/jpeg",
+                                        "size": 54442
+                                    },
+                                    {
+                                        "hash": "a19028f337ab605446545460da02f566",
+                                        "name": "3481615923013884.jpg",
+                                        "image": {
+                                            "width": 672,
+                                            "height": 960
+                                        },
+                                        "ext": ".jpg",
+                                        "mime": "image/jpeg",
+                                        "size": 53632
+                                    }
+                                ],
+                                "attributes": {
+                                    "attributes_6": [
+                                        1533
+                                    ],
+                                    "attributes_2": [
+                                        6,
+                                        5
+                                    ],
+                                    "attributes_0": [
+                                        441
+                                    ],
+                                    "attributes_1": [
+                                        204
+                                    ]
+                                },
+                                "retail_price": 0,
+                                "id": 4728819,
+                                "quantity": 999
+                            },
+                            "min_price": 1199,
+                            "default_image": {
+                                "hash": "a90e2364d91827b1ee8eb656502cbfec",
+                                "name": "3481615923770100.jpg",
+                                "image": {
+                                    "width": 672,
+                                    "height": 960
+                                },
+                                "ext": ".jpg",
+                                "mime": "image/jpeg",
+                                "size": 62525
+                            },
+                            "categories.98": [
+                                [
+                                    19367,
+                                    19371,
+                                    19416
+                                ]
+                            ],
+                            "variants": [
+                                {
+                                    "ean": "000",
+                                    "default": false,
+                                    "price": 1399,
+                                    "old_price": 2299,
+                                    "images": [
+                                        {
+                                            "hash": "a90e2364d91827b1ee8eb656502cbfec",
+                                            "name": "3481615923770100.jpg",
+                                            "image": {
+                                                "width": 672,
+                                                "height": 960
+                                            },
+                                            "ext": ".jpg",
+                                            "mime": "image/jpeg",
+                                            "size": 62525
+                                        },
+                                        {
+                                            "hash": "a838c4e4a096f8b8e833b9973f7b3a3f",
+                                            "name": "3481615923770056.jpg",
+                                            "image": {
+                                                "width": 672,
+                                                "height": 960
+                                            },
+                                            "ext": ".jpg",
+                                            "mime": "image/jpeg",
+                                            "size": 54442
+                                        },
+                                        {
+                                            "hash": "a19028f337ab605446545460da02f566",
+                                            "name": "3481615923013884.jpg",
+                                            "image": {
+                                                "width": 672,
+                                                "height": 960
+                                            },
+                                            "ext": ".jpg",
+                                            "mime": "image/jpeg",
+                                            "size": 53632
+                                        }
+                                    ],
+                                    "attributes": {
+                                        "attributes_6": [
+                                            1533
+                                        ],
+                                        "attributes_2": [
+                                            6,
+                                            5
+                                        ],
+                                        "attributes_0": [
+                                            441
+                                        ],
+                                        "attributes_1": [
+                                            204
+                                        ]
+                                    },
+                                    "retail_price": 0,
+                                    "id": 4728819,
+                                    "quantity": 999
+                                },
+                                {
+                                    "ean": "000",
+                                    "default": false,
+                                    "price": 1199,
+                                    "old_price": 1999,
+                                    "images": [
+                                        {
+                                            "hash": "a90e2364d91827b1ee8eb656502cbfec",
+                                            "name": "3481615923770100.jpg",
+                                            "image": {
+                                                "width": 672,
+                                                "height": 960
+                                            },
+                                            "ext": ".jpg",
+                                            "mime": "image/jpeg",
+                                            "size": 62525
+                                        },
+                                        {
+                                            "hash": "a838c4e4a096f8b8e833b9973f7b3a3f",
+                                            "name": "3481615923770056.jpg",
+                                            "image": {
+                                                "width": 672,
+                                                "height": 960
+                                            },
+                                            "ext": ".jpg",
+                                            "mime": "image/jpeg",
+                                            "size": 54442
+                                        },
+                                        {
+                                            "hash": "a19028f337ab605446545460da02f566",
+                                            "name": "3481615923013884.jpg",
+                                            "image": {
+                                                "width": 672,
+                                                "height": 960
+                                            },
+                                            "ext": ".jpg",
+                                            "mime": "image/jpeg",
+                                            "size": 53632
+                                        }
+                                    ],
+                                    "attributes": {
+                                        "attributes_6": [
+                                            1533
+                                        ],
+                                        "attributes_2": [
+                                            57,
+                                            8
+                                        ],
+                                        "attributes_0": [
+                                            441
+                                        ],
+                                        "attributes_1": [
+                                            204
+                                        ]
+                                    },
+                                    "retail_price": 0,
+                                    "id": 4728836,
+                                    "quantity": 999
+                                },
+                                {
+                                    "ean": "000",
+                                    "default": false,
+                                    "price": 1399,
+                                    "old_price": 2299,
+                                    "images": [
+                                        {
+                                            "hash": "a90e2364d91827b1ee8eb656502cbfec",
+                                            "name": "3481615923770100.jpg",
+                                            "image": {
+                                                "width": 672,
+                                                "height": 960
+                                            },
+                                            "ext": ".jpg",
+                                            "mime": "image/jpeg",
+                                            "size": 62525
+                                        },
+                                        {
+                                            "hash": "a838c4e4a096f8b8e833b9973f7b3a3f",
+                                            "name": "3481615923770056.jpg",
+                                            "image": {
+                                                "width": 672,
+                                                "height": 960
+                                            },
+                                            "ext": ".jpg",
+                                            "mime": "image/jpeg",
+                                            "size": 54442
+                                        },
+                                        {
+                                            "hash": "a19028f337ab605446545460da02f566",
+                                            "name": "3481615923013884.jpg",
+                                            "image": {
+                                                "width": 672,
+                                                "height": 960
+                                            },
+                                            "ext": ".jpg",
+                                            "mime": "image/jpeg",
+                                            "size": 53632
+                                        }
+                                    ],
+                                    "attributes": {
+                                        "attributes_6": [
+                                            1533
+                                        ],
+                                        "attributes_2": [
+                                            4,
+                                            2
+                                        ],
+                                        "attributes_0": [
+                                            441
+                                        ],
+                                        "attributes_1": [
+                                            204
+                                        ]
+                                    },
+                                    "retail_price": 0,
+                                    "id": 4728848,
+                                    "quantity": 999
+                                },
+                                {
+                                    "ean": "000",
+                                    "default": false,
+                                    "price": 1199,
+                                    "old_price": 1999,
+                                    "images": [
+                                        {
+                                            "hash": "a90e2364d91827b1ee8eb656502cbfec",
+                                            "name": "3481615923770100.jpg",
+                                            "image": {
+                                                "width": 672,
+                                                "height": 960
+                                            },
+                                            "ext": ".jpg",
+                                            "mime": "image/jpeg",
+                                            "size": 62525
+                                        },
+                                        {
+                                            "hash": "a838c4e4a096f8b8e833b9973f7b3a3f",
+                                            "name": "3481615923770056.jpg",
+                                            "image": {
+                                                "width": 672,
+                                                "height": 960
+                                            },
+                                            "ext": ".jpg",
+                                            "mime": "image/jpeg",
+                                            "size": 54442
+                                        },
+                                        {
+                                            "hash": "a19028f337ab605446545460da02f566",
+                                            "name": "3481615923013884.jpg",
+                                            "image": {
+                                                "width": 672,
+                                                "height": 960
+                                            },
+                                            "ext": ".jpg",
+                                            "mime": "image/jpeg",
+                                            "size": 53632
+                                        }
+                                    ],
+                                    "attributes": {
+                                        "attributes_6": [
+                                            1533
+                                        ],
+                                        "attributes_2": [
+                                            10,
+                                            7
+                                        ],
+                                        "attributes_0": [
+                                            441
+                                        ],
+                                        "attributes_1": [
+                                            204
+                                        ]
+                                    },
+                                    "retail_price": 0,
+                                    "id": 4728868,
+                                    "quantity": 999
+                                }
+                            ],
+                            "max_price": 1399,
+                            "description_short": "Asymmetrische Form. Mit weitem Rundhalsausschnitt und überschnittenen Ärmeln. Aus luftig-leichter Viskose mit Elasthan für ein angenehmes Tragegefühl. Produkttyp: Shirt. Passform: Oversized. Kragen: Ohne. Bündchen: Keine. Ausschnitt: Rundhals. Ärmelstil: 3/4-Arm. Stil: Basic. Optik: Uni. Auslieferung: Liegend. Pflegehinweise: Maschinenwäsche. Material: Jersey. Gesamtlänge: 62, 68. Materialzusammensetzung: Obermaterial: 95% Viskose, 5% Elasthan.",
+                            "id": 220393,
+                            "style_key": "m01_347794693"
+                        },
+                        {
+                            "active": true,
+                            "name": "AJC Shirt",
+                            "description_long": "Das ist ja richtig schräg: Dieses lässige Langarm-Shirt von AJC mit asymmetrischem Schnitt ist zweifelsohne ein Vorreiter in Sachen Style. Das Schöne dabei ist: Die originelle Form schmeichelt der Figur und harmoniert ausgezeichnet zu angesagten Röhrenhosen oder Leggings. Mit weitem Rundhals-Ausschnitt und überschnittenen Ärmeln. Aus luftig-leichter Viskose mit Elasthan für ein angenehmes Tragegefühl. Das coole Longsleeve-Shirt von AJC anziehen, den Trend hinaus in die Welt tragen und sich vieler Komplimente erfreuen - jetzt!<table class=\"tmpArticleDetailTable\"><tr><td class=\"left\"><div><span>Produkttyp</span></div></td><td>Shirt</td></tr><tr><td class=\"left\"><div><span>Passform</span></div></td><td>Oversized</td></tr><tr><td class=\"left\"><div><span>Kragen</span></div></td><td>Ohne</td></tr><tr><td class=\"left\"><div><span>Bündchen</span></div></td><td>Keine</td></tr><tr><td class=\"left\"><div><span>Ausschnitt</span></div></td><td>Rundhals</td></tr><tr><td class=\"left\"><div><span>Ärmelstil</span></div></td><td>3/4-Arm</td></tr><tr><td class=\"left\"><div><span>Stil</span></div></td><td>Basic</td></tr><tr><td class=\"left\"><div><span>Optik</span></div></td><td>Uni</td></tr><tr><td class=\"left\"><div><span>Auslieferung</span></div></td><td>Liegend</td></tr><tr><td class=\"left\"><div><span>Pflegehinweise</span></div></td><td>Maschinenwäsche</td></tr><tr><td class=\"left\"><div><span>Material</span></div></td><td>Jersey</td></tr><tr><td class=\"left\"><div><span>Gesamtlänge</span></div></td><td>62, 68</td></tr><tr><td class=\"left\"><div><span>Materialzusammensetzung</span></div></td><td>Obermaterial: 95% Viskose, 5% Elasthan</td></tr></table>",
+                            "sale": false,
+                            "attributes_merged": {
+                                "attributes_6": [
+                                    1533
+                                ],
+                                "attributes_2": [
+                                    5,
+                                    6,
+                                    7,
+                                    8,
+                                    57,
+                                    10
+                                ],
+                                "attributes_0": [
+                                    441
+                                ],
+                                "attributes_1": [
+                                    12
+                                ]
+                            },
+                            "brand_id": 441,
+                            "default_variant": {
+                                "ean": "000",
+                                "default": false,
+                                "price": 1999,
+                                "old_price": 1999,
+                                "images": [
+                                    {
+                                        "hash": "a2a130d15de8fb004d3fa9f372dc34ad",
+                                        "name": "3477945973789143.jpg",
+                                        "image": {
+                                            "width": 672,
+                                            "height": 960
+                                        },
+                                        "ext": ".jpg",
+                                        "mime": "image/jpeg",
+                                        "size": 52100
+                                    },
+                                    {
+                                        "hash": "9653718a18d303ae8800dc7280e223d6",
+                                        "name": "3477945973789120.jpg",
+                                        "image": {
+                                            "width": 672,
+                                            "height": 960
+                                        },
+                                        "ext": ".jpg",
+                                        "mime": "image/jpeg",
+                                        "size": 62492
+                                    },
+                                    {
+                                        "hash": "f7a7f0f82bde97c82982aec8da69fbbc",
+                                        "name": "3477945972982308.jpg",
+                                        "image": {
+                                            "width": 672,
+                                            "height": 960
+                                        },
+                                        "ext": ".jpg",
+                                        "mime": "image/jpeg",
+                                        "size": 48956
+                                    }
+                                ],
+                                "attributes": {
+                                    "attributes_6": [
+                                        1533
+                                    ],
+                                    "attributes_2": [
+                                        10,
+                                        7
+                                    ],
+                                    "attributes_0": [
+                                        441
+                                    ],
+                                    "attributes_1": [
+                                        12
+                                    ]
+                                },
+                                "retail_price": 0,
+                                "id": 4729002,
+                                "quantity": 999
+                            },
+                            "min_price": 1999,
+                            "default_image": {
+                                "hash": "a2a130d15de8fb004d3fa9f372dc34ad",
+                                "name": "3477945973789143.jpg",
+                                "image": {
+                                    "width": 672,
+                                    "height": 960
+                                },
+                                "ext": ".jpg",
+                                "mime": "image/jpeg",
+                                "size": 52100
+                            },
+                            "categories.98": [
+                                [
+                                    19367,
+                                    19371,
+                                    19416
+                                ]
+                            ],
+                            "variants": [
+                                {
+                                    "ean": "000",
+                                    "default": false,
+                                    "price": 1999,
+                                    "old_price": 1999,
+                                    "images": [
+                                        {
+                                            "hash": "a2a130d15de8fb004d3fa9f372dc34ad",
+                                            "name": "3477945973789143.jpg",
+                                            "image": {
+                                                "width": 672,
+                                                "height": 960
+                                            },
+                                            "ext": ".jpg",
+                                            "mime": "image/jpeg",
+                                            "size": 52100
+                                        },
+                                        {
+                                            "hash": "9653718a18d303ae8800dc7280e223d6",
+                                            "name": "3477945973789120.jpg",
+                                            "image": {
+                                                "width": 672,
+                                                "height": 960
+                                            },
+                                            "ext": ".jpg",
+                                            "mime": "image/jpeg",
+                                            "size": 62492
+                                        },
+                                        {
+                                            "hash": "f7a7f0f82bde97c82982aec8da69fbbc",
+                                            "name": "3477945972982308.jpg",
+                                            "image": {
+                                                "width": 672,
+                                                "height": 960
+                                            },
+                                            "ext": ".jpg",
+                                            "mime": "image/jpeg",
+                                            "size": 48956
+                                        }
+                                    ],
+                                    "attributes": {
+                                        "attributes_6": [
+                                            1533
+                                        ],
+                                        "attributes_2": [
+                                            10,
+                                            7
+                                        ],
+                                        "attributes_0": [
+                                            441
+                                        ],
+                                        "attributes_1": [
+                                            12
+                                        ]
+                                    },
+                                    "retail_price": 0,
+                                    "id": 4729002,
+                                    "quantity": 999
+                                },
+                                {
+                                    "ean": "000",
+                                    "default": false,
+                                    "price": 2299,
+                                    "old_price": 2299,
+                                    "images": [
+                                        {
+                                            "hash": "a2a130d15de8fb004d3fa9f372dc34ad",
+                                            "name": "3477945973789143.jpg",
+                                            "image": {
+                                                "width": 672,
+                                                "height": 960
+                                            },
+                                            "ext": ".jpg",
+                                            "mime": "image/jpeg",
+                                            "size": 52100
+                                        },
+                                        {
+                                            "hash": "9653718a18d303ae8800dc7280e223d6",
+                                            "name": "3477945973789120.jpg",
+                                            "image": {
+                                                "width": 672,
+                                                "height": 960
+                                            },
+                                            "ext": ".jpg",
+                                            "mime": "image/jpeg",
+                                            "size": 62492
+                                        },
+                                        {
+                                            "hash": "f7a7f0f82bde97c82982aec8da69fbbc",
+                                            "name": "3477945972982308.jpg",
+                                            "image": {
+                                                "width": 672,
+                                                "height": 960
+                                            },
+                                            "ext": ".jpg",
+                                            "mime": "image/jpeg",
+                                            "size": 48956
+                                        }
+                                    ],
+                                    "attributes": {
+                                        "attributes_6": [
+                                            1533
+                                        ],
+                                        "attributes_2": [
+                                            6,
+                                            5
+                                        ],
+                                        "attributes_0": [
+                                            441
+                                        ],
+                                        "attributes_1": [
+                                            12
+                                        ]
+                                    },
+                                    "retail_price": 0,
+                                    "id": 4729013,
+                                    "quantity": 5
+                                },
+                                {
+                                    "ean": "000",
+                                    "default": false,
+                                    "price": 1999,
+                                    "old_price": 1999,
+                                    "images": [
+                                        {
+                                            "hash": "a2a130d15de8fb004d3fa9f372dc34ad",
+                                            "name": "3477945973789143.jpg",
+                                            "image": {
+                                                "width": 672,
+                                                "height": 960
+                                            },
+                                            "ext": ".jpg",
+                                            "mime": "image/jpeg",
+                                            "size": 52100
+                                        },
+                                        {
+                                            "hash": "9653718a18d303ae8800dc7280e223d6",
+                                            "name": "3477945973789120.jpg",
+                                            "image": {
+                                                "width": 672,
+                                                "height": 960
+                                            },
+                                            "ext": ".jpg",
+                                            "mime": "image/jpeg",
+                                            "size": 62492
+                                        },
+                                        {
+                                            "hash": "f7a7f0f82bde97c82982aec8da69fbbc",
+                                            "name": "3477945972982308.jpg",
+                                            "image": {
+                                                "width": 672,
+                                                "height": 960
+                                            },
+                                            "ext": ".jpg",
+                                            "mime": "image/jpeg",
+                                            "size": 48956
+                                        }
+                                    ],
+                                    "attributes": {
+                                        "attributes_6": [
+                                            1533
+                                        ],
+                                        "attributes_2": [
+                                            57,
+                                            8
+                                        ],
+                                        "attributes_0": [
+                                            441
+                                        ],
+                                        "attributes_1": [
+                                            12
+                                        ]
+                                    },
+                                    "retail_price": 0,
+                                    "id": 4729028,
+                                    "quantity": 999
+                                }
+                            ],
+                            "max_price": 2299,
+                            "description_short": "Asymmetrische Form. Mit weitem Rundhalsausschnitt und überschnittenen Ärmeln. Aus luftig-leichter Viskose mit Elasthan für ein angenehmes Tragegefühl. Produkttyp: Shirt. Passform: Oversized. Kragen: Ohne. Bündchen: Keine. Ausschnitt: Rundhals. Ärmelstil: 3/4-Arm. Stil: Basic. Optik: Uni. Auslieferung: Liegend. Pflegehinweise: Maschinenwäsche. Material: Jersey. Gesamtlänge: 62, 68. Materialzusammensetzung: Obermaterial: 95% Viskose, 5% Elasthan.",
+                            "id": 220418,
+                            "style_key": "m01_347794693"
+                        },
+                        {
+                            "active": true,
+                            "name": "AJC Shirt",
+                            "description_long": "Das ist ja richtig schräg: Dieses lässige Langarm-Shirt von AJC mit asymmetrischem Schnitt ist zweifelsohne ein Vorreiter in Sachen Style. Das Schöne dabei ist: Die originelle Form schmeichelt der Figur und harmoniert ausgezeichnet zu angesagten Röhrenhosen oder Leggings. Mit weitem Rundhals-Ausschnitt und überschnittenen Ärmeln. Aus luftig-leichter Viskose mit Elasthan für ein angenehmes Tragegefühl. Das coole Longsleeve-Shirt von AJC anziehen, den Trend hinaus in die Welt tragen und sich vieler Komplimente erfreuen - jetzt!<table class=\"tmpArticleDetailTable\"><tr><td class=\"left\"><div><span>Produkttyp</span></div></td><td>Shirt</td></tr><tr><td class=\"left\"><div><span>Passform</span></div></td><td>Oversized</td></tr><tr><td class=\"left\"><div><span>Kragen</span></div></td><td>Ohne</td></tr><tr><td class=\"left\"><div><span>Bündchen</span></div></td><td>Keine</td></tr><tr><td class=\"left\"><div><span>Ausschnitt</span></div></td><td>Rundhals</td></tr><tr><td class=\"left\"><div><span>Ärmelstil</span></div></td><td>3/4-Arm</td></tr><tr><td class=\"left\"><div><span>Stil</span></div></td><td>Basic</td></tr><tr><td class=\"left\"><div><span>Optik</span></div></td><td>Uni</td></tr><tr><td class=\"left\"><div><span>Auslieferung</span></div></td><td>Liegend</td></tr><tr><td class=\"left\"><div><span>Pflegehinweise</span></div></td><td>Maschinenwäsche</td></tr><tr><td class=\"left\"><div><span>Material</span></div></td><td>Jersey</td></tr><tr><td class=\"left\"><div><span>Gesamtlänge</span></div></td><td>62, 68</td></tr><tr><td class=\"left\"><div><span>Materialzusammensetzung</span></div></td><td>Obermaterial: 95% Viskose, 5% Elasthan</td></tr></table>",
+                            "sale": true,
+                            "attributes_merged": {
+                                "attributes_6": [
+                                    1533
+                                ],
+                                "attributes_2": [
+                                    2,
+                                    4,
+                                    5,
+                                    6,
+                                    7,
+                                    8,
+                                    57,
+                                    10
+                                ],
+                                "attributes_0": [
+                                    441
+                                ],
+                                "attributes_1": [
+                                    1
+                                ]
+                            },
+                            "brand_id": 441,
+                            "default_variant": {
+                                "ean": "000",
+                                "default": false,
+                                "price": 1199,
+                                "old_price": 1999,
+                                "images": [
+                                    {
+                                        "hash": "e4371bae63c01c00c5ff1a5236099ef3",
+                                        "name": "3481615893799648.jpg",
+                                        "image": {
+                                            "width": 672,
+                                            "height": 960
+                                        },
+                                        "ext": ".jpg",
+                                        "mime": "image/jpeg",
+                                        "size": 48546
+                                    },
+                                    {
+                                        "hash": "28932e979d96b55fa71372b1d3cb3375",
+                                        "name": "3481615893799658.jpg",
+                                        "image": {
+                                            "width": 672,
+                                            "height": 960
+                                        },
+                                        "ext": ".jpg",
+                                        "mime": "image/jpeg",
+                                        "size": 68421
+                                    },
+                                    {
+                                        "hash": "d1b6b0bf37a80da33e0be83faa513b70",
+                                        "name": "3481615893799679.jpg",
+                                        "image": {
+                                            "width": 672,
+                                            "height": 960
+                                        },
+                                        "ext": ".jpg",
+                                        "mime": "image/jpeg",
+                                        "size": 146121
+                                    }
+                                ],
+                                "attributes": {
+                                    "attributes_6": [
+                                        1533
+                                    ],
+                                    "attributes_2": [
+                                        57,
+                                        8
+                                    ],
+                                    "attributes_0": [
+                                        441
+                                    ],
+                                    "attributes_1": [
+                                        1
+                                    ]
+                                },
+                                "retail_price": 0,
+                                "id": 4728700,
+                                "quantity": 999
+                            },
+                            "min_price": 1199,
+                            "default_image": {
+                                "hash": "e4371bae63c01c00c5ff1a5236099ef3",
+                                "name": "3481615893799648.jpg",
+                                "image": {
+                                    "width": 672,
+                                    "height": 960
+                                },
+                                "ext": ".jpg",
+                                "mime": "image/jpeg",
+                                "size": 48546
+                            },
+                            "categories.98": [
+                                [
+                                    19367,
+                                    19371,
+                                    19416
+                                ]
+                            ],
+                            "variants": [
+                                {
+                                    "ean": "000",
+                                    "default": false,
+                                    "price": 1199,
+                                    "old_price": 1999,
+                                    "images": [
+                                        {
+                                            "hash": "e4371bae63c01c00c5ff1a5236099ef3",
+                                            "name": "3481615893799648.jpg",
+                                            "image": {
+                                                "width": 672,
+                                                "height": 960
+                                            },
+                                            "ext": ".jpg",
+                                            "mime": "image/jpeg",
+                                            "size": 48546
+                                        },
+                                        {
+                                            "hash": "28932e979d96b55fa71372b1d3cb3375",
+                                            "name": "3481615893799658.jpg",
+                                            "image": {
+                                                "width": 672,
+                                                "height": 960
+                                            },
+                                            "ext": ".jpg",
+                                            "mime": "image/jpeg",
+                                            "size": 68421
+                                        },
+                                        {
+                                            "hash": "d1b6b0bf37a80da33e0be83faa513b70",
+                                            "name": "3481615893799679.jpg",
+                                            "image": {
+                                                "width": 672,
+                                                "height": 960
+                                            },
+                                            "ext": ".jpg",
+                                            "mime": "image/jpeg",
+                                            "size": 146121
+                                        }
+                                    ],
+                                    "attributes": {
+                                        "attributes_6": [
+                                            1533
+                                        ],
+                                        "attributes_2": [
+                                            57,
+                                            8
+                                        ],
+                                        "attributes_0": [
+                                            441
+                                        ],
+                                        "attributes_1": [
+                                            1
+                                        ]
+                                    },
+                                    "retail_price": 0,
+                                    "id": 4728700,
+                                    "quantity": 999
+                                },
+                                {
+                                    "ean": "000",
+                                    "default": false,
+                                    "price": 1399,
+                                    "old_price": 2299,
+                                    "images": [
+                                        {
+                                            "hash": "e4371bae63c01c00c5ff1a5236099ef3",
+                                            "name": "3481615893799648.jpg",
+                                            "image": {
+                                                "width": 672,
+                                                "height": 960
+                                            },
+                                            "ext": ".jpg",
+                                            "mime": "image/jpeg",
+                                            "size": 48546
+                                        },
+                                        {
+                                            "hash": "28932e979d96b55fa71372b1d3cb3375",
+                                            "name": "3481615893799658.jpg",
+                                            "image": {
+                                                "width": 672,
+                                                "height": 960
+                                            },
+                                            "ext": ".jpg",
+                                            "mime": "image/jpeg",
+                                            "size": 68421
+                                        },
+                                        {
+                                            "hash": "d1b6b0bf37a80da33e0be83faa513b70",
+                                            "name": "3481615893799679.jpg",
+                                            "image": {
+                                                "width": 672,
+                                                "height": 960
+                                            },
+                                            "ext": ".jpg",
+                                            "mime": "image/jpeg",
+                                            "size": 146121
+                                        }
+                                    ],
+                                    "attributes": {
+                                        "attributes_6": [
+                                            1533
+                                        ],
+                                        "attributes_2": [
+                                            4,
+                                            2
+                                        ],
+                                        "attributes_0": [
+                                            441
+                                        ],
+                                        "attributes_1": [
+                                            1
+                                        ]
+                                    },
+                                    "retail_price": 0,
+                                    "id": 4728712,
+                                    "quantity": 30
+                                },
+                                {
+                                    "ean": "000",
+                                    "default": false,
+                                    "price": 1399,
+                                    "old_price": 2299,
+                                    "images": [
+                                        {
+                                            "hash": "e4371bae63c01c00c5ff1a5236099ef3",
+                                            "name": "3481615893799648.jpg",
+                                            "image": {
+                                                "width": 672,
+                                                "height": 960
+                                            },
+                                            "ext": ".jpg",
+                                            "mime": "image/jpeg",
+                                            "size": 48546
+                                        },
+                                        {
+                                            "hash": "28932e979d96b55fa71372b1d3cb3375",
+                                            "name": "3481615893799658.jpg",
+                                            "image": {
+                                                "width": 672,
+                                                "height": 960
+                                            },
+                                            "ext": ".jpg",
+                                            "mime": "image/jpeg",
+                                            "size": 68421
+                                        },
+                                        {
+                                            "hash": "d1b6b0bf37a80da33e0be83faa513b70",
+                                            "name": "3481615893799679.jpg",
+                                            "image": {
+                                                "width": 672,
+                                                "height": 960
+                                            },
+                                            "ext": ".jpg",
+                                            "mime": "image/jpeg",
+                                            "size": 146121
+                                        }
+                                    ],
+                                    "attributes": {
+                                        "attributes_6": [
+                                            1533
+                                        ],
+                                        "attributes_2": [
+                                            6,
+                                            5
+                                        ],
+                                        "attributes_0": [
+                                            441
+                                        ],
+                                        "attributes_1": [
+                                            1
+                                        ]
+                                    },
+                                    "retail_price": 0,
+                                    "id": 4728726,
+                                    "quantity": 999
+                                },
+                                {
+                                    "ean": "000",
+                                    "default": false,
+                                    "price": 1199,
+                                    "old_price": 1999,
+                                    "images": [
+                                        {
+                                            "hash": "e4371bae63c01c00c5ff1a5236099ef3",
+                                            "name": "3481615893799648.jpg",
+                                            "image": {
+                                                "width": 672,
+                                                "height": 960
+                                            },
+                                            "ext": ".jpg",
+                                            "mime": "image/jpeg",
+                                            "size": 48546
+                                        },
+                                        {
+                                            "hash": "28932e979d96b55fa71372b1d3cb3375",
+                                            "name": "3481615893799658.jpg",
+                                            "image": {
+                                                "width": 672,
+                                                "height": 960
+                                            },
+                                            "ext": ".jpg",
+                                            "mime": "image/jpeg",
+                                            "size": 68421
+                                        },
+                                        {
+                                            "hash": "d1b6b0bf37a80da33e0be83faa513b70",
+                                            "name": "3481615893799679.jpg",
+                                            "image": {
+                                                "width": 672,
+                                                "height": 960
+                                            },
+                                            "ext": ".jpg",
+                                            "mime": "image/jpeg",
+                                            "size": 146121
+                                        }
+                                    ],
+                                    "attributes": {
+                                        "attributes_6": [
+                                            1533
+                                        ],
+                                        "attributes_2": [
+                                            10,
+                                            7
+                                        ],
+                                        "attributes_0": [
+                                            441
+                                        ],
+                                        "attributes_1": [
+                                            1
+                                        ]
+                                    },
+                                    "retail_price": 0,
+                                    "id": 4728739,
+                                    "quantity": 999
+                                }
+                            ],
+                            "max_price": 1399,
+                            "description_short": "Asymmetrische Form. Mit weitem Rundhalsausschnitt und überschnittenen Ärmeln. Aus luftig-leichter Viskose mit Elasthan für ein angenehmes Tragegefühl. Produkttyp: Shirt. Passform: Oversized. Kragen: Ohne. Bündchen: Keine. Ausschnitt: Rundhals. Ärmelstil: 3/4-Arm. Stil: Basic. Optik: Uni. Auslieferung: Liegend. Pflegehinweise: Maschinenwäsche. Material: Jersey. Gesamtlänge: 62, 68. Materialzusammensetzung: Obermaterial: 95% Viskose, 5% Elasthan.",
+                            "id": 220374,
+                            "style_key": "m01_347794693"
+                        },
+                        {
+                            "active": true,
+                            "name": "AJC Shirt",
+                            "description_long": "Das ist ja richtig schräg: Dieses lässige Langarm-Shirt von AJC mit asymmetrischem Schnitt ist zweifelsohne ein Vorreiter in Sachen Style. Das Schöne dabei ist: Die originelle Form schmeichelt der Figur und harmoniert ausgezeichnet zu angesagten Röhrenhosen oder Leggings. Mit weitem Rundhals-Ausschnitt und überschnittenen Ärmeln. Aus luftig-leichter Viskose mit Elasthan für ein angenehmes Tragegefühl. Das coole Longsleeve-Shirt von AJC anziehen, den Trend hinaus in die Welt tragen und sich vieler Komplimente erfreuen - jetzt!<table class=\"tmpArticleDetailTable\"><tr><td class=\"left\"><div><span>Produkttyp</span></div></td><td>Shirt</td></tr><tr><td class=\"left\"><div><span>Passform</span></div></td><td>Oversized</td></tr><tr><td class=\"left\"><div><span>Kragen</span></div></td><td>Ohne</td></tr><tr><td class=\"left\"><div><span>Bündchen</span></div></td><td>Keine</td></tr><tr><td class=\"left\"><div><span>Ausschnitt</span></div></td><td>Rundhals</td></tr><tr><td class=\"left\"><div><span>Ärmelstil</span></div></td><td>3/4-Arm</td></tr><tr><td class=\"left\"><div><span>Stil</span></div></td><td>Basic</td></tr><tr><td class=\"left\"><div><span>Optik</span></div></td><td>Uni</td></tr><tr><td class=\"left\"><div><span>Auslieferung</span></div></td><td>Liegend</td></tr><tr><td class=\"left\"><div><span>Pflegehinweise</span></div></td><td>Maschinenwäsche</td></tr><tr><td class=\"left\"><div><span>Material</span></div></td><td>Jersey</td></tr><tr><td class=\"left\"><div><span>Gesamtlänge</span></div></td><td>62, 68</td></tr><tr><td class=\"left\"><div><span>Materialzusammensetzung</span></div></td><td>Obermaterial: 95% Viskose, 5% Elasthan</td></tr></table>",
+                            "sale": true,
+                            "attributes_merged": {
+                                "attributes_6": [
+                                    1533
+                                ],
+                                "attributes_2": [
+                                    2,
+                                    4,
+                                    5,
+                                    6,
+                                    7,
+                                    8,
+                                    57,
+                                    10
+                                ],
+                                "attributes_0": [
+                                    441
+                                ],
+                                "attributes_1": [
+                                    579
+                                ]
+                            },
+                            "brand_id": 441,
+                            "default_variant": {
+                                "ean": "000",
+                                "default": false,
+                                "price": 1199,
+                                "old_price": 1999,
+                                "images": [
+                                    {
+                                        "hash": "321914ab6fb53e15a3418a25bba0389a",
+                                        "name": "3481615863787534.jpg",
+                                        "image": {
+                                            "width": 672,
+                                            "height": 960
+                                        },
+                                        "ext": ".jpg",
+                                        "mime": "image/jpeg",
+                                        "size": 64090
+                                    },
+                                    {
+                                        "hash": "9be3e14d9179c7273ba8faa3e659d40f",
+                                        "name": "3481615863787538.jpg",
+                                        "image": {
+                                            "width": 672,
+                                            "height": 960
+                                        },
+                                        "ext": ".jpg",
+                                        "mime": "image/jpeg",
+                                        "size": 51391
+                                    },
+                                    {
+                                        "hash": "68593ee08bfcaca72832ef226ae4fb2a",
+                                        "name": "3481615863787389.jpg",
+                                        "image": {
+                                            "width": 672,
+                                            "height": 960
+                                        },
+                                        "ext": ".jpg",
+                                        "mime": "image/jpeg",
+                                        "size": 50113
+                                    }
+                                ],
+                                "attributes": {
+                                    "attributes_6": [
+                                        1533
+                                    ],
+                                    "attributes_2": [
+                                        10,
+                                        7
+                                    ],
+                                    "attributes_0": [
+                                        441
+                                    ],
+                                    "attributes_1": [
+                                        579
+                                    ]
+                                },
+                                "retail_price": 0,
+                                "id": 4728900,
+                                "quantity": 999
+                            },
+                            "min_price": 1199,
+                            "default_image": {
+                                "hash": "321914ab6fb53e15a3418a25bba0389a",
+                                "name": "3481615863787534.jpg",
+                                "image": {
+                                    "width": 672,
+                                    "height": 960
+                                },
+                                "ext": ".jpg",
+                                "mime": "image/jpeg",
+                                "size": 64090
+                            },
+                            "categories.98": [
+                                [
+                                    19367,
+                                    19371,
+                                    19416
+                                ]
+                            ],
+                            "variants": [
+                                {
+                                    "ean": "000",
+                                    "default": false,
+                                    "price": 1199,
+                                    "old_price": 1999,
+                                    "images": [
+                                        {
+                                            "hash": "321914ab6fb53e15a3418a25bba0389a",
+                                            "name": "3481615863787534.jpg",
+                                            "image": {
+                                                "width": 672,
+                                                "height": 960
+                                            },
+                                            "ext": ".jpg",
+                                            "mime": "image/jpeg",
+                                            "size": 64090
+                                        },
+                                        {
+                                            "hash": "9be3e14d9179c7273ba8faa3e659d40f",
+                                            "name": "3481615863787538.jpg",
+                                            "image": {
+                                                "width": 672,
+                                                "height": 960
+                                            },
+                                            "ext": ".jpg",
+                                            "mime": "image/jpeg",
+                                            "size": 51391
+                                        },
+                                        {
+                                            "hash": "68593ee08bfcaca72832ef226ae4fb2a",
+                                            "name": "3481615863787389.jpg",
+                                            "image": {
+                                                "width": 672,
+                                                "height": 960
+                                            },
+                                            "ext": ".jpg",
+                                            "mime": "image/jpeg",
+                                            "size": 50113
+                                        }
+                                    ],
+                                    "attributes": {
+                                        "attributes_6": [
+                                            1533
+                                        ],
+                                        "attributes_2": [
+                                            10,
+                                            7
+                                        ],
+                                        "attributes_0": [
+                                            441
+                                        ],
+                                        "attributes_1": [
+                                            579
+                                        ]
+                                    },
+                                    "retail_price": 0,
+                                    "id": 4728900,
+                                    "quantity": 999
+                                },
+                                {
+                                    "ean": "000",
+                                    "default": false,
+                                    "price": 1199,
+                                    "old_price": 1999,
+                                    "images": [
+                                        {
+                                            "hash": "321914ab6fb53e15a3418a25bba0389a",
+                                            "name": "3481615863787534.jpg",
+                                            "image": {
+                                                "width": 672,
+                                                "height": 960
+                                            },
+                                            "ext": ".jpg",
+                                            "mime": "image/jpeg",
+                                            "size": 64090
+                                        },
+                                        {
+                                            "hash": "9be3e14d9179c7273ba8faa3e659d40f",
+                                            "name": "3481615863787538.jpg",
+                                            "image": {
+                                                "width": 672,
+                                                "height": 960
+                                            },
+                                            "ext": ".jpg",
+                                            "mime": "image/jpeg",
+                                            "size": 51391
+                                        },
+                                        {
+                                            "hash": "68593ee08bfcaca72832ef226ae4fb2a",
+                                            "name": "3481615863787389.jpg",
+                                            "image": {
+                                                "width": 672,
+                                                "height": 960
+                                            },
+                                            "ext": ".jpg",
+                                            "mime": "image/jpeg",
+                                            "size": 50113
+                                        }
+                                    ],
+                                    "attributes": {
+                                        "attributes_6": [
+                                            1533
+                                        ],
+                                        "attributes_2": [
+                                            57,
+                                            8
+                                        ],
+                                        "attributes_0": [
+                                            441
+                                        ],
+                                        "attributes_1": [
+                                            579
+                                        ]
+                                    },
+                                    "retail_price": 0,
+                                    "id": 4728910,
+                                    "quantity": 999
+                                },
+                                {
+                                    "ean": "000",
+                                    "default": false,
+                                    "price": 1399,
+                                    "old_price": 2299,
+                                    "images": [
+                                        {
+                                            "hash": "321914ab6fb53e15a3418a25bba0389a",
+                                            "name": "3481615863787534.jpg",
+                                            "image": {
+                                                "width": 672,
+                                                "height": 960
+                                            },
+                                            "ext": ".jpg",
+                                            "mime": "image/jpeg",
+                                            "size": 64090
+                                        },
+                                        {
+                                            "hash": "9be3e14d9179c7273ba8faa3e659d40f",
+                                            "name": "3481615863787538.jpg",
+                                            "image": {
+                                                "width": 672,
+                                                "height": 960
+                                            },
+                                            "ext": ".jpg",
+                                            "mime": "image/jpeg",
+                                            "size": 51391
+                                        },
+                                        {
+                                            "hash": "68593ee08bfcaca72832ef226ae4fb2a",
+                                            "name": "3481615863787389.jpg",
+                                            "image": {
+                                                "width": 672,
+                                                "height": 960
+                                            },
+                                            "ext": ".jpg",
+                                            "mime": "image/jpeg",
+                                            "size": 50113
+                                        }
+                                    ],
+                                    "attributes": {
+                                        "attributes_6": [
+                                            1533
+                                        ],
+                                        "attributes_2": [
+                                            6,
+                                            5
+                                        ],
+                                        "attributes_0": [
+                                            441
+                                        ],
+                                        "attributes_1": [
+                                            579
+                                        ]
+                                    },
+                                    "retail_price": 0,
+                                    "id": 4728923,
+                                    "quantity": 999
+                                },
+                                {
+                                    "ean": "000",
+                                    "default": false,
+                                    "price": 1399,
+                                    "old_price": 2299,
+                                    "images": [
+                                        {
+                                            "hash": "321914ab6fb53e15a3418a25bba0389a",
+                                            "name": "3481615863787534.jpg",
+                                            "image": {
+                                                "width": 672,
+                                                "height": 960
+                                            },
+                                            "ext": ".jpg",
+                                            "mime": "image/jpeg",
+                                            "size": 64090
+                                        },
+                                        {
+                                            "hash": "9be3e14d9179c7273ba8faa3e659d40f",
+                                            "name": "3481615863787538.jpg",
+                                            "image": {
+                                                "width": 672,
+                                                "height": 960
+                                            },
+                                            "ext": ".jpg",
+                                            "mime": "image/jpeg",
+                                            "size": 51391
+                                        },
+                                        {
+                                            "hash": "68593ee08bfcaca72832ef226ae4fb2a",
+                                            "name": "3481615863787389.jpg",
+                                            "image": {
+                                                "width": 672,
+                                                "height": 960
+                                            },
+                                            "ext": ".jpg",
+                                            "mime": "image/jpeg",
+                                            "size": 50113
+                                        }
+                                    ],
+                                    "attributes": {
+                                        "attributes_6": [
+                                            1533
+                                        ],
+                                        "attributes_2": [
+                                            4,
+                                            2
+                                        ],
+                                        "attributes_0": [
+                                            441
+                                        ],
+                                        "attributes_1": [
+                                            579
+                                        ]
+                                    },
+                                    "retail_price": 0,
+                                    "id": 4728938,
+                                    "quantity": 5
+                                }
+                            ],
+                            "max_price": 1399,
+                            "description_short": "Asymmetrische Form. Mit weitem Rundhalsausschnitt und überschnittenen Ärmeln. Aus luftig-leichter Viskose mit Elasthan für ein angenehmes Tragegefühl. Produkttyp: Shirt. Passform: Oversized. Kragen: Ohne. Bündchen: Keine. Ausschnitt: Rundhals. Ärmelstil: 3/4-Arm. Stil: Basic. Optik: Uni. Auslieferung: Liegend. Pflegehinweise: Maschinenwäsche. Material: Jersey. Gesamtlänge: 62, 68. Materialzusammensetzung: Obermaterial: 95% Viskose, 5% Elasthan.",
+                            "id": 220408,
+                            "style_key": "m01_347794693"
+                        },
+                        {
+                            "name": "AJC Shirt",
+                            "sale": false,
+                            "categories.98": [
+                                [
+                                    19367,
+                                    19371,
+                                    19416
+                                ]
+                            ],
+                            "attributes_merged": {
+                                "attributes_0": 441
+                            },
+                            "brand_id": 441,
+                            "description_long": "Das ist ja richtig schräg: Dieses lässige Langarm-Shirt von AJC mit asymmetrischem Schnitt ist zweifelsohne ein Vorreiter in Sachen Style. Das Schöne dabei ist: Die originelle Form schmeichelt der Figur und harmoniert ausgezeichnet zu angesagten Röhrenhosen oder Leggings. Mit weitem Rundhals-Ausschnitt und überschnittenen Ärmeln. Aus luftig-leichter Viskose mit Elasthan für ein angenehmes Tragegefühl. Das coole Longsleeve-Shirt von AJC anziehen, den Trend hinaus in die Welt tragen und sich vieler Komplimente erfreuen - jetzt!<table class=\"tmpArticleDetailTable\"><tr><td class=\"left\"><div><span>Produkttyp</span></div></td><td>Shirt</td></tr><tr><td class=\"left\"><div><span>Passform</span></div></td><td>Oversized</td></tr><tr><td class=\"left\"><div><span>Kragen</span></div></td><td>Ohne</td></tr><tr><td class=\"left\"><div><span>Bündchen</span></div></td><td>Keine</td></tr><tr><td class=\"left\"><div><span>Ausschnitt</span></div></td><td>Rundhals</td></tr><tr><td class=\"left\"><div><span>Ärmelstil</span></div></td><td>3/4-Arm</td></tr><tr><td class=\"left\"><div><span>Stil</span></div></td><td>Basic</td></tr><tr><td class=\"left\"><div><span>Optik</span></div></td><td>Uni</td></tr><tr><td class=\"left\"><div><span>Auslieferung</span></div></td><td>Liegend</td></tr><tr><td class=\"left\"><div><span>Pflegehinweise</span></div></td><td>Maschinenwäsche</td></tr><tr><td class=\"left\"><div><span>Material</span></div></td><td>Jersey</td></tr><tr><td class=\"left\"><div><span>Gesamtlänge</span></div></td><td>62, 68</td></tr><tr><td class=\"left\"><div><span>Materialzusammensetzung</span></div></td><td>Obermaterial: 95% Viskose, 5% Elasthan</td></tr></table>",
+                            "active": false,
+                            "description_short": "Asymmetrische Form. Mit weitem Rundhalsausschnitt und überschnittenen Ärmeln. Aus luftig-leichter Viskose mit Elasthan für ein angenehmes Tragegefühl. Produkttyp: Shirt. Passform: Oversized. Kragen: Ohne. Bündchen: Keine. Ausschnitt: Rundhals. Ärmelstil: 3/4-Arm. Stil: Basic. Optik: Uni. Auslieferung: Liegend. Pflegehinweise: Maschinenwäsche. Material: Jersey. Gesamtlänge: 62, 68. Materialzusammensetzung: Obermaterial: 95% Viskose, 5% Elasthan.",
+                            "id": 220438,
+                            "style_key": "m01_347794693"
+                        }
+                    ],
+                    "name": "AJC Shirt",
+                    "sale": false,
+                    "categories.98": [
+                        [
+                            19367,
+                            19371,
+                            19416
+                        ]
+                    ],
+                    "attributes_merged": {
+                        "attributes_0": 441
+                    },
+                    "brand_id": 441,
+                    "description_long": "Das ist ja richtig schräg: Dieses lässige Langarm-Shirt von AJC mit asymmetrischem Schnitt ist zweifelsohne ein Vorreiter in Sachen Style. Das Schöne dabei ist: Die originelle Form schmeichelt der Figur und harmoniert ausgezeichnet zu angesagten Röhrenhosen oder Leggings. Mit weitem Rundhals-Ausschnitt und überschnittenen Ärmeln. Aus luftig-leichter Viskose mit Elasthan für ein angenehmes Tragegefühl. Das coole Longsleeve-Shirt von AJC anziehen, den Trend hinaus in die Welt tragen und sich vieler Komplimente erfreuen - jetzt!<table class=\"tmpArticleDetailTable\"><tr><td class=\"left\"><div><span>Produkttyp</span></div></td><td>Shirt</td></tr><tr><td class=\"left\"><div><span>Passform</span></div></td><td>Oversized</td></tr><tr><td class=\"left\"><div><span>Kragen</span></div></td><td>Ohne</td></tr><tr><td class=\"left\"><div><span>Bündchen</span></div></td><td>Keine</td></tr><tr><td class=\"left\"><div><span>Ausschnitt</span></div></td><td>Rundhals</td></tr><tr><td class=\"left\"><div><span>Ärmelstil</span></div></td><td>3/4-Arm</td></tr><tr><td class=\"left\"><div><span>Stil</span></div></td><td>Basic</td></tr><tr><td class=\"left\"><div><span>Optik</span></div></td><td>Uni</td></tr><tr><td class=\"left\"><div><span>Auslieferung</span></div></td><td>Liegend</td></tr><tr><td class=\"left\"><div><span>Pflegehinweise</span></div></td><td>Maschinenwäsche</td></tr><tr><td class=\"left\"><div><span>Material</span></div></td><td>Jersey</td></tr><tr><td class=\"left\"><div><span>Gesamtlänge</span></div></td><td>62, 68</td></tr><tr><td class=\"left\"><div><span>Materialzusammensetzung</span></div></td><td>Obermaterial: 95% Viskose, 5% Elasthan</td></tr></table>",
+                    "active": false,
+                    "description_short": "Asymmetrische Form. Mit weitem Rundhalsausschnitt und überschnittenen Ärmeln. Aus luftig-leichter Viskose mit Elasthan für ein angenehmes Tragegefühl. Produkttyp: Shirt. Passform: Oversized. Kragen: Ohne. Bündchen: Keine. Ausschnitt: Rundhals. Ärmelstil: 3/4-Arm. Stil: Basic. Optik: Uni. Auslieferung: Liegend. Pflegehinweise: Maschinenwäsche. Material: Jersey. Gesamtlänge: 62, 68. Materialzusammensetzung: Obermaterial: 95% Viskose, 5% Elasthan.",
+                    "id": 220430,
+                    "style_key": "m01_347794693"
+                }
+            }
+        }
+    }
+]

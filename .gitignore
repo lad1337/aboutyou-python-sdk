@@ -1,0 +1,17 @@
+*.sublime*
+*.log*
+*.pyc
+*.pyo
+.coverage
+__pycache__
+.tox
+dump.*
+build/*
+slice-dice.yaml
+110slicedice-config.json
+dist/*
+doc/_build/*
+aboutyou.egg-info/
+test.py
+categories.yaml
+facets.yaml

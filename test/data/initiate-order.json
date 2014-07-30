@@ -1,0 +1,9 @@
+[
+    {
+        "initiate_order": {
+            "url": "http://ant-web1.wavecloud.de/?user_token=34f9b86d-c899-4703-b85a-3c4971601b59&app_token=10268cc8-2025-4285-8e17-bc3160865824",
+            "user_token": "34f9b86d-c899-4703-b85a-3c4971601b59",
+            "app_token": "10268cc8-2025-4285-8e17-bc3160865824"
+        }
+    }
+]

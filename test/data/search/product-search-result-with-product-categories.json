@@ -1,0 +1,39 @@
+[
+    {
+        "product_search": {
+            "product_count": 41962,
+            "pageHash": "e6cf0f34-699a-449c-a27a-c4512df432a2",
+            "facets": {},
+            "products": [
+                {
+                    "categories.98": [
+                        [
+                            16379,
+                            16380,
+                            16381
+                        ],
+                        [
+                            16077,
+                            16078,
+                            16113
+                        ]
+                    ],
+                    "id": 335703,
+                    "name": "7/8-Jeans, TAMARIS"
+                },
+                {
+                    "categories.98": [
+                        [
+                            16077,
+                            16078,
+                            16079,
+                            16104
+                        ]
+                    ],
+                    "id": 222098,
+                    "name": "Shirt"
+                }
+            ]
+        }
+    }
+]

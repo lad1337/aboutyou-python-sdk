@@ -1,0 +1,419 @@
+[
+    {
+        "basket_add": {
+            "total_price": 15638,
+            "total_net": 13143,
+            "total_vat": 2495,
+            "products": {
+                "224674": {
+                    "name": "Keilsandalette, Tamaris",
+                    "sale": "true",
+                    "brand_id": 201,
+                    "description_long": "Keilsandalette,Tamaris. Materialmix aus Leder und Lederimitat, Futter: Textil, Decksohle aus Leder, Synthetik-Laufsohle, 60 mm Absatz, Schuhweite: F (normal), Schnalle, »Touch-it« Fußbett.",
+                    "active": "true",
+                    "variants": [
+                        {
+                            "ean": "4046011781206",
+                            "default": false,
+                            "price": 3499,
+                            "old_price": 5999,
+                            "images": [
+                                {
+                                    "id": 410180,
+                                    "extension": ".jpg"
+                                }
+                            ],
+                            "attributes": {
+                                "attributes_2": [
+                                    17
+                                ],
+                                "attributes_0": [
+                                    201
+                                ],
+                                "attributes_1": [
+                                    55
+                                ]
+                            },
+                            "retail_price": 0,
+                            "id": 4764954,
+                            "quantity": 29
+                        },
+                        {
+                            "ean": "4046011781206",
+                            "default": false,
+                            "price": 3499,
+                            "old_price": 5999,
+                            "images": [
+                                {
+                                    "id": 410180,
+                                    "extension": ".jpg"
+                                }
+                            ],
+                            "attributes": {
+                                "attributes_2": [
+                                    7
+                                ],
+                                "attributes_0": [
+                                    201
+                                ],
+                                "attributes_1": [
+                                    55
+                                ]
+                            },
+                            "retail_price": 0,
+                            "id": 4764995,
+                            "quantity": 1
+                        },
+                        {
+                            "ean": "4046011781206",
+                            "default": false,
+                            "price": 3499,
+                            "old_price": 5999,
+                            "images": [
+                                {
+                                    "id": 410180,
+                                    "extension": ".jpg"
+                                }
+                            ],
+                            "attributes": {
+                                "attributes_2": [
+                                    6
+                                ],
+                                "attributes_0": [
+                                    201
+                                ],
+                                "attributes_1": [
+                                    55
+                                ]
+                            },
+                            "retail_price": 0,
+                            "id": 4765013,
+                            "quantity": 16
+                        }
+                    ],
+                    "description_short": "Keilsandalette,Tamaris. Materialmix aus Leder und Lederimitat, Futter: Textil, Decksohle aus Leder, Synthetik-Laufsohle, 60 mm Absatz, Schuhweite: F (normal), Schnalle, »Touch-it« Fußbett.",
+                    "id": 224674
+                },
+                "227838": {
+                    "name": "Badeshort Herren",
+                    "sale": "true",
+                    "brand_id": 240,
+                    "description_long": "",
+                    "active": "true",
+                    "variants": [
+                        {
+                            "ean": "000",
+                            "default": false,
+                            "price": 2995,
+                            "old_price": 5995,
+                            "images": [
+                                {
+                                    "id": 491229,
+                                    "extension": ".jpg"
+                                }
+                            ],
+                            "attributes": {
+                                "attributes_2": [
+                                    46
+                                ],
+                                "attributes_0": [
+                                    240
+                                ],
+                                "attributes_1": [
+                                    55
+                                ]
+                            },
+                            "retail_price": 0,
+                            "id": 4779744,
+                            "quantity": 139
+                        },
+                        {
+                            "ean": "000",
+                            "default": false,
+                            "price": 2995,
+                            "old_price": 5995,
+                            "images": [
+                                {
+                                    "id": 491229,
+                                    "extension": ".jpg"
+                                }
+                            ],
+                            "attributes": {
+                                "attributes_2": [
+                                    43
+                                ],
+                                "attributes_0": [
+                                    240
+                                ],
+                                "attributes_1": [
+                                    55
+                                ]
+                            },
+                            "retail_price": 0,
+                            "id": 4779753,
+                            "quantity": 55
+                        },
+                        {
+                            "ean": "000",
+                            "default": false,
+                            "price": 2995,
+                            "old_price": 5995,
+                            "images": [
+                                {
+                                    "id": 491229,
+                                    "extension": ".jpg"
+                                }
+                            ],
+                            "attributes": {
+                                "attributes_2": [
+                                    44
+                                ],
+                                "attributes_0": [
+                                    240
+                                ],
+                                "attributes_1": [
+                                    55
+                                ]
+                            },
+                            "retail_price": 0,
+                            "id": 4779762,
+                            "quantity": 67
+                        },
+                        {
+                            "ean": "000",
+                            "default": false,
+                            "price": 2995,
+                            "old_price": 5995,
+                            "images": [
+                                {
+                                    "id": 491229,
+                                    "extension": ".jpg"
+                                }
+                            ],
+                            "attributes": {
+                                "attributes_2": [
+                                    42
+                                ],
+                                "attributes_0": [
+                                    240
+                                ],
+                                "attributes_1": [
+                                    55
+                                ]
+                            },
+                            "retail_price": 0,
+                            "id": 4779771,
+                            "quantity": 45
+                        },
+                        {
+                            "ean": "000",
+                            "default": false,
+                            "price": 2995,
+                            "old_price": 5995,
+                            "images": [
+                                {
+                                    "id": 491229,
+                                    "extension": ".jpg"
+                                }
+                            ],
+                            "attributes": {
+                                "attributes_2": [
+                                    45
+                                ],
+                                "attributes_0": [
+                                    240
+                                ],
+                                "attributes_1": [
+                                    55
+                                ]
+                            },
+                            "retail_price": 0,
+                            "id": 4779780,
+                            "quantity": 48
+                        }
+                    ],
+                    "description_short": "Billabong Badeshorts Elastischer Kordelzugbund • Seitentaschen • Logostick seitlich • Mesh-Innenslip • Seitenlänge ca. 51cm/Gr. M• 100% Polyester.",
+                    "id": 227838
+                },
+                "246119": {
+                    "name": "Hipsterpanty, LASCANA (2 oder 4 Stck.)",
+                    "sale": "false",
+                    "brand_id": 266,
+                    "description_long": "Basic-Hipsterpanty: Erstklassige Basics im edlen Look. Perfekte Passform, super elastisch, mit extraflachen Einfassungen. Nichts zeichnet sich ab. Hüfttiefe Passform mit elastischem Bündchen. Hochwertiger Baumwoll-Stretch aus 90% Baumwolle, 10% Elasthan (LYCRA®).",
+                    "active": "true",
+                    "variants": [
+                        {
+                            "ean": "4893823154977",
+                            "default": false,
+                            "price": 1650,
+                            "old_price": 0,
+                            "images": [
+                                {
+                                    "id": 53174,
+                                    "extension": ".jpg"
+                                }
+                            ],
+                            "attributes": {
+                                "attributes_2": [
+                                    4,
+                                    2
+                                ],
+                                "attributes_0": [
+                                    266
+                                ],
+                                "attributes_1": [
+                                    30
+                                ]
+                            },
+                            "retail_price": 0,
+                            "id": 4887430,
+                            "quantity": 33
+                        },
+                        {
+                            "ean": "4893823154977",
+                            "default": false,
+                            "price": 1499,
+                            "old_price": 0,
+                            "images": [
+                                {
+                                    "id": 53174,
+                                    "extension": ".jpg"
+                                }
+                            ],
+                            "attributes": {
+                                "attributes_2": [
+                                    57,
+                                    8
+                                ],
+                                "attributes_0": [
+                                    266
+                                ],
+                                "attributes_1": [
+                                    30
+                                ]
+                            },
+                            "retail_price": 0,
+                            "id": 4887446,
+                            "quantity": 66
+                        },
+                        {
+                            "ean": "4893823154977",
+                            "default": false,
+                            "price": 1650,
+                            "old_price": 0,
+                            "images": [
+                                {
+                                    "id": 53174,
+                                    "extension": ".jpg"
+                                }
+                            ],
+                            "attributes": {
+                                "attributes_2": [
+                                    6,
+                                    5
+                                ],
+                                "attributes_0": [
+                                    266
+                                ],
+                                "attributes_1": [
+                                    30
+                                ]
+                            },
+                            "retail_price": 0,
+                            "id": 4887460,
+                            "quantity": 133
+                        },
+                        {
+                            "ean": "4893823154977",
+                            "default": false,
+                            "price": 1499,
+                            "old_price": 0,
+                            "images": [
+                                {
+                                    "id": 53174,
+                                    "extension": ".jpg"
+                                }
+                            ],
+                            "attributes": {
+                                "attributes_2": [
+                                    10,
+                                    7
+                                ],
+                                "attributes_0": [
+                                    266
+                                ],
+                                "attributes_1": [
+                                    30
+                                ]
+                            },
+                            "retail_price": 0,
+                            "id": 4887475,
+                            "quantity": 283
+                        },
+                        {
+                            "ean": "4893823154977",
+                            "default": false,
+                            "price": 1650,
+                            "old_price": 0,
+                            "images": [
+                                {
+                                    "id": 53174,
+                                    "extension": ".jpg"
+                                }
+                            ],
+                            "attributes": {
+                                "attributes_2": [
+                                    21,
+                                    22
+                                ],
+                                "attributes_0": [
+                                    266
+                                ],
+                                "attributes_1": [
+                                    30
+                                ]
+                            },
+                            "retail_price": 0,
+                            "id": 4887492,
+                            "quantity": 26
+                        }
+                    ],
+                    "description_short": "Basic-Hipsterpanty: Erstklassige Basics im edlen Look. Perfekte Passform, super elastisch, mit extraflachen Einfassungen. Nichts zeichnet sich ab. Hüfttiefe Passform mit elastischem Bündchen. Hochwertiger Baumwoll-Stretch aus 90% Baumwolle, 10% Elasthan (LYCRA®).",
+                    "id": 246119
+                }
+            },
+            "amount_variants": 5,
+            "product_variant": [
+                {
+                    "total_price": 5990,
+                    "product_id": 227838,
+                    "tax": 19,
+                    "unit_price": 2995,
+                    "amount": 2,
+                    "total_vat": 956,
+                    "id": 4779744
+                },
+                {
+                    "total_price": 7998,
+                    "product_id": 224674,
+                    "tax": 19,
+                    "unit_price": 3999,
+                    "amount": 2,
+                    "total_vat": 1276,
+                    "command": "add_amount",
+                    "id": 4764954
+                },
+                {
+                    "total_price": 1650,
+                    "product_id": 246119,
+                    "tax": 19,
+                    "unit_price": 1650,
+                    "amount": 1,
+                    "total_vat": 263,
+                    "id": 4887430
+                }
+            ],
+            "total_variants": 3
+        }
+    }
+]

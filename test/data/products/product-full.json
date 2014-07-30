@@ -1,0 +1,489 @@
+{
+                    "styles": [],
+                    "active": true,
+                    "name": "sweatshirt with logo",
+                    "description_long": "Lässiger Hoodie von Tom Tailor plus Label-Frontprint im Vintage Look. Mit Rippbündchen und einer charakteristischen Kängurutasche auf der Vorderseite. Extrakomfort: Der Style ist innen weich aufgeraut.;70% Baumwolle, 30% Viskose",
+                    "sale": true,
+                    "attributes_merged": {
+                        "attributes_172": [
+                            1967
+                        ],
+                        "attributes_173": [
+                            2112,
+                            2251,
+                            2075,
+                            2214,
+                            2166
+                        ],
+                        "attributes_206": [
+                            2392,
+                            2402,
+                            2412,
+                            2422,
+                            2382
+                        ],
+                        "attributes_211": [
+                            2749
+                        ],
+                        "attributes_0": [
+                            264
+                        ],
+                        "attributes_1": [
+                            12
+                        ]
+                    },
+                    "brand_id": 264,
+                    "default_variant": {
+                        "ean": "4054618356895",
+                        "default": false,
+                        "price": 3990,
+                        "old_price": 0,
+                        "images": [
+                            {
+                                "hash": "882ff9a8365b6e1b46773992b189e4dc",
+                                "name": "Antevorte-2_TOT0072001_140_21.jpg",
+                                "image": {
+                                    "width": 1400,
+                                    "height": 2000
+                                },
+                                "ext": ".jpg",
+                                "mime": "image/jpeg",
+                                "size": 1874956
+                            },
+                            {
+                                "hash": "2b0ee425a369b8feab3d1515a7bffaec",
+                                "name": "Antevorte-2_TOT0072001_140_22.jpg",
+                                "image": {
+                                    "width": 1400,
+                                    "height": 2000
+                                },
+                                "ext": ".jpg",
+                                "mime": "image/jpeg",
+                                "size": 1909980
+                            }
+                        ],
+                        "attributes": {
+                            "attributes_172": [
+                                1967
+                            ],
+                            "attributes_173": [
+                                2075
+                            ],
+                            "attributes_206": [
+                                2382
+                            ],
+                            "attributes_211": [
+                                2749
+                            ],
+                            "attributes_0": [
+                                264
+                            ],
+                            "attributes_1": [
+                                12
+                            ]
+                        },
+                        "retail_price": 3995,
+                        "id": 5145543,
+                        "quantity": 5
+                    },
+                    "min_price": 3990,
+                    "default_image": {
+                        "hash": "882ff9a8365b6e1b46773992b189e4dc",
+                        "name": "Antevorte-2_TOT0072001_1default_image40_21.jpg",
+                        "image": {
+                            "width": 1400,
+                            "height": 2000
+                        },
+                        "ext": ".jpg",
+                        "mime": "image/jpeg",
+                        "size": 1874956
+                    },
+                    "categories.200": [
+                        [
+                            19080
+                        ],
+                        [
+                            19096
+                        ],
+                        [
+                            19084
+                        ]
+                    ],
+                    "variants": [
+                        {
+                            "ean": "4054618356895",
+                            "default": false,
+                            "price": 3990,
+                            "old_price": 0,
+                            "images": [
+                                {
+                                    "hash": "882ff9a8365b6e1b46773992b189e4dc",
+                                    "name": "Antevorte-2_TOT0072001_140_21.jpg",
+                                    "image": {
+                                        "width": 1400,
+                                        "height": 2000
+                                    },
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "size": 1874956
+                                },
+                                {
+                                    "hash": "2b0ee425a369b8feab3d1515a7bffaec",
+                                    "name": "Antevorte-2_TOT0072001_140_22.jpg",
+                                    "image": {
+                                        "width": 1400,
+                                        "height": 2000
+                                    },
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "size": 1909980
+                                }
+                            ],
+                            "attributes": {
+                                "attributes_172": [
+                                    1967
+                                ],
+                                "attributes_173": [
+                                    2075
+                                ],
+                                "attributes_206": [
+                                    2382
+                                ],
+                                "attributes_211": [
+                                    2749
+                                ],
+                                "attributes_0": [
+                                    264
+                                ],
+                                "attributes_1": [
+                                    12
+                                ]
+                            },
+                            "retail_price": 3995,
+                            "id": 51455431,
+                            "quantity": 5
+                        },
+                        {
+                            "ean": "4054618356895",
+                            "default": false,
+                            "price": 3990,
+                            "old_price": 0,
+                            "images": [
+                                {
+                                    "hash": "882ff9a8365b6e1b46773992b189e4dc",
+                                    "name": "Antevorte-2_TOT0072001_140_21.jpg",
+                                    "image": {
+                                        "width": 1400,
+                                        "height": 2000
+                                    },
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "size": 1874956
+                                },
+                                {
+                                    "hash": "2b0ee425a369b8feab3d1515a7bffaec",
+                                    "name": "Antevorte-2_TOT0072001_140_22.jpg",
+                                    "image": {
+                                        "width": 1400,
+                                        "height": 2000
+                                    },
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "size": 1909980
+                                }
+                            ],
+                            "attributes": {
+                                "attributes_172": [
+                                    1967
+                                ],
+                                "attributes_173": [
+                                    2075
+                                ],
+                                "attributes_206": [
+                                    2382,2392
+                                ],
+                                "attributes_211": [
+                                    2749
+                                ],
+                                "attributes_0": [
+                                    264
+                                ],
+                                "attributes_1": [
+                                    12
+                                ]
+                            },
+                            "retail_price": 3995,
+                            "id": 51455432,
+                            "quantity": 5
+                        },
+                        {
+                            "ean": "4054618356895",
+                            "default": false,
+                            "price": 3990,
+                            "old_price": 0,
+                            "images": [
+                                {
+                                    "hash": "882ff9a8365b6e1b46773992b189e4dc",
+                                    "name": "Antevorte-2_TOT0072001_140_21.jpg",
+                                    "image": {
+                                        "width": 1400,
+                                        "height": 2000
+                                    },
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "size": 1874956
+                                },
+                                {
+                                    "hash": "2b0ee425a369b8feab3d1515a7bffaec",
+                                    "name": "Antevorte-2_TOT0072001_140_22.jpg",
+                                    "image": {
+                                        "width": 1400,
+                                        "height": 2000
+                                    },
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "size": 1909980
+                                }
+                            ],
+                            "attributes": {
+                                "attributes_172": [
+                                    1967
+                                ],
+                                "attributes_173": [
+                                    2112
+                                ],
+                                "attributes_206": [
+                                    2382
+                                ],
+                                "attributes_211": [
+                                    2749
+                                ],
+                                "attributes_0": [
+                                    264
+                                ],
+                                "attributes_1": [
+                                    12
+                                ]
+                            },
+                            "retail_price": 3995,
+                            "id": 51455433,
+                            "quantity": 5
+                        },
+                        {
+                            "ean": "4054618073549",
+                            "default": false,
+                            "price": 3990,
+                            "old_price": 0,
+                            "images": [
+                                {
+                                    "hash": "882ff9a8365b6e1b46773992b189e4dc",
+                                    "name": "Antevorte-2_TOT0072001_140_21.jpg",
+                                    "image": {
+                                        "width": 1400,
+                                        "height": 2000
+                                    },
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "size": 1874956
+                                },
+                                {
+                                    "hash": "2b0ee425a369b8feab3d1515a7bffaec",
+                                    "name": "Antevorte-2_TOT0072001_140_22.jpg",
+                                    "image": {
+                                        "width": 1400,
+                                        "height": 2000
+                                    },
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "size": 1909980
+                                }
+                            ],
+                            "attributes": {
+                                "attributes_172": [
+                                    1967
+                                ],
+                                "attributes_173": [
+                                    2112
+                                ],
+                                "attributes_206": [
+                                    2392
+                                ],
+                                "attributes_211": [
+                                    2749
+                                ],
+                                "attributes_0": [
+                                    264
+                                ],
+                                "attributes_1": [
+                                    12
+                                ]
+                            },
+                            "retail_price": 3995,
+                            "id": 5145544,
+                            "quantity": 5
+                        },
+                        {
+                            "ean": "4054618356901",
+                            "default": false,
+                            "price": 3990,
+                            "old_price": 0,
+                            "images": [
+                                {
+                                    "hash": "882ff9a8365b6e1b46773992b189e4dc",
+                                    "name": "Antevorte-2_TOT0072001_140_21.jpg",
+                                    "image": {
+                                        "width": 1400,
+                                        "height": 2000
+                                    },
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "size": 1874956
+                                },
+                                {
+                                    "hash": "2b0ee425a369b8feab3d1515a7bffaec",
+                                    "name": "Antevorte-2_TOT0072001_140_22.jpg",
+                                    "image": {
+                                        "width": 1400,
+                                        "height": 2000
+                                    },
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "size": 1909980
+                                }
+                            ],
+                            "attributes": {
+                                "attributes_172": [
+                                    1967
+                                ],
+                                "attributes_173": [
+                                    2166
+                                ],
+                                "attributes_206": [
+                                    2402
+                                ],
+                                "attributes_211": [
+                                    2749
+                                ],
+                                "attributes_0": [
+                                    264
+                                ],
+                                "attributes_1": [
+                                    12
+                                ]
+                            },
+                            "retail_price": 3995,
+                            "id": 5145545,
+                            "quantity": 15
+                        },
+                        {
+                            "ean": "4054618356918",
+                            "default": false,
+                            "price": 3990,
+                            "old_price": 0,
+                            "images": [
+                                {
+                                    "hash": "882ff9a8365b6e1b46773992b189e4dc",
+                                    "name": "Antevorte-2_TOT0072001_140_21.jpg",
+                                    "image": {
+                                        "width": 1400,
+                                        "height": 2000
+                                    },
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "size": 1874956
+                                },
+                                {
+                                    "hash": "2b0ee425a369b8feab3d1515a7bffaec",
+                                    "name": "Antevorte-2_TOT0072001_140_22.jpg",
+                                    "image": {
+                                        "width": 1400,
+                                        "height": 2000
+                                    },
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "size": 1909980
+                                }
+                            ],
+                            "attributes": {
+                                "attributes_172": [
+                                    1967
+                                ],
+                                "attributes_173": [
+                                    2214
+                                ],
+                                "attributes_206": [
+                                    2412
+                                ],
+                                "attributes_211": [
+                                    2749
+                                ],
+                                "attributes_0": [
+                                    264
+                                ],
+                                "attributes_1": [
+                                    12
+                                ]
+                            },
+                            "retail_price": 3995,
+                            "id": 5145546,
+                            "quantity": 5
+                        },
+                        {
+                            "ean": "4054618356925",
+                            "default": false,
+                            "price": 3990,
+                            "old_price": 0,
+                            "images": [
+                                {
+                                    "hash": "882ff9a8365b6e1b46773992b189e4dc",
+                                    "name": "Antevorte-2_TOT0072001_140_21.jpg",
+                                    "image": {
+                                        "width": 1400,
+                                        "height": 2000
+                                    },
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "size": 1874956
+                                },
+                                {
+                                    "hash": "2b0ee425a369b8feab3d1515a7bffaec",
+                                    "name": "Antevorte-2_TOT0072001_140_22.jpg",
+                                    "image": {
+                                        "width": 1400,
+                                        "height": 2000
+                                    },
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "size": 1909980
+                                }
+                            ],
+                            "attributes": {
+                                "attributes_172": [
+                                    1967
+                                ],
+                                "attributes_173": [
+                                    2251
+                                ],
+                                "attributes_206": [
+                                    2422
+                                ],
+                                "attributes_211": [
+                                    2749
+                                ],
+                                "attributes_0": [
+                                    264
+                                ],
+                                "attributes_1": [
+                                    12
+                                ]
+                            },
+                            "retail_price": 3995,
+                            "id": 5145547,
+                            "quantity": 5
+                        }
+                    ],
+                    "max_price": 3990,
+                    "description_short": "",
+                    "id": 456,
+                    "style_key": "m05_TOT0072"
+                }

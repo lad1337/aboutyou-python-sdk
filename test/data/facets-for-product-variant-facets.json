@@ -1,0 +1,75 @@
+[
+    {
+            "facet": [
+                {
+                    "name": "rot",
+                    "facet_id": 1001,
+                    "id": 1,
+                    "value": "rot",
+                    "group_name": "color"
+                },
+                {
+                    "name": "blau",
+                    "facet_id": 1002,
+                    "id": 1,
+                    "value": "blau",
+                    "group_name": "color"
+                },
+                {
+                    "name": "gelb",
+                    "facet_id": 1003,
+                    "id": 1,
+                    "value": "gelb",
+                    "group_name": "color"
+                },
+                {
+                    "name": "M",
+                    "facet_id": 2001,
+                    "id": 2,
+                    "value": "m",
+                    "group_name": "size"
+                },
+                {
+                    "name": "L",
+                    "facet_id": 2002,
+                    "id": 2,
+                    "value": "l",
+                    "group_name": "size"
+                },
+                {
+                    "name": "XL",
+                    "facet_id": 2003,
+                    "id": 2,
+                    "value": "xl",
+                    "group_name": "size"
+                },
+                {
+                    "name": "baumwolle",
+                    "facet_id": 3001,
+                    "id": 3,
+                    "value": "baumwolle",
+                    "group_name": "material"
+                },
+                {
+                    "name": "metall",
+                    "facet_id": 3002,
+                    "id": 3,
+                    "value": "metall",
+                    "group_name": "material"
+                },
+                {
+                    "facet_id": 264,
+                    "options": [
+                        {
+                            "key": "logo_extension",
+                            "value": "png"
+                        }
+                    ],
+                    "id": 0,
+                    "name": "TOM TAILOR",
+                    "group_name": "brand"
+                }
+           ],
+            "hits": 7007
+    }
+]

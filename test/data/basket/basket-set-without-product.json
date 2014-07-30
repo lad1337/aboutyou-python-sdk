@@ -1,0 +1,36 @@
+[{
+        "basket": {
+            "total_price": 0,
+            "total_net": 0,
+            "total_vat": 0,
+            "products": {},
+            "order_lines": [
+                {
+                    "id": "identifier3",
+                    "total_price": 300,
+                    "total_net": 280,
+                    "total_vat": 20,
+                    "set_items": [
+                        {
+                            "product_id": 123,
+                            "variant_id": 12312121,
+                            "total_price": 600,
+                            "total_net": 590,
+                            "total_vat": 10,
+                            "tax": 19.0,
+                            "additional_data": {
+                                "description": "engravingssens",
+                                "internal_infos": ["stuff"]
+                            }
+
+                        }
+                    ],
+                    "additional_data": {
+                        "description": "engravingssens",
+                        "internal_infos": ["stuff"],
+                        "image_url": "http://google.de"
+                    }                    
+                }
+            ]
+        }
+    }]

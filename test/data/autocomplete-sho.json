@@ -1,0 +1,1020 @@
+[
+    {
+        "autocompletion": {
+            "products": [
+                {
+                    "name": "Shorts Base Shorts Camouflage Kelp",
+                    "description_long": "- Shorts von Vintage<br />\n- Knopfverschluss und innenliegende Kordelzüge an der Taille<br />\n- Eingrifftaschen<br />\n- Taschen an den Oberschenkeln und Gesäßtaschen mit Druckknopfverschluss<br />\n- Innenliegende Kordelzüge am Saum der Hosenbeine<br />\n- Über-Knie-Schnitt<br><br>Materialzusammensetzung: 100% Baumwolle",
+                    "sale": false,
+                    "max_price": 5995,
+                    "brand_id": 1122,
+                    "default_variant": {
+                        "ean": "5711646923879",
+                        "default": false,
+                        "price": 5995,
+                        "old_price": 0,
+                        "images": [
+                            {
+                                "hash": "cc7be92d93e2afa143455f3ea16e6b45",
+                                "name": "163441.jpg",
+                                "url": "http://clientmedia.trade-server.net/1498_bestsel/media/4/40/163441.jpg",
+                                "image": {
+                                    "width": 900,
+                                    "height": 1200
+                                },
+                                "ext": ".jpg",
+                                "mime": "image/jpeg",
+                                "id": 1086195,
+                                "size": 140830
+                            },
+                            {
+                                "hash": "4b5931c112ae781919a909ae8a68b058",
+                                "name": "163443.jpg",
+                                "url": "http://clientmedia.trade-server.net/1498_bestsel/media/4/42/163443.jpg",
+                                "image": {
+                                    "width": 900,
+                                    "height": 1200
+                                },
+                                "ext": ".jpg",
+                                "mime": "image/jpeg",
+                                "id": 1086210,
+                                "size": 148726
+                            },
+                            {
+                                "hash": "52195ef926cdc6984f5df05b9ab988cb",
+                                "name": "163445.jpg",
+                                "url": "http://clientmedia.trade-server.net/1498_bestsel/media/4/44/163445.jpg",
+                                "image": {
+                                    "width": 900,
+                                    "height": 1200
+                                },
+                                "ext": ".jpg",
+                                "mime": "image/jpeg",
+                                "id": 1086211,
+                                "size": 93600
+                            },
+                            {
+                                "hash": "05e7b763b96f99d39722cd63f8f6d7f8",
+                                "name": "163447.jpg",
+                                "url": "http://clientmedia.trade-server.net/1498_bestsel/media/4/46/163447.jpg",
+                                "image": {
+                                    "width": 900,
+                                    "height": 1200
+                                },
+                                "ext": ".jpg",
+                                "mime": "image/jpeg",
+                                "id": 1086219,
+                                "size": 211817
+                            },
+                            {
+                                "hash": "594bee22612ec042581b606ff5af4fd8",
+                                "name": "163449.jpg",
+                                "url": "http://clientmedia.trade-server.net/1498_bestsel/media/4/48/163449.jpg",
+                                "image": {
+                                    "width": 900,
+                                    "height": 1200
+                                },
+                                "ext": ".jpg",
+                                "mime": "image/jpeg",
+                                "id": 1086224,
+                                "size": 327699
+                            },
+                            {
+                                "hash": "a7e19a8f68a8765c2aeed961674fb09a",
+                                "name": "163451.jpg",
+                                "url": "http://clientmedia.trade-server.net/1498_bestsel/media/4/50/163451.jpg",
+                                "image": {
+                                    "width": 900,
+                                    "height": 1200
+                                },
+                                "ext": ".jpg",
+                                "mime": "image/jpeg",
+                                "id": 1086230,
+                                "size": 455302
+                            },
+                            {
+                                "hash": "72220a60ff68aea87d5339583a3ce843",
+                                "name": "163453.jpg",
+                                "url": "http://clientmedia.trade-server.net/1498_bestsel/media/4/52/163453.jpg",
+                                "image": {
+                                    "width": 900,
+                                    "height": 1200
+                                },
+                                "ext": ".jpg",
+                                "mime": "image/jpeg",
+                                "id": 1086238,
+                                "size": 319216
+                            },
+                            {
+                                "hash": "2b7f19967b5efa44c6f2a7e5eb1c1218",
+                                "name": "163455.jpg",
+                                "url": "http://clientmedia.trade-server.net/1498_bestsel/media/4/54/163455.jpg",
+                                "image": {
+                                    "width": 900,
+                                    "height": 1200
+                                },
+                                "ext": ".jpg",
+                                "mime": "image/jpeg",
+                                "id": 1086241,
+                                "size": 437661
+                            },
+                            {
+                                "hash": "294a4cfc1615d1752dc1ea947c1a9f64",
+                                "name": "163457.jpg",
+                                "url": "http://clientmedia.trade-server.net/1498_bestsel/media/4/56/163457.jpg",
+                                "image": {
+                                    "width": 30,
+                                    "height": 22
+                                },
+                                "ext": ".jpg",
+                                "mime": "image/jpeg",
+                                "id": 1086244,
+                                "size": 410
+                            }
+                        ],
+                        "attributes": {
+                            "attributes_172": [
+                                1967
+                            ],
+                            "attributes_173": [
+                                2112
+                            ],
+                            "attributes_206": [
+                                2392
+                            ],
+                            "attributes_2": [
+                                44
+                            ],
+                            "attributes_0": [
+                                1122
+                            ],
+                            "attributes_1": [
+                                48
+                            ]
+                        },
+                        "retail_price": 0,
+                        "id": 5009320,
+                        "quantity": 5
+                    },
+                    "min_price": 5995,
+                    "default_image": {
+                        "hash": "cc7be92d93e2afa143455f3ea16e6b45",
+                        "name": "163441.jpg",
+                        "url": "http://clientmedia.trade-server.net/1498_bestsel/media/4/40/163441.jpg",
+                        "image": {
+                            "width": 900,
+                            "height": 1200
+                        },
+                        "ext": ".jpg",
+                        "mime": "image/jpeg",
+                        "id": 1086195,
+                        "size": 140830
+                    },
+                    "description_short": "",
+                    "id": 260631
+                },
+                {
+                    "name": "Shorts Arvi Long Shorts Anti SC 337",
+                    "description_long": "- Lange Shorts von CORE<br />\n- Anti-Passform<br />\n- Lang geschnitten<br />\n- Knopfleiste<br />\n- Eingrifftaschen<br><br>Materialzusammensetzung: 100% Baumwolle",
+                    "sale": false,
+                    "max_price": 5995,
+                    "brand_id": 1122,
+                    "default_variant": {
+                        "ean": "5711646207658",
+                        "default": false,
+                        "price": 5995,
+                        "old_price": 0,
+                        "images": [
+                            {
+                                "hash": "fc24a9566c0ec4bfbcd5e4bffa3cfca8",
+                                "name": "74927.jpg",
+                                "url": "http://clientmedia.trade-server.net/1498_bestsel/media/9/26/74927.jpg",
+                                "image": {
+                                    "width": 900,
+                                    "height": 1200
+                                },
+                                "ext": ".jpg",
+                                "mime": "image/jpeg",
+                                "id": 1050676,
+                                "size": 130362
+                            },
+                            {
+                                "hash": "7ed74d0f3211e4b9db181dc76beb164f",
+                                "name": "74929.jpg",
+                                "url": "http://clientmedia.trade-server.net/1498_bestsel/media/9/28/74929.jpg",
+                                "image": {
+                                    "width": 900,
+                                    "height": 1200
+                                },
+                                "ext": ".jpg",
+                                "mime": "image/jpeg",
+                                "id": 1050683,
+                                "size": 138574
+                            },
+                            {
+                                "hash": "d6c3051f8e50a95565ae1e6df7d71f61",
+                                "name": "74931.jpg",
+                                "url": "http://clientmedia.trade-server.net/1498_bestsel/media/9/30/74931.jpg",
+                                "image": {
+                                    "width": 900,
+                                    "height": 1200
+                                },
+                                "ext": ".jpg",
+                                "mime": "image/jpeg",
+                                "id": 1050690,
+                                "size": 104358
+                            },
+                            {
+                                "hash": "7db7edacfefb19eca14fc13025e43ea9",
+                                "name": "74933.jpg",
+                                "url": "http://clientmedia.trade-server.net/1498_bestsel/media/9/32/74933.jpg",
+                                "image": {
+                                    "width": 900,
+                                    "height": 1200
+                                },
+                                "ext": ".jpg",
+                                "mime": "image/jpeg",
+                                "id": 1050698,
+                                "size": 111515
+                            },
+                            {
+                                "hash": "eb4f5248f9f256b073954cfdabcfe297",
+                                "name": "74935.jpg",
+                                "url": "http://clientmedia.trade-server.net/1498_bestsel/media/9/34/74935.jpg",
+                                "image": {
+                                    "width": 900,
+                                    "height": 1200
+                                },
+                                "ext": ".jpg",
+                                "mime": "image/jpeg",
+                                "id": 1050706,
+                                "size": 335137
+                            },
+                            {
+                                "hash": "258f0e50e01ae355095640b9e709d8fa",
+                                "name": "74937.jpg",
+                                "url": "http://clientmedia.trade-server.net/1498_bestsel/media/9/36/74937.jpg",
+                                "image": {
+                                    "width": 900,
+                                    "height": 1200
+                                },
+                                "ext": ".jpg",
+                                "mime": "image/jpeg",
+                                "id": 1050714,
+                                "size": 217355
+                            },
+                            {
+                                "hash": "021c06ad3975e0af4748afe2a2c6d429",
+                                "name": "74939.jpg",
+                                "url": "http://clientmedia.trade-server.net/1498_bestsel/media/9/38/74939.jpg",
+                                "image": {
+                                    "width": 900,
+                                    "height": 1200
+                                },
+                                "ext": ".jpg",
+                                "mime": "image/jpeg",
+                                "id": 1050719,
+                                "size": 166089
+                            },
+                            {
+                                "hash": "da5c38cf435775082f330be11a4bb21e",
+                                "name": "74941.jpg",
+                                "url": "http://clientmedia.trade-server.net/1498_bestsel/media/9/40/74941.jpg",
+                                "image": {
+                                    "width": 900,
+                                    "height": 1200
+                                },
+                                "ext": ".jpg",
+                                "mime": "image/jpeg",
+                                "id": 1050722,
+                                "size": 359396
+                            },
+                            {
+                                "hash": "b0275d6726ebaf0e8f75c82712741a8b",
+                                "name": "74943.jpg",
+                                "url": "http://clientmedia.trade-server.net/1498_bestsel/media/9/42/74943.jpg",
+                                "image": {
+                                    "width": 30,
+                                    "height": 22
+                                },
+                                "ext": ".jpg",
+                                "mime": "image/jpeg",
+                                "id": 1050725,
+                                "size": 439
+                            }
+                        ],
+                        "attributes": {
+                            "attributes_172": [
+                                1967
+                            ],
+                            "attributes_173": [
+                                2112
+                            ],
+                            "attributes_206": [
+                                2392
+                            ],
+                            "attributes_2": [
+                                44
+                            ],
+                            "attributes_0": [
+                                1122
+                            ],
+                            "attributes_1": [
+                                1
+                            ]
+                        },
+                        "retail_price": 0,
+                        "id": 4997426,
+                        "quantity": 15
+                    },
+                    "min_price": 5995,
+                    "default_image": {
+                        "hash": "fc24a9566c0ec4bfbcd5e4bffa3cfca8",
+                        "name": "74927.jpg",
+                        "url": "http://clientmedia.trade-server.net/1498_bestsel/media/9/26/74927.jpg",
+                        "image": {
+                            "width": 900,
+                            "height": 1200
+                        },
+                        "ext": ".jpg",
+                        "mime": "image/jpeg",
+                        "id": 1050676,
+                        "size": 130362
+                    },
+                    "description_short": "",
+                    "id": 259646
+                },
+                {
+                    "name": "Shopper, Landleder",
+                    "description_long": "Shopper, Landleder. Aus hochwertigem Leder. RV-Hauptfach mit RV-Innenfach, Handyfach und 2 Stifteschlaufen. 2 Vortaschen mit Magnetverschluss. RV-Vortasche. RV-Rücktasche. Gr. ca. 33/27/7 cm.",
+                    "sale": false,
+                    "max_price": 9999,
+                    "brand_id": 4321,
+                    "default_variant": {
+                        "ean": "4250583203350",
+                        "default": false,
+                        "price": 9999,
+                        "old_price": 0,
+                        "images": [
+                            {
+                                "hash": "6c2c71460e56e3e60696b20db18264b9",
+                                "name": "3664092052737780.jpg",
+                                "url": "/var/media/x7xxx/xx7xx/xxx8x/xxxx0/3664092052737780.jpg",
+                                "image": {
+                                    "width": 678,
+                                    "height": 960
+                                },
+                                "ext": ".jpg",
+                                "mime": "image/jpeg",
+                                "id": 825449,
+                                "size": 398756
+                            }
+                        ],
+                        "attributes": {
+                            "attributes_0": [
+                                4321
+                            ],
+                            "attributes_1": [
+                                15
+                            ]
+                        },
+                        "retail_price": 0,
+                        "id": 4842370,
+                        "quantity": 15
+                    },
+                    "min_price": 9999,
+                    "default_image": {
+                        "hash": "6c2c71460e56e3e60696b20db18264b9",
+                        "name": "3664092052737780.jpg",
+                        "url": "/var/media/x7xxx/xx7xx/xxx8x/xxxx0/3664092052737780.jpg",
+                        "image": {
+                            "width": 678,
+                            "height": 960
+                        },
+                        "ext": ".jpg",
+                        "mime": "image/jpeg",
+                        "id": 825449,
+                        "size": 398756
+                    },
+                    "description_short": "Shopper, Landleder. Aus hochwertigem Leder. RV-Hauptfach mit RV-Innenfach, Handyfach und 2 Stifteschlaufen. 2 Vortaschen mit Magnetverschluss. RV-Vortasche. RV-Rücktasche. Gr. ca. 33/27/7 cm.",
+                    "id": 239407
+                },
+                {
+                    "name": "Shopper, Landleder",
+                    "description_long": "Shopper, Landleder. Aus hochwertigem Leder. RV-Hauptfach mit RV-Innenfach, Handyfach und 2 Stifteschlaufen. 2 Vortaschen mit Magnetverschluss. RV-Vortasche. RV-Rücktasche. Gr. ca. 33/27/7 cm.",
+                    "sale": false,
+                    "max_price": 9999,
+                    "brand_id": 4321,
+                    "default_variant": {
+                        "ean": "4250583203350",
+                        "default": false,
+                        "price": 9999,
+                        "old_price": 0,
+                        "images": [
+                            {
+                                "hash": "ff07522bd7a21267ebb0ecf266c009c7",
+                                "name": "3664083582727383.jpg",
+                                "url": "/var/media/x7xxx/xx3xx/xxx8x/xxxx3/3664083582727383.jpg",
+                                "image": {
+                                    "width": 678,
+                                    "height": 960
+                                },
+                                "ext": ".jpg",
+                                "mime": "image/jpeg",
+                                "id": 825416,
+                                "size": 408303
+                            }
+                        ],
+                        "attributes": {
+                            "attributes_0": [
+                                4321
+                            ],
+                            "attributes_1": [
+                                1
+                            ]
+                        },
+                        "retail_price": 0,
+                        "id": 4842337,
+                        "quantity": 15
+                    },
+                    "min_price": 9999,
+                    "default_image": {
+                        "hash": "ff07522bd7a21267ebb0ecf266c009c7",
+                        "name": "3664083582727383.jpg",
+                        "url": "/var/media/x7xxx/xx3xx/xxx8x/xxxx3/3664083582727383.jpg",
+                        "image": {
+                            "width": 678,
+                            "height": 960
+                        },
+                        "ext": ".jpg",
+                        "mime": "image/jpeg",
+                        "id": 825416,
+                        "size": 408303
+                    },
+                    "description_short": "Shopper, Landleder. Aus hochwertigem Leder. RV-Hauptfach mit RV-Innenfach, Handyfach und 2 Stifteschlaufen. 2 Vortaschen mit Magnetverschluss. RV-Vortasche. RV-Rücktasche. Gr. ca. 33/27/7 cm.",
+                    "id": 239401
+                },
+                {
+                    "name": "Shorts, Beachtime",
+                    "description_long": "Mit elastischem Rundumgummizug und Kordel. Seitliche Eingrifftaschen. Innenbeinlänge ca. 9,5 cm. Aus 100% Baumwolle.",
+                    "sale": false,
+                    "max_price": 2299,
+                    "brand_id": 640,
+                    "default_variant": {
+                        "ean": "6949586324220",
+                        "default": false,
+                        "price": 1999,
+                        "old_price": 0,
+                        "images": [
+                            {
+                                "hash": "6d64cbf6f191b9d4bcdd9ef6fd52819a",
+                                "name": "2325698582047367.jpg",
+                                "url": "/var/media/x7xxx/xx3xx/xxx6x/xxxx7/2325698582047367.jpg",
+                                "image": {
+                                    "width": 672,
+                                    "height": 960
+                                },
+                                "ext": ".jpg",
+                                "mime": "image/jpeg",
+                                "id": 757319,
+                                "size": 92552
+                            }
+                        ],
+                        "attributes": {
+                            "attributes_2": [
+                                8
+                            ],
+                            "attributes_0": [
+                                640
+                            ],
+                            "attributes_1": [
+                                30
+                            ]
+                        },
+                        "retail_price": 0,
+                        "id": 4698321,
+                        "quantity": 999
+                    },
+                    "min_price": 1999,
+                    "default_image": {
+                        "hash": "6d64cbf6f191b9d4bcdd9ef6fd52819a",
+                        "name": "2325698582047367.jpg",
+                        "url": "/var/media/x7xxx/xx3xx/xxx6x/xxxx7/2325698582047367.jpg",
+                        "image": {
+                            "width": 672,
+                            "height": 960
+                        },
+                        "ext": ".jpg",
+                        "mime": "image/jpeg",
+                        "id": 757319,
+                        "size": 92552
+                    },
+                    "description_short": "Mit elastischem Rundumgummizug und Kordel. Seitliche Eingrifftaschen. Innenbeinlänge ca. 9,5 cm. Aus 100% Baumwolle.",
+                    "id": 216782
+                },
+                {
+                    "name": "Shorts, Beachtime",
+                    "description_long": "Mit elastischem Rundumgummizug und Kordel. Seitliche Eingrifftaschen. Innenbeinlänge ca. 9,5 cm. Aus 94% Baumwolle, 6% Polyester.",
+                    "sale": false,
+                    "max_price": 2299,
+                    "brand_id": 640,
+                    "default_variant": {
+                        "ean": "6949586324220",
+                        "default": false,
+                        "price": 2299,
+                        "old_price": 0,
+                        "images": [
+                            {
+                                "hash": "f37f3974ef4ae7ebfd74bc566ce8feb6",
+                                "name": "2325694841445405.jpg",
+                                "url": "/var/media/x5xxx/xx4xx/xxx0x/xxxx5/2325694841445405.jpg",
+                                "image": {
+                                    "width": 672,
+                                    "height": 960
+                                },
+                                "ext": ".jpg",
+                                "mime": "image/jpeg",
+                                "id": 757268,
+                                "size": 96724
+                            }
+                        ],
+                        "attributes": {
+                            "attributes_2": [
+                                6
+                            ],
+                            "attributes_0": [
+                                640
+                            ],
+                            "attributes_1": [
+                                12
+                            ]
+                        },
+                        "retail_price": 0,
+                        "id": 4698167,
+                        "quantity": 30
+                    },
+                    "min_price": 1999,
+                    "default_image": {
+                        "hash": "6d64cbf6f191b9d4bcdd9ef6fd52819a",
+                        "name": "2325698582047367.jpg",
+                        "url": "/var/media/x7xxx/xx3xx/xxx6x/xxxx7/2325698582047367.jpg",
+                        "image": {
+                            "width": 672,
+                            "height": 960
+                        },
+                        "ext": ".jpg",
+                        "mime": "image/jpeg",
+                        "id": 757319,
+                        "size": 92552
+                    },
+                    "description_short": "Mit elastischem Rundumgummizug und Kordel. Seitliche Eingrifftaschen. Innenbeinlänge ca. 9,5 cm. Aus 100% Baumwolle.",
+                    "id": 216763
+                },
+                {
+                    "name": "Shorts \"College\", H.I.S",
+                    "description_long": "In trendigem Karodesign in drei Farbstellungen. Mit kontrastfarbenem Tunnelzugbund. Aus angenehm weichem Single-Jersey aus 100% Baumwolle.",
+                    "sale": false,
+                    "max_price": 1299,
+                    "brand_id": 292,
+                    "default_variant": {
+                        "ean": "4893962227280",
+                        "default": false,
+                        "price": 1099,
+                        "old_price": 1099,
+                        "images": [
+                            {
+                                "hash": "da7643e017ef8fb0549130aad834ee4e",
+                                "name": "3448598262979300.jpg",
+                                "url": "/var/media/x9xxx/xx3xx/xxx0x/xxxx0/3448598262979300.jpg",
+                                "image": {
+                                    "width": 672,
+                                    "height": 960
+                                },
+                                "ext": ".jpg",
+                                "mime": "image/jpeg",
+                                "id": 810046,
+                                "size": 137866
+                            },
+                            {
+                                "hash": "d70b6b638c873f30283a7a742d74fdb8",
+                                "name": "3448598262961141.jpg",
+                                "url": "/var/media/x1xxx/xx1xx/xxx4x/xxxx1/3448598262961141.jpg",
+                                "image": {
+                                    "width": 672,
+                                    "height": 960
+                                },
+                                "ext": ".jpg",
+                                "mime": "image/jpeg",
+                                "id": 810050,
+                                "size": 114771
+                            },
+                            {
+                                "hash": "70654068ca2a75d8eeba6b39ed53c9db",
+                                "name": "3448598262979299.jpg",
+                                "url": "/var/media/x9xxx/xx2xx/xxx9x/xxxx9/3448598262979299.jpg",
+                                "image": {
+                                    "width": 672,
+                                    "height": 960
+                                },
+                                "ext": ".jpg",
+                                "mime": "image/jpeg",
+                                "id": 810053,
+                                "size": 319270
+                            },
+                            {
+                                "hash": "2496067b11169c7a410d87be40b5bb6e",
+                                "name": "3448598262979286.jpg",
+                                "url": "/var/media/x9xxx/xx2xx/xxx8x/xxxx6/3448598262979286.jpg",
+                                "image": {
+                                    "width": 672,
+                                    "height": 960
+                                },
+                                "ext": ".jpg",
+                                "mime": "image/jpeg",
+                                "id": 810054,
+                                "size": 129410
+                            },
+                            {
+                                "hash": "157ab148e12d4a51f02686391b86d3af",
+                                "name": "3448598262979290.jpg",
+                                "url": "/var/media/x9xxx/xx2xx/xxx9x/xxxx0/3448598262979290.jpg",
+                                "image": {
+                                    "width": 672,
+                                    "height": 960
+                                },
+                                "ext": ".jpg",
+                                "mime": "image/jpeg",
+                                "id": 810056,
+                                "size": 148584
+                            },
+                            {
+                                "hash": "a8019761f9be87e7f7f77a3277d3ddda",
+                                "name": "3448598262979288.jpg",
+                                "url": "/var/media/x9xxx/xx2xx/xxx8x/xxxx8/3448598262979288.jpg",
+                                "image": {
+                                    "width": 672,
+                                    "height": 960
+                                },
+                                "ext": ".jpg",
+                                "mime": "image/jpeg",
+                                "id": 810057,
+                                "size": 272058
+                            },
+                            {
+                                "hash": "3ad07b8caeee244366efee44182b2a5b",
+                                "name": "3448598263111922.jpg",
+                                "url": "/var/media/x1xxx/xx9xx/xxx2x/xxxx2/3448598263111922.jpg",
+                                "image": {
+                                    "width": 672,
+                                    "height": 960
+                                },
+                                "ext": ".jpg",
+                                "mime": "image/jpeg",
+                                "id": 810058,
+                                "size": 133747
+                            }
+                        ],
+                        "attributes": {
+                            "attributes_2": [
+                                10
+                            ],
+                            "attributes_0": [
+                                292
+                            ],
+                            "attributes_1": [
+                                1
+                            ]
+                        },
+                        "retail_price": 0,
+                        "id": 4808250,
+                        "quantity": 999
+                    },
+                    "min_price": 999,
+                    "default_image": {
+                        "hash": "27e6dd0ade215a5416ef82666449137c",
+                        "name": "3448597812977494.jpg",
+                        "url": "/var/media/x7xxx/xx4xx/xxx9x/xxxx4/3448597812977494.jpg",
+                        "image": {
+                            "width": 672,
+                            "height": 960
+                        },
+                        "ext": ".jpg",
+                        "mime": "image/jpeg",
+                        "id": 810001,
+                        "size": 131022
+                    },
+                    "description_short": "In trendigem Karodesign in drei Farbstellungen. Mit kontrastfarbenem Tunnelzugbund. Aus angenehm weichem Single-Jersey aus 100% Baumwolle.",
+                    "id": 233545
+                },
+                {
+                    "name": "Shorts \"College\", H.I.S",
+                    "description_long": "In trendigem Karodesign in drei Farbstellungen. Mit kontrastfarbenem Tunnelzugbund. Aus angenehm weichem Single-Jersey aus 100% Baumwolle.",
+                    "sale": false,
+                    "max_price": 1299,
+                    "brand_id": 292,
+                    "default_variant": {
+                        "ean": "4893962227280",
+                        "default": false,
+                        "price": 1099,
+                        "old_price": 1099,
+                        "images": [
+                            {
+                                "hash": "940795a770ba1be7b5153e51d6342cdf",
+                                "name": "3448597812977533.jpg",
+                                "url": "/var/media/x7xxx/xx5xx/xxx3x/xxxx3/3448597812977533.jpg",
+                                "image": {
+                                    "width": 672,
+                                    "height": 960
+                                },
+                                "ext": ".jpg",
+                                "mime": "image/jpeg",
+                                "id": 809997,
+                                "size": 130882
+                            },
+                            {
+                                "hash": "8b33ef3d99ff8aafc209665348f29e1a",
+                                "name": "3448597812957189.jpg",
+                                "url": "/var/media/x7xxx/xx1xx/xxx8x/xxxx9/3448597812957189.jpg",
+                                "image": {
+                                    "width": 672,
+                                    "height": 960
+                                },
+                                "ext": ".jpg",
+                                "mime": "image/jpeg",
+                                "id": 809999,
+                                "size": 121046
+                            },
+                            {
+                                "hash": "27e6dd0ade215a5416ef82666449137c",
+                                "name": "3448597812977494.jpg",
+                                "url": "/var/media/x7xxx/xx4xx/xxx9x/xxxx4/3448597812977494.jpg",
+                                "image": {
+                                    "width": 672,
+                                    "height": 960
+                                },
+                                "ext": ".jpg",
+                                "mime": "image/jpeg",
+                                "id": 810001,
+                                "size": 131022
+                            },
+                            {
+                                "hash": "2c8b5564eacc9dd7603e83dabb8d47e5",
+                                "name": "3448597812977513.jpg",
+                                "url": "/var/media/x7xxx/xx5xx/xxx1x/xxxx3/3448597812977513.jpg",
+                                "image": {
+                                    "width": 672,
+                                    "height": 960
+                                },
+                                "ext": ".jpg",
+                                "mime": "image/jpeg",
+                                "id": 810003,
+                                "size": 248291
+                            },
+                            {
+                                "hash": "f5d851ef606c9103e19ed987fcc44d69",
+                                "name": "3448597812977539.jpg",
+                                "url": "/var/media/x7xxx/xx5xx/xxx3x/xxxx9/3448597812977539.jpg",
+                                "image": {
+                                    "width": 672,
+                                    "height": 960
+                                },
+                                "ext": ".jpg",
+                                "mime": "image/jpeg",
+                                "id": 810004,
+                                "size": 279723
+                            },
+                            {
+                                "hash": "c2eee18be0a6572743d7b5bcabfb0991",
+                                "name": "3448597812977534.jpg",
+                                "url": "/var/media/x7xxx/xx5xx/xxx3x/xxxx4/3448597812977534.jpg",
+                                "image": {
+                                    "width": 672,
+                                    "height": 960
+                                },
+                                "ext": ".jpg",
+                                "mime": "image/jpeg",
+                                "id": 810005,
+                                "size": 150693
+                            }
+                        ],
+                        "attributes": {
+                            "attributes_2": [
+                                10
+                            ],
+                            "attributes_0": [
+                                292
+                            ],
+                            "attributes_1": [
+                                18
+                            ]
+                        },
+                        "retail_price": 0,
+                        "id": 4808150,
+                        "quantity": 30
+                    },
+                    "min_price": 1099,
+                    "default_image": {
+                        "hash": "27e6dd0ade215a5416ef82666449137c",
+                        "name": "3448597812977494.jpg",
+                        "url": "/var/media/x7xxx/xx4xx/xxx9x/xxxx4/3448597812977494.jpg",
+                        "image": {
+                            "width": 672,
+                            "height": 960
+                        },
+                        "ext": ".jpg",
+                        "mime": "image/jpeg",
+                        "id": 810001,
+                        "size": 131022
+                    },
+                    "description_short": "In trendigem Karodesign in drei Farbstellungen. Mit kontrastfarbenem Tunnelzugbund. Aus angenehm weichem Single-Jersey aus 100% Baumwolle.",
+                    "id": 233530
+                },
+                {
+                    "name": "Short mit Gürtel Herren",
+                    "description_long": "",
+                    "sale": true,
+                    "max_price": 7495,
+                    "brand_id": 422,
+                    "default_variant": {
+                        "ean": "4250317956255",
+                        "default": false,
+                        "price": 7495,
+                        "old_price": 8495,
+                        "images": [
+                            {
+                                "hash": "9f76e43d68016f4e8a2721fe8f60cfe0",
+                                "name": "329247202378355.jpg",
+                                "url": "/var/media/x8xxx/xx3xx/xxx5x/xxxx5/329247202378355.jpg",
+                                "image": {
+                                    "width": 355,
+                                    "height": 475
+                                },
+                                "ext": ".jpg",
+                                "mime": "image/jpeg",
+                                "id": 792997,
+                                "size": 48331
+                            }
+                        ],
+                        "attributes": {
+                            "attributes_2": [
+                                57
+                            ],
+                            "attributes_0": [
+                                422
+                            ],
+                            "attributes_1": [
+                                1
+                            ]
+                        },
+                        "retail_price": 0,
+                        "id": 4772808,
+                        "quantity": 5
+                    },
+                    "min_price": 7495,
+                    "default_image": {
+                        "hash": "9f76e43d68016f4e8a2721fe8f60cfe0",
+                        "name": "329247202378355.jpg",
+                        "url": "/var/media/x8xxx/xx3xx/xxx5x/xxxx5/329247202378355.jpg",
+                        "image": {
+                            "width": 355,
+                            "height": 475
+                        },
+                        "ext": ".jpg",
+                        "mime": "image/jpeg",
+                        "id": 792997,
+                        "size": 48331
+                    },
+                    "description_short": "Kaporal 5 Leicht knittrige Cargoshorts in lässigem Schnitt; inklusive Gürtel; 2 Einschubtaschen und kleiner Scull-Print vorne, 2 Cargotaschen am Bein und 2 Klappentaschen am Gesäß; 52cm/Gr. 32; 100% Baumwolle.",
+                    "id": 226430
+                },
+                {
+                    "name": "Shopper, Chiemsee",
+                    "description_long": "Shopper, Chiemsee. Aus Polyester. RV-Hauptfach, RV-Vortasche, RV-Innentasche. Abnehmbarer Umhängeriemen. Herausnehmbares Netbookfach mit Organizer und Trinkflaschenhalterung. Gr. ca. 43,5/35/18,5 cm. Vol. ca. 15 l.",
+                    "sale": false,
+                    "max_price": 4999,
+                    "brand_id": 316,
+                    "default_variant": {
+                        "ean": "4047216991537",
+                        "default": false,
+                        "price": 4999,
+                        "old_price": 0,
+                        "images": [
+                            {
+                                "hash": "dd5af8f3ac750ca89c66a9d1f18cf792",
+                                "name": "3568865632670794.jpg",
+                                "url": "/var/media/x0xxx/xx7xx/xxx9x/xxxx4/3568865632670794.jpg",
+                                "image": {
+                                    "width": 678,
+                                    "height": 960
+                                },
+                                "ext": ".jpg",
+                                "mime": "image/jpeg",
+                                "id": 799733,
+                                "size": 449689
+                            }
+                        ],
+                        "attributes": {
+                            "attributes_0": [
+                                316
+                            ],
+                            "attributes_1": [
+                                580
+                            ]
+                        },
+                        "retail_price": 0,
+                        "id": 4784952,
+                        "quantity": 999
+                    },
+                    "min_price": 4999,
+                    "default_image": {
+                        "hash": "dd5af8f3ac750ca89c66a9d1f18cf792",
+                        "name": "3568865632670794.jpg",
+                        "url": "/var/media/x0xxx/xx7xx/xxx9x/xxxx4/3568865632670794.jpg",
+                        "image": {
+                            "width": 678,
+                            "height": 960
+                        },
+                        "ext": ".jpg",
+                        "mime": "image/jpeg",
+                        "id": 799733,
+                        "size": 449689
+                    },
+                    "description_short": "Shopper, Chiemsee. Aus Polyester. RV-Hauptfach, RV-Vortasche, RV-Innentasche. Abnehmbarer Umhängeriemen. Herausnehmbares Netbookfach mit Organizer und Trinkflaschenhalterung. Gr. ca. 43,5/35/18,5 cm. Vol. ca. 15 l.",
+                    "id": 228856
+                }
+            ],
+            "categories": [
+                {
+                    "active": true,
+                    "position": 1,
+                    "name": "Shopper",
+                    "parent": 18219,
+                    "id": 18220
+                },
+                {
+                    "active": true,
+                    "position": 1,
+                    "name": "Shopper",
+                    "parent": 18722,
+                    "id": 18723
+                },
+                {
+                    "active": true,
+                    "position": 1,
+                    "name": "Shopper",
+                    "parent": 16220,
+                    "id": 16221
+                },
+                {
+                    "active": true,
+                    "position": 1,
+                    "name": "Shorts",
+                    "parent": 16126,
+                    "id": 16127
+                },
+                {
+                    "active": true,
+                    "position": 2,
+                    "name": "Shorts",
+                    "parent": 16270,
+                    "id": 16272
+                },
+                {
+                    "active": true,
+                    "position": 1,
+                    "name": "Shorts",
+                    "parent": 18115,
+                    "id": 18116
+                },
+                {
+                    "active": true,
+                    "position": 1,
+                    "name": "Shorts",
+                    "parent": 18366,
+                    "id": 18367
+                },
+                {
+                    "active": true,
+                    "position": 1,
+                    "name": "Shorts",
+                    "parent": 18408,
+                    "id": 18409
+                },
+                {
+                    "active": true,
+                    "position": 3,
+                    "name": "Shorts",
+                    "parent": 16311,
+                    "id": 16314
+                },
+                {
+                    "active": true,
+                    "position": 1,
+                    "name": "Shorts",
+                    "parent": 16353,
+                    "id": 16354
+                }
+            ]
+        }
+    }
+]

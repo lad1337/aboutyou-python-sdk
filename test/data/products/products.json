@@ -1,0 +1,17 @@
+[
+    {
+        "products": {
+            "pageHash": "c7bd6a9a-2f13-40f0-b924-12691816b9cf",
+            "ids": {
+                "123": {
+                    "name": "Product 1",
+                    "id": 123
+                },
+                "456": {
+                    "name": "Product 2",
+                    "id": 456
+                }
+            }
+        }
+    }
+]

@@ -1,0 +1,21 @@
+[{
+        "basket": {
+            "total_price": 0,
+            "total_net": 0,
+            "total_vat": 0,
+            "products": {},
+            "order_lines": [
+                {
+                    "total_price": 0,
+                    "product_id": 0,
+                    "error_message": "variant not found",
+                    "tax": 0,
+                    "total_net": 0,
+                    "total_vat": 0,
+                    "variant_id": 226651,
+                    "error_code": 404,
+                    "id": "i_cc0c73c7-12e2-4c46-8d1f-ffbdf62a746e"
+                }
+            ]
+        }
+    }]

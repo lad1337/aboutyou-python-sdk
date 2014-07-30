@@ -1,0 +1,716 @@
+[
+    {
+        "facets": {
+            "facet": [
+                {
+                    "name": "01",
+                    "facet_id": 2353,
+                    "id": 206,
+                    "value": "01",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "04",
+                    "facet_id": 2356,
+                    "id": 206,
+                    "value": "04",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "06",
+                    "facet_id": 2358,
+                    "id": 206,
+                    "value": "06",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "08",
+                    "facet_id": 2360,
+                    "id": 206,
+                    "value": "08",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "10",
+                    "facet_id": 2362,
+                    "id": 206,
+                    "value": "10",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "12",
+                    "facet_id": 2364,
+                    "id": 206,
+                    "value": "12",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "14",
+                    "facet_id": 2366,
+                    "id": 206,
+                    "value": "14",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "16",
+                    "facet_id": 2368,
+                    "id": 206,
+                    "value": "16",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "32",
+                    "facet_id": 2384,
+                    "id": 206,
+                    "value": "32",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "33",
+                    "facet_id": 2385,
+                    "id": 206,
+                    "value": "33",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "37",
+                    "facet_id": 2389,
+                    "id": 206,
+                    "value": "37",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "36",
+                    "facet_id": 2388,
+                    "id": 206,
+                    "value": "36",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "38",
+                    "facet_id": 2390,
+                    "id": 206,
+                    "value": "38",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "39",
+                    "facet_id": 2391,
+                    "id": 206,
+                    "value": "39",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "40",
+                    "facet_id": 2392,
+                    "id": 206,
+                    "value": "40",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "41",
+                    "facet_id": 2393,
+                    "id": 206,
+                    "value": "41",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "42",
+                    "facet_id": 2394,
+                    "id": 206,
+                    "value": "42",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "43",
+                    "facet_id": 2395,
+                    "id": 206,
+                    "value": "43",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "44",
+                    "facet_id": 2396,
+                    "id": 206,
+                    "value": "44",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "45",
+                    "facet_id": 2397,
+                    "id": 206,
+                    "value": "45",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "48",
+                    "facet_id": 2400,
+                    "id": 206,
+                    "value": "48",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "50",
+                    "facet_id": 2402,
+                    "id": 206,
+                    "value": "50",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "51",
+                    "facet_id": 2403,
+                    "id": 206,
+                    "value": "51",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "54",
+                    "facet_id": 2406,
+                    "id": 206,
+                    "value": "54",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "55",
+                    "facet_id": 2407,
+                    "id": 206,
+                    "value": "55",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "56",
+                    "facet_id": 2408,
+                    "id": 206,
+                    "value": "56",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "57",
+                    "facet_id": 2409,
+                    "id": 206,
+                    "value": "57",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "58",
+                    "facet_id": 2410,
+                    "id": 206,
+                    "value": "58",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "59",
+                    "facet_id": 2411,
+                    "id": 206,
+                    "value": "59",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "62",
+                    "facet_id": 2414,
+                    "id": 206,
+                    "value": "62",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "63",
+                    "facet_id": 2415,
+                    "id": 206,
+                    "value": "63",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "66",
+                    "facet_id": 2418,
+                    "id": 206,
+                    "value": "66",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "67",
+                    "facet_id": 2419,
+                    "id": 206,
+                    "value": "67",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "69",
+                    "facet_id": 2421,
+                    "id": 206,
+                    "value": "69",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "68",
+                    "facet_id": 2420,
+                    "id": 206,
+                    "value": "68",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "70",
+                    "facet_id": 2422,
+                    "id": 206,
+                    "value": "70",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "71",
+                    "facet_id": 2423,
+                    "id": 206,
+                    "value": "71",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "73",
+                    "facet_id": 2425,
+                    "id": 206,
+                    "value": "73",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "72",
+                    "facet_id": 2424,
+                    "id": 206,
+                    "value": "72",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "74",
+                    "facet_id": 2426,
+                    "id": 206,
+                    "value": "74",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "75",
+                    "facet_id": 2427,
+                    "id": 206,
+                    "value": "75",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "80",
+                    "facet_id": 2432,
+                    "id": 206,
+                    "value": "80",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "81",
+                    "facet_id": 2433,
+                    "id": 206,
+                    "value": "81",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "82",
+                    "facet_id": 2434,
+                    "id": 206,
+                    "value": "82",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "83",
+                    "facet_id": 2435,
+                    "id": 206,
+                    "value": "83",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "84",
+                    "facet_id": 2436,
+                    "id": 206,
+                    "value": "84",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "85",
+                    "facet_id": 2437,
+                    "id": 206,
+                    "value": "85",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "86",
+                    "facet_id": 2438,
+                    "id": 206,
+                    "value": "86",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "87",
+                    "facet_id": 2439,
+                    "id": 206,
+                    "value": "87",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "96",
+                    "facet_id": 2448,
+                    "id": 206,
+                    "value": "96",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "97",
+                    "facet_id": 2449,
+                    "id": 206,
+                    "value": "97",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "98",
+                    "facet_id": 2450,
+                    "id": 206,
+                    "value": "98",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "99",
+                    "facet_id": 2451,
+                    "id": 206,
+                    "value": "99",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "00",
+                    "facet_id": 2352,
+                    "id": 206,
+                    "value": "00",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "02",
+                    "facet_id": 2354,
+                    "id": 206,
+                    "value": "02",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "03",
+                    "facet_id": 2355,
+                    "id": 206,
+                    "value": "03",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "05",
+                    "facet_id": 2357,
+                    "id": 206,
+                    "value": "05",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "07",
+                    "facet_id": 2359,
+                    "id": 206,
+                    "value": "07",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "09",
+                    "facet_id": 2361,
+                    "id": 206,
+                    "value": "09",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "11",
+                    "facet_id": 2363,
+                    "id": 206,
+                    "value": "11",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "13",
+                    "facet_id": 2365,
+                    "id": 206,
+                    "value": "13",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "15",
+                    "facet_id": 2367,
+                    "id": 206,
+                    "value": "15",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "17",
+                    "facet_id": 2369,
+                    "id": 206,
+                    "value": "17",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "18",
+                    "facet_id": 2370,
+                    "id": 206,
+                    "value": "18",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "19",
+                    "facet_id": 2371,
+                    "id": 206,
+                    "value": "19",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "20",
+                    "facet_id": 2372,
+                    "id": 206,
+                    "value": "20",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "21",
+                    "facet_id": 2373,
+                    "id": 206,
+                    "value": "21",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "22",
+                    "facet_id": 2374,
+                    "id": 206,
+                    "value": "22",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "23",
+                    "facet_id": 2375,
+                    "id": 206,
+                    "value": "23",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "24",
+                    "facet_id": 2376,
+                    "id": 206,
+                    "value": "24",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "25",
+                    "facet_id": 2377,
+                    "id": 206,
+                    "value": "25",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "26",
+                    "facet_id": 2378,
+                    "id": 206,
+                    "value": "26",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "27",
+                    "facet_id": 2379,
+                    "id": 206,
+                    "value": "27",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "28",
+                    "facet_id": 2380,
+                    "id": 206,
+                    "value": "28",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "29",
+                    "facet_id": 2381,
+                    "id": 206,
+                    "value": "29",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "30",
+                    "facet_id": 2382,
+                    "id": 206,
+                    "value": "30",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "31",
+                    "facet_id": 2383,
+                    "id": 206,
+                    "value": "31",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "34",
+                    "facet_id": 2386,
+                    "id": 206,
+                    "value": "34",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "35",
+                    "facet_id": 2387,
+                    "id": 206,
+                    "value": "35",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "46",
+                    "facet_id": 2398,
+                    "id": 206,
+                    "value": "46",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "47",
+                    "facet_id": 2399,
+                    "id": 206,
+                    "value": "47",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "49",
+                    "facet_id": 2401,
+                    "id": 206,
+                    "value": "49",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "52",
+                    "facet_id": 2404,
+                    "id": 206,
+                    "value": "52",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "53",
+                    "facet_id": 2405,
+                    "id": 206,
+                    "value": "53",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "61",
+                    "facet_id": 2413,
+                    "id": 206,
+                    "value": "61",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "60",
+                    "facet_id": 2412,
+                    "id": 206,
+                    "value": "60",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "64",
+                    "facet_id": 2416,
+                    "id": 206,
+                    "value": "64",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "65",
+                    "facet_id": 2417,
+                    "id": 206,
+                    "value": "65",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "76",
+                    "facet_id": 2428,
+                    "id": 206,
+                    "value": "76",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "77",
+                    "facet_id": 2429,
+                    "id": 206,
+                    "value": "77",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "78",
+                    "facet_id": 2430,
+                    "id": 206,
+                    "value": "78",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "79",
+                    "facet_id": 2431,
+                    "id": 206,
+                    "value": "79",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "88",
+                    "facet_id": 2440,
+                    "id": 206,
+                    "value": "88",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "89",
+                    "facet_id": 2441,
+                    "id": 206,
+                    "value": "89",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "90",
+                    "facet_id": 2442,
+                    "id": 206,
+                    "value": "90",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "91",
+                    "facet_id": 2443,
+                    "id": 206,
+                    "value": "91",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "93",
+                    "facet_id": 2445,
+                    "id": 206,
+                    "value": "93",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "92",
+                    "facet_id": 2444,
+                    "id": 206,
+                    "value": "92",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "94",
+                    "facet_id": 2446,
+                    "id": 206,
+                    "value": "94",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "95",
+                    "facet_id": 2447,
+                    "id": 206,
+                    "value": "95",
+                    "group_name": "size_code"
+                },
+                {
+                    "name": "100",
+                    "facet_id": 2452,
+                    "id": 206,
+                    "value": "100",
+                    "group_name": "size_code"
+                }
+            ],
+            "hits": 101
+        }
+    }
+]
