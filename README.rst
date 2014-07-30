@@ -10,11 +10,11 @@ A Python implementation for the AboutYou shop API.
 Installation
 ------------
 
-Install the package via PIP:
+Install the package via PIP::
 
     $ pip install aboutyou
 
-Or checkout the most recent version:
+Or checkout the most recent version::
 
     $ git clone https://bitbucket.org/slicedice/aboutyou-shop-sdk-python.git
     $ cd aboutyou-shop-sdk-python
@@ -27,15 +27,14 @@ Quick Start
 1. Register for an account at the [AboutYou Devcenter](https://developer.aboutyou.de/) and create a new app.
    You will be given credentials to utilize the About You API.
 2. Modifiy one of the example credential files.
-3. Use the following lines
+3. Use the following lines::
 
-~~~
-from aboutyou.config import YAMLCredentials
-from aboutyou.shop import ShopApi
+    from aboutyou.config import YAMLCredentials
+    from aboutyou.shop import ShopApi
 
-shop = ShopApi(YAMLCredentials('mycredentials.yml'))
-cagtegory_forest = shop.categories()
-~~~
+    shop = ShopApi(YAMLCredentials('mycredentials.yml'))
+    cagtegory_forest = shop.categories()
+
 
 
 Documentation
