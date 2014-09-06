@@ -24,7 +24,6 @@ setup(
     name='aboutyou',
     packages=['aboutyou', 'aboutyou.django'],
     version=version(),
-    install_requires=['pylibmc>=1.3.0', 'PyYAML'],
     description='A connection to the aboutyou.de shop.',
     long_description=long_description,
     author='Arne Simon',
