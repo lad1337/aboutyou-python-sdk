@@ -26,6 +26,7 @@ setup(
     version=version(),
     description='A connection to the aboutyou.de shop.',
     long_description=long_description,
+    install_requires=['requests'],
     author='Arne Simon',
     author_email='arne.simon@slice-dice.de',
     license='MIT',
