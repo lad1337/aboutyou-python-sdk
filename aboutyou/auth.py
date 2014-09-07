@@ -140,7 +140,11 @@ class Auth(object):
 
         sign = encode_payload(payload, self.credentials.app_secret, salt, 'HS256')
 
-        return self.config.shop_url + "?app_id=" + self.credentials.app_id + "&asr=" + sign
+        return "{config.shop_url}?app_id={credentials.app_id}&asr={sign}".format(
+            config=self.config,
+            credentials=self.credentials,
+            sign=sign
+        )
 
     def access_token(self, grant_code, redirect_uri):
         """
