@@ -116,7 +116,7 @@ class Auth(object):
         self.config = config
         self.states = {}
 
-    def login_url(self, redirect, scope='firstname', popup=False):
+    def login_url(self, redirect_uri, scope='firstname', popup=False):
         """
         Returns this the url which provieds a user login.
         """
@@ -127,7 +127,7 @@ class Auth(object):
         payload = {
             "app_id": int(self.credentials.app_id),
             "info": "python_auth_sdk_{}".format(self.credentials.app_id),
-            "redirect_uri": redirect,
+            "redirect_uri": redirect_uri,
             "scope": 'firstname',
             "popup": popup,
             'response_type': 'code',
