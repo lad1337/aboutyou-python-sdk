@@ -92,7 +92,7 @@ class Config(object):
               "image_url": "http://cdn.mary-paul.de/file/{}",
               "product_url": "http://www.aboutyou.de/{}",
               "shop_url": "https://checkout.aboutyou.de/",
-              "javascript_url":  "http://devcenter.dev/appjs/{}.js",
+              "javascript_url":  "https://developer.aboutyou.de/appjs/{}.js",
               "resource_url": "https://oauth.collins.kg/oauth",
               "auto_fetch": True,
               "cache": None,
